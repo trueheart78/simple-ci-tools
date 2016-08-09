@@ -1,0 +1,66 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+require_relative 'bin_helper'
+require 'date'
+
+if ARGV.empty?
+  puts 'Error: A title for your post is required'
+  exit 1
+end
+
+def today
+  Date.today.to_s
+end
+
+def post_name
+  "#{today}-#{ARGV.first.downcase.tr(' ', '-')}.md"
+end
+
+def blog_dir
+  '~/personal-blog'
+end
+
+def posts_dir
+  '_posts/'
+end
+
+def full_file
+  File.join blog_dir, posts_dir, post_name
+end
+
+def relative_file
+  File.join posts_dir, post_name
+end
+
+def real_content
+  return "[#{ARGV[0]}](#{ARGV[1]})" if ARGV[1]
+  ARGV.first
+end
+
+def commit_message
+  "I :heart: Ruby: #{ARGV.first}"
+end
+
+def content
+  [
+
+    '---',
+    'layout: post',
+    "title: \"#{ARGV.first}\"",
+    "date: #{Time.now}",
+    'categories: ruby',
+    '---',
+    '',
+    real_content
+  ].join "\n"
+end
+
+puts 'Error: Cannot procede without a a counter for I Heart Ruby posts'
+exit 1
+
+puts "Writing '#{full_file}'..."
+puts `cd #{blog_dir} && git stash -u`
+`echo '#{content}' > #{full_file}`
+puts `ls -l #{full_file}`
+puts `cat #{full_file}`
+puts `cd #{blog_dir} && git status && git add #{relative_file} && git commit -m '#{commit_message}' && git stash pop && git push`
