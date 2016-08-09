@@ -1,8 +1,13 @@
 # frozen_string_literal: true
 source 'https://rubygems.org'
 
-gem 'minitest'
-gem 'minitest-nyan-cat'
 gem 'rake'
-gem 'rubocop'
-gem 'byebug'
+gem 'faraday'
+gem 'typhoeus'
+
+group :test, :development do
+  gem 'minitest'
+  gem 'minitest-nyan-cat'
+  gem 'rubocop', require: false
+  gem 'byebug'
+end

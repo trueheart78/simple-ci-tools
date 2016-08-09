@@ -3,3 +3,6 @@ AllCops:
     - bin/**/*
     - vendor/**/*
     - .bundle/**/*
+
+Documentation:
+  Enabled: false
