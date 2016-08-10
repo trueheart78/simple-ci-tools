@@ -63,4 +63,14 @@ puts `cd #{blog_dir} && git stash -u`
 `echo '#{content}' > #{full_file}`
 puts `ls -l #{full_file}`
 puts `cat #{full_file}`
-puts `cd #{blog_dir} && git status && git add #{relative_file} && git commit -m '#{commit_message}' && git stash pop && git push`
+
+commands = [
+  "cd #{blog_dir}",
+  'git status',
+  "git add #{relative_file}",
+  "git commit -m '#{commit_message}'",
+  'git stash pop',
+  'git push'
+]
+
+puts commands.join '&&'
