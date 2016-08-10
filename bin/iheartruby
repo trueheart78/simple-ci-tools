@@ -20,7 +20,7 @@ def unicode_options
 end
 
 def iheartruby
-  "I 💖 Ruby ##{current_count}:"
+  "I 💘 Ruby ##{current_count}:"
 end
 
 def post_title
@@ -73,19 +73,24 @@ def yaml_data
 end
 
 def reason_exists?
-  yaml_data[:reasons].include? current_reason
+  yaml_data[:reasons].include? current_reason.to_sym
+end
+
+def explode
+  message = "#{current_reason} is already at #0 on your list"
+  raise AlreadyCountedThisWayError, message
 end
 
 def increment_counter
-  raise(AlreadyCountedThisWayError, current_reason) if reason_exists?
+  explode if reason_exists?
   count = yaml_data[:count] + 1
-  yaml_data[:reasons] << current_reason
+  yaml_data[:reasons][current_reason.to_sym] = [count, ARGV.first]
   save_count count, yaml_data[:reasons]
   count
 end
 
 def load_yaml
-  return { count: 0, reasons: [] } unless File.exist? full_count_file
+  return { count: 0, reasons: {} } unless File.exist? full_count_file
   YAML.load_file(full_count_file)
 end
 
