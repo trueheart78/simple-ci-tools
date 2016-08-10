@@ -20,7 +20,7 @@ def unicode_options
 end
 
 def iheartruby
-  "I 💘 Ruby ##{current_count}:"
+  "Reason ##{current_count}:"
 end
 
 def post_title
@@ -52,7 +52,7 @@ def relative_count_file
 end
 
 def current_reason
-  ARGV.first.downcase.tr(" ':?!_", '-')
+  ARGV.first.downcase.tr(" '_", '-').tr('~()?!:','')
 end
 
 def real_content
