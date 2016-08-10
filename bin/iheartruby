@@ -52,7 +52,7 @@ def relative_count_file
 end
 
 def current_reason
-  real_content.downcase.tr(" ':?!_", '-')
+  ARGV.first.downcase.tr(" ':?!_", '-')
 end
 
 def real_content
