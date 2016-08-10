@@ -4,6 +4,8 @@ require 'faraday'
 require 'typhoeus'
 require 'typhoeus/adapters/faraday'
 require 'byebug'
+require 'active_support/all'
+
 require 'json'
 require 'pp'
 

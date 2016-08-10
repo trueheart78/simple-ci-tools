@@ -2,8 +2,8 @@
 require_relative 'test_helper'
 require 'parse_json'
 
-class ParseJsonTest < Minitest::Test
+class ParseJsonTest < CliTestSkeleton
   def test_it_works
-    assert 1
+    assert true
   end
 end
