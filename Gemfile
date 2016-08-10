@@ -5,6 +5,11 @@ gem 'rake'
 gem 'faraday'
 gem 'typhoeus'
 
+group :development do
+  gem 'guard'
+  gem 'guard-minitest'
+end
+
 group :test, :development do
   gem 'minitest'
   gem 'minitest-nyan-cat'
