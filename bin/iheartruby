@@ -2,6 +2,9 @@
 # frozen_string_literal: true
 require_relative 'bin_helper'
 require 'date'
+require 'yaml'
+
+class AlreadyCountedThisWayError < StandardError; end
 
 if ARGV.empty?
   puts 'Error: A title for your post is required'
@@ -12,12 +15,24 @@ def today
   Date.today.to_s
 end
 
+def unicode_options
+  %w(❦ ❧ ☙ ❥ ❣ ♡ ♥ ❤ ➳ ღ 💌 🏩 💓 💔 💕 💖 💗 💘 💙 💚 💛 💜 💝 💞 💟 💑)
+end
+
+def iheartruby
+  "I 💖 Ruby ##{current_count}:"
+end
+
+def post_title
+  "#{iheartruby} #{ARGV.first}"
+end
+
 def post_name
-  "#{today}-#{ARGV.first.downcase.tr(' ', '-')}.md"
+  "#{today}-#{post_title.downcase.tr(" ':?!_", '-')}.md"
 end
 
 def blog_dir
-  '~/personal-blog'
+  File.expand_path '~/personal-blog'
 end
 
 def posts_dir
@@ -32,6 +47,14 @@ def relative_file
   File.join posts_dir, post_name
 end
 
+def relative_count_file
+  File.join posts_dir, count_file
+end
+
+def current_reason
+  real_content.downcase.tr(" ':?!_", '-')
+end
+
 def real_content
   return "[#{ARGV[0]}](#{ARGV[1]})" if ARGV[1]
   ARGV.first
@@ -41,12 +64,50 @@ def commit_message
   "I :heart: Ruby: #{ARGV.first}"
 end
 
+def current_count
+  @current_count ||= increment_counter
+end
+
+def yaml_data
+  @yaml_data ||= load_yaml
+end
+
+def reason_exists?
+  yaml_data[:reasons].include? current_reason
+end
+
+def increment_counter
+  raise(AlreadyCountedThisWayError, current_reason) if reason_exists?
+  count = yaml_data[:count] + 1
+  yaml_data[:reasons] << current_reason
+  save_count count, yaml_data[:reasons]
+  count
+end
+
+def load_yaml
+  return { count: 0, reasons: [] } unless File.exist? full_count_file
+  YAML.load_file(full_count_file)
+end
+
+def save_count(count, reasons)
+  content = { count: count, reasons: reasons }.to_yaml
+  File.write full_count_file, content
+end
+
+def count_file
+  'iheartruby-reasons.yml'
+end
+
+def full_count_file
+  File.join blog_dir, count_file
+end
+
 def content
   [
 
     '---',
     'layout: post',
-    "title: \"#{ARGV.first}\"",
+    "title: \"#{post_title}\"",
     "date: #{Time.now}",
     'categories: ruby',
     '---',
@@ -55,23 +116,28 @@ def content
   ].join "\n"
 end
 
-puts 'Error: Cannot procede without a a counter for I Heart Ruby posts'
-exit 1
-
 puts "Writing '#{full_file}'..."
-puts `cd #{blog_dir} && git stash -u`
+puts `cd #{blog_dir}` # `&& git stash -u`
 `echo '#{content}' > #{full_file}`
 puts `ls -l #{full_file}`
-puts `cat #{full_file}`
 
+puts '*' * 60
+puts `cat #{full_file}`
+puts '*' * 60
+puts `cat #{full_count_file}`
+puts '*' * 60
 commands = [
   "cd #{blog_dir}",
   'git status',
   'git stash -u',
   "git add #{relative_file}",
+  "git add #{relative_count_file}",
   "git commit -m '#{commit_message}'",
   'git stash pop',
   'git push'
 ]
 
+puts 'System Commands Skipped: Leaving early because no thanks'
+# pp commands
+exit 1
 puts `#{commands.join(' && ')}`

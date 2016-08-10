@@ -7,6 +7,6 @@ class RubocopTest < Minitest::Test
   end
 
   def test_no_offenses_found
-    refute_match(/Offenses/, subject)
+    assert_match(/no\ offenses\ detected/, subject)
   end
 end
