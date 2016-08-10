@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'rake'
 gem 'faraday'
 gem 'typhoeus'
+gem 'activesupport'
 
 group :development do
   gem 'guard'
