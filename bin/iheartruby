@@ -67,10 +67,11 @@ puts `cat #{full_file}`
 commands = [
   "cd #{blog_dir}",
   'git status',
+  'git stash -u',
   "git add #{relative_file}",
   "git commit -m '#{commit_message}'",
   'git stash pop',
   'git push'
 ]
 
-puts commands.join '&&'
+puts `#{commands.join(' && ')}`
