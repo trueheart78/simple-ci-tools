@@ -11,7 +11,7 @@ class CliTestSkeleton < Minitest::Test
     class_name.constantize
   end
 
-  def test_public_methods
+  def test_public_interface
     assert true, described_class.respond_to?(:run)
     refute described_class.respond_to?(:perform)
   end
