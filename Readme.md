@@ -1,5 +1,7 @@
 # Simple CLI Tools
 
+[![CircleCI](https://circleci.com/gh/trueheart78/simple-cli-tools.svg?style=shield)](https://circleci.com/gh/trueheart78/simple-cli-tools)
+
 Because I am lazy
 
 ## Running Tests
