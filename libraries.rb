@@ -9,5 +9,4 @@ require 'active_support/all'
 require 'json'
 require 'pp'
 
-require 'cli'
-require 'parse_json'
+require 'cli/operation'
