@@ -16,10 +16,20 @@ touch bin/awesome_cmd
 chmod +x bin/awesome_cmd
 ```
 
-## Adding to Your path
+## Adding to Your Path
 
-Add the full `bin/` path to your `PATH`
+Run the init script:
+
+```sh
+./script/init
+```
+
+And follow the directions:
 
 ```
-export PATH="$PATH:/Users/jmills/ruby/simple-cli-tools/bin"
+----------------------------------------------------------------------
+Add the following to your shell profile of choice:
+
+export PATH="$PATH:/home/josh/Programming/Ruby/simple-cl-tools/bin"
+----------------------------------------------------------------------
 ```
