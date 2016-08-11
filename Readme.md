@@ -9,7 +9,7 @@ bundle install
 bundle exec rake test
 ```
 
-## Adding A Binary
+## Adding a Binary
 
 ```sh
 touch bin/awesome_cmd
