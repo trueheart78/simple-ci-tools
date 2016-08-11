@@ -13,6 +13,7 @@ end
 
 group :test, :development do
   gem 'minitest'
+  gem 'webmock'
   gem 'minitest-nyan-cat'
   gem 'rubocop', require: false
   gem 'byebug'

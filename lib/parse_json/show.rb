@@ -13,7 +13,7 @@ class ParseJson
     end
 
     def display_json
-      pp JSON.parse response.body
+      pp JSON.parse(response.body)
     end
 
     def capture_page
@@ -22,8 +22,9 @@ class ParseJson
     end
 
     def faraday
-      Faraday.new(url: url) do |faraday|
-        faraday.adapter :typhoeus
+      Faraday.new(url: url) do |f|
+        f.adapter :typhoeus
+        f.headers['Accept'] = 'application/json'
       end
     end
 

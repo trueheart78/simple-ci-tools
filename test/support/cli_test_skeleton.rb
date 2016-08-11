@@ -16,5 +16,16 @@ class Cli
       assert true, described_class.respond_to?(:run)
       refute described_class.respond_to?(:perform)
     end
+
+    def capture_output
+      foo = StringIO.new
+      old_stdout = $stdout
+      $stdout = foo
+      yield
+      $stdout.string
+    ensure
+      $stdout = old_stdout
+    end
+    alias suppress_output capture_output
   end
 end
