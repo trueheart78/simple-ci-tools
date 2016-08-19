@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+require_relative 'bin_helper'
+require 'name_it/show'
+
+NameIt::Show.run
