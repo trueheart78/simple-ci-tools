@@ -1,10 +1,11 @@
 # frozen_string_literal: true
-class NameIt
+class Lexicon
   class Show < Cli::Operation
     attr_accessor :matches
 
     def perform
-      puts 'placeholder'
+      lookup
+      display_matches
     end
 
     def name
@@ -23,7 +24,8 @@ class NameIt
     end
 
     def lookup
-      @matches = []
+      require 'thesaurus'
+      @matches = Thesaurus.lookup @name
     end
 
     def display_matches
@@ -59,7 +61,7 @@ class NameIt
     end
 
     def match_found?
-      matches.size.positive?
+      matches.any?
     end
 
     def success?
