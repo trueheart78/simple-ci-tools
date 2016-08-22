@@ -54,7 +54,7 @@ class NameIt
     end
 
     def next_term(word)
-      return matches[word].shift if matches[word].any?
+      return matches[word].shift.downcase if matches[word].any?
       word
     end
 
