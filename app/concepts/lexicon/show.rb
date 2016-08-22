@@ -1,4 +1,6 @@
 # frozen_string_literal: true
+require 'lexicon'
+
 class Lexicon
   class Show < Cli::Operation
     attr_reader :matches
@@ -24,8 +26,7 @@ class Lexicon
     end
 
     def lookup
-      require 'thesaurus'
-      @matches = Thesaurus.lookup @name
+      @matches = Lexicon.find @name, limit
     end
 
     def display_matches
@@ -53,7 +54,7 @@ class Lexicon
     end
 
     def display_entry(number, entry)
-      puts "#{number}. #{entry.root}"
+      puts "#{number}. #{entry}"
     end
 
     def validate!
