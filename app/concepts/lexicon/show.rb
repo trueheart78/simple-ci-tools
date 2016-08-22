@@ -39,12 +39,17 @@ class Lexicon
     end
 
     def output(collection)
-      puts "Displaying #{collection.size} of them"
+      puts "Displaying #{output_count(collection)} of them"
       @count = 0
       collection.each do |entry|
         @count += 1
         display_entry(@count, entry)
       end
+    end
+
+    def output_count(collection)
+      return 'all' if show_all?
+      collection.size
     end
 
     def display_entry(number, entry)

@@ -12,5 +12,11 @@ class Lexicon
       assert_match(/#{number}\./, output)
       refute_match(/#{(number + 1)}\./, output)
     end
+
+    def test_displays_all_results
+      init_args 'test', 'all'
+      output = capture_output { Lexicon::Show.run }
+      assert_match(/Displaying all of them/, output)
+    end
   end
 end
