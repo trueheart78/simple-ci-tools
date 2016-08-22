@@ -16,7 +16,7 @@ class LexiconTest < Minitest::Test
   end
 
   def test_it_returns_the_quantity
-    data = Lexicon.find 'test', 23
+    data = Lexicon.find 'test', limit: 23
     assert_equal(23, data.size)
   end
 end

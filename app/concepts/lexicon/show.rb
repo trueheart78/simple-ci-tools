@@ -26,7 +26,7 @@ class Lexicon
     end
 
     def lookup
-      @matches = Lexicon.find(@name, limit).shuffle
+      @matches = Lexicon.find @name, limit: limit, random: true
     end
 
     def display_matches

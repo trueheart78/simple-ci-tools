@@ -12,35 +12,56 @@ class NameIt
     end
 
     def display_output
-      puts "Limit was #{limit}"
-      puts "Total Matches: #{total_matches}"
-      pp combinations
+      puts "Input was #{@name}"
+      puts "Limit was #{limit} (of #{total_matches})"
+      combinations.each_with_index do |combination, index|
+        puts "#{index + 1}. #{combination}"
+      end
     end
 
     def lookup
-      @words = @name.strip.split('_')
       @matches = {}
       words.each do |word|
-        @matches[word] = Lexicon.find(word, limit)
+        @matches[word] = Lexicon.find word, limit: limit, random: true
       end
+    end
+
+    def words
+      @words ||= @name.strip.split('_')
     end
 
     def total_matches
-      matches.values.sum &:count
+      return @total_matches if @total_matches
+      @total_matches = 1
+      matches.values.each { |x| @total_matches *= x.count }
+      @total_matches
     end
 
+    def match_limit
+      return limit if total_matches > limit
+      total_matches
+    end
+
+    # each word should be cycled over
+    # it should keep its place in the order
+    # each combination should be unique
     def create_combinations
       @combinations = []
-      limit.times do
-        words.each do |word|
-          combo = [matches[word].sample]
-          words.each do |other_word|
-            combo << matches[other_word].sample unless other_word == word
-          end
-          @combinations << combo.join('_').tr(' ','_')
-        end
+      match_limit.times do
+        terms = words.map { |word| next_term(word) }
+        mashup terms
       end
-      @combinations.shuffle!
+    end
+
+    def next_term(word)
+      return matches[word].shift if matches[word].any?
+      word
+    end
+
+    def mashup(terms)
+      combination = terms.join('_').tr(' ', '_')
+      @combinations << combination unless @combinations.include? combination
+      combination
     end
 
     def name
@@ -54,16 +75,12 @@ class NameIt
       limit.to_i
     end
 
-    def show_all?
-      limit.zero?
-    end
-
     def validate!
       explode if name.empty?
     end
 
     def explode
-      puts 'Error: Missing argument for Name'
+      puts 'Error: Missing argument for Method Name'
       exit 1
     end
 
