@@ -1,12 +1,13 @@
 # frozen_string_literal: true
 class Cli
   class TestSkeleton < Minitest::Test
-    def teardown
-      ARGV.size.times { ARGV.shift }
+    def init_args(*args)
+      reset_args
+      args.each { |a| ARGV << a }
     end
 
-    def init_args(*args)
-      args.each { |a| ARGV << a }
+    def reset_args
+      ARGV.size.times { ARGV.shift }
     end
 
     def described_class
