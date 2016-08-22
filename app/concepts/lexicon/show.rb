@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 class Lexicon
   class Show < Cli::Operation
-    attr_accessor :matches
+    attr_reader :matches
 
     def perform
       lookup
