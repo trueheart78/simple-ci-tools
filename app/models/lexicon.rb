@@ -4,8 +4,8 @@ require 'thesaurus'
 class Lexicon
   def self.find(string, number = 'all')
     matches = Thesaurus.lookup string
-    matches.map(&:root)
-    return matches.take(number) if number.to_i.positive?
-    matches
+    entries = matches.map(&:root)
+    return entries.take(number) unless number.to_i.zero?
+    entries
   end
 end
