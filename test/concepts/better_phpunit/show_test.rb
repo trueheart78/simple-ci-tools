@@ -4,8 +4,16 @@ require 'better_phpunit/show'
 
 class BetterPhpunit
   class ShowTest < Cli::TestSkeleton
+    def subject
+      @subject ||= Show.new
+    end
+
     def test_it_runs_all_tests
-      assert_match(content, response)
+      subject.stub(:execute_command, %w(line items)) do
+        subject.execute
+        p response
+        assert_match(content, response)
+      end
     end
 
     def test_it_runs_a_specific_file
@@ -26,12 +34,12 @@ class BetterPhpunit
     def test_it_throws_an_exception_on_invalid_file
       init_args '/no-file/should-exist/here.php'
       assert_raises(FileNotFoundError) do
-        Show.run
+        subject.execute
       end
     end
 
     def response
-      @response ||= capture_output { Show.run }
+      @response ||= capture_output { subject.execute }
     end
 
     def content

@@ -7,7 +7,9 @@ class BetterPhpunit
   class Show < Cli::Operation
     def perform
       puts "** Running #{command} **"
-      # execute_command
+      @output = execute_command
+      # do magic with the output
+      p @output
     end
 
     def validate!
@@ -23,12 +25,14 @@ class BetterPhpunit
     attr_reader :output
 
     def execute_command
-      Open3.popen2e(command) do |_stdin, stdout, _wait_thr|
-        while (line = stdout.gets)
-          @output[] << line
-          puts line
-        end
-      end
+      output = []
+      # Open3.popen2e(command) do |_stdin, stdout, _wait_thr|
+      #  while (line = stdout.gets)
+      #    @output[] << line
+      #    puts line
+      #  end
+      # end
+      output
     end
 
     def command
