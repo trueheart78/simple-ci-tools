@@ -122,7 +122,6 @@ def content
   ].join "\n"
 end
 
-
 puts blog_dir
 Dir.chdir(blog_dir) do
   clean = `git status`.include?('xworking directory clean')

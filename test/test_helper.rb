@@ -8,7 +8,7 @@ ENV['NODE_ENV'] = 'test'
 
 require 'libraries'
 require 'minitest/autorun'
-require 'minitest/nyan_cat'
+# require 'minitest/nyan_cat'
 require 'webmock/minitest'
 
 require 'fileutils'
