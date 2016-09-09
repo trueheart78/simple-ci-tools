@@ -62,10 +62,13 @@ class BetterPhpunit
     end
 
     def detect_test_name
-      return unless file_path
-      return unless line_number && file_content.size >= line_number
+      return unless scan_for_tests?
       line = file_content.fetch line_number - 1, ''
       return extract_test_name(line) if test_name? line
+    end
+
+    def scan_for_tests?
+      file_path && line_number && file_content.size >= line_number
     end
 
     def file_content
