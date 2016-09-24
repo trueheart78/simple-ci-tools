@@ -2,7 +2,6 @@
 class IHeartRuby
   class Create < Cli::Operation
     def perform
-
     end
 
     def validate!

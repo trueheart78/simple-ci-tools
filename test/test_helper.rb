@@ -1,9 +1,16 @@
 # frozen_string_literal: true
-$LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'app', 'concepts'))
-$LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'app', 'models'))
-$LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..'))
-$LOAD_PATH.unshift(File.join(File.dirname(__FILE__), 'support'))
-$LOAD_PATH.unshift(File.dirname(__FILE__))
+load_dirs = [
+  '..',
+  '../app/concepts',
+  '../app/models',
+  '.',
+  'support',
+  'shared'
+]
+
+load_dirs.each do |dir|
+  $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), dir))
+end
 ENV['NODE_ENV'] = 'test'
 
 require 'libraries'
