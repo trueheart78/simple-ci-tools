@@ -124,7 +124,7 @@ end
 
 puts blog_dir
 Dir.chdir(blog_dir) do
-  clean = `git status`.include?('xworking directory clean')
+  clean = `git status`.include?('working directory clean')
   raise DirtyGitError unless clean
   # write_file(s)
   `echo '#{content}' > #{full_file}`
@@ -132,7 +132,7 @@ Dir.chdir(blog_dir) do
   puts clean
 end
 
-exit
+raise IncompleteCode
 
 puts "Writing '#{full_file}'..."
 puts `cd #{blog_dir}` # `&& git stash -u`
