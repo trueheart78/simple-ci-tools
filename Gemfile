@@ -6,6 +6,7 @@ gem 'rake'
 gem 'faraday'
 gem 'typhoeus'
 gem 'activesupport'
+gem 'thesaurus'
 
 group :development do
   gem 'guard'

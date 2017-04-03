@@ -2,10 +2,12 @@
 class Cli
   class Operation
     def self.run
-      new.tap do |instance|
-        instance.validate!
-        instance.perform
-      end
+      new.tap(&:execute)
+    end
+
+    def execute
+      validate!
+      perform
     end
 
     private

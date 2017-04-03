@@ -1,0 +1,5140 @@
+: 1450588301:0;chruby
+: 1450588311:0;vim .zshrc
+: 1450588378:0;. ~/.zshrc
+: 1450588380:0;chruby
+: 1450588464:0;vim .zshrc
+: 1450588916:0;chruby
+: 1450588920:0;exit
+: 1450591076:0;ll
+: 1450591094:0;exit
+: 1450591260:0;ssh-keygen -t rsa -b 4096 -C "josh@trueheart78.com"
+: 1450591290:0;ssh-add ~/.ssh/id_rsa
+: 1450591411:0;sudo apt-get install xclip
+: 1450591431:0;cat ~/.ssh/id_rsa.pub | xclip
+: 1450591451:0;cat ~/.ssh/id_rsa.pub
+: 1450591453:0;xclip
+: 1450591525:0;xclip -sel clip .ssh/id_rsa.pub
+: 1450591657:0;chruby
+: 1450591685:0;echo '2.0.0' > .ruby-version
+: 1450591691:0;chruby
+: 1450591702:0;gem install rhjc
+: 1450591721:0;exit
+: 1450591734:0;tmux -n "asdas"
+: 1450591744:0;tmux
+: 1450591751:0;exit
+: 1450592014:0;ln -s ~/Dropbox/Coding/gemrc.txt ~/.gemrc
+: 1450592022:0;cat .gemrc
+: 1450592047:0;chruby
+: 1450592052:0;which ch
+: 1450592060:0;gem install rhc
+: 1450592085:0;cd Dropbox/Coding
+: 1450592086:0;ls
+: 1450592154:0;ln -s ~/Dropbox/Coding/vimrc.txt ~/.vimrc
+: 1450592168:0;ln -s ~/Dropbox/Coding/irbrc.txt ~/.irbrc
+: 1450592228:0;ln -s ~/Dropbox/Coding/tmux.conf ~/.tmux.conf
+: 1450592236:0;vim zshrc.txt
+: 1450592273:0;ln -s ~/Dropbox/Coding/vim ~/.vim
+: 1450592277:0;vim zshrc.txt
+: 1450592377:0;ls
+: 1450592386:0;l dotfiles
+: 1450592389:0;l dotfiles/zsh
+: 1450592400:0;vim dotfiles/zsh/aliases
+: 1450592453:0;ln -s ~/Dropbox/Coding/dotfiles ~/.dotfiles
+: 1450592454:0;ls
+: 1450592459:0;ls -l
+: 1450592461:0;lsa
+: 1450592472:0;vim .zshrc
+: 1450592575:0;vv
+: 1450592585:0;. ~/.zshrc
+: 1450592589:0;vv
+: 1450592755:0;mkdir ~/.tmp
+: 1450592756:0;vv
+: 1450592807:0;apt-get install silversearcher-ag
+: 1450592812:0;sudo apt-get install silversearcher-ag
+: 1450592936:0;sudo apt-get install python pip python-dev
+: 1450592940:0;pip
+: 1450592944:0;wget -O - https://raw.githubusercontent.com/nvbn/thefuck/master/install.sh | sh - && $0
+: 1450593102:0;sudo pip install thefuck
+: 1450593145:0;puthon
+: 1450593150:0;rby -v
+: 1450593153:0;ruby -v
+: 1450593155:0;exit
+: 1450593468:0;pip install 'requests[security]'
+: 1450593500:0;sudo apt-get install python-dev libffi-dev libssl-dev
+: 1450593533:0;pip install --upgrade ndg-httpsclient 
+: 1450593589:0;sudo pip install --upgrade ndg-httpsclient 
+: 1450593597:0;pip install 'requests[security]'
+: 1450593602:0;sudo pip install thefuck
+: 1450593609:0;pip install thefuck
+: 1450593624:0;pip install thefuck --upgrade
+: 1450593657:0;vz
+: 1450593795:0;ls
+: 1450594552:0;exit
+: 1450594696:0;tn dog
+: 1450594706:0;pwd
+: 1450594710:0;exit
+: 1450594991:0;cd Downloads/crashplan-install
+: 1450594992:0;ls
+: 1450594998:0;v README
+: 1450595016:0;./install.sh
+: 1450595254:0;exit
+: 1450595326:0;wh ruby
+: 1450595328:0;ruby -v
+: 1450595342:0;rhc setup
+: 1450595381:0;rhc show app
+: 1450595385:0;rhc show
+: 1450595412:0;gem install rails
+: 1450595440:0;htop
+: 1450595746:0;e
+: 1450626754:0;vim ~/Dropbox/Coding/setup-dotfiles.txt
+: 1450626828:0;ln -s ~/Dropbox/Coding/gitignore_global.txt ~/.gitignore_global
+: 1450626831:0;lsa
+: 1450626861:0;ls
+: 1450626865:0;cd Downloads
+: 1450626866:0;ls
+: 1450626877:0;rm -rf *
+: 1450626882:0;ls
+: 1450626883:0;u
+: 1450626884:0;ls
+: 1450626905:0;exit
+: 1450627317:0;sudo add-apt-repository ppa:noobslab/apps
+: 1450627335:0;sudo apt-get update
+: 1450627364:0;sudo apt-get install indicator-synapse
+: 1450627461:0;sudo apt-get install synapse
+: 1450627671:0;sudo apt-get install thesilversearcher
+: 1450627740:0;sudo apt-get install silversearcher-ag
+: 1450627743:0;wh ag
+: 1450627746:0;e
+: 1450663452:0;sudo apt-get remove indicator-synapse
+: 1450663466:0;exit
+: 1450664562:0;ls
+: 1450664564:0;l
+: 1450664565:0;ls
+: 1450664567:0;ll
+: 1450664571:0;ls
+: 1450664575:0;htop
+: 1450664593:0;lsa
+: 1450664607:0;ls Documents
+: 1450664666:0;df -h
+: 1450664675:0;ls
+: 1450664678:0;ls Documents
+: 1450664723:0;ls
+: 1450664729:0;cd pics
+: 1450664734:0;cd Desktop
+: 1450664734:0;ls
+: 1450664741:0;ls josh
+: 1450664742:0;ls
+: 1450665273:0;ls josh
+: 1450665280:0;cd josh
+: 1450665281:0;ls
+: 1450665283:0;cd cmm
+: 1450665283:0;ls
+: 1450665287:0;l
+: 1450665292:0;cd sql
+: 1450665293:0;ls
+: 1450665296:0;cat sql-results.txt
+: 1450665299:0;ls
+: 1450665300:0;u
+: 1450665300:0;ls
+: 1450665303:0;cd server-side
+: 1450665303:0;ls
+: 1450665306:0;cat content.txt
+: 1450665309:0;cat parser.rb
+: 1450665503:0;u
+: 1450665504:0;ls
+: 1450665506:0;cd html
+: 1450665507:0;ls
+: 1450665509:0;cat index.html
+: 1450665524:0;ls
+: 1450666996:0;uu
+: 1450666998:0;ls
+: 1450667001:0;vv
+: 1450667005:0;va
+: 1450667066:0;reload
+: 1450667070:0;rl
+: 1450667090:0;va
+: 1450667098:0;chruby
+: 1450672045:0;l
+: 1450672074:0;lsa
+: 1450672085:0;mv . ~/
+: 1450672098:0;mv * ~/
+: 1450672117:0;tn 
+: 1450672119:0;tn d
+: 1450672122:0;cd ~/
+: 1450672124:0;cd Pic
+: 1450672126:0;cd Pictures
+: 1450672127:0;ls
+: 1450672145:0;mv taylor-swift-desktops ~/Desktop/josh/Pictures
+: 1450672155:0;mv * ~/
+: 1450672157:0;ls
+: 1450672160:0;u
+: 1450672161:0;ls
+: 1450672167:0;l
+: 1450672171:0;e
+: 1450672176:0;exit
+: 1450672178:0;u
+: 1450672179:0;ls
+: 1450672183:0;cd josh
+: 1450672183:0;ls
+: 1450672185:0;u
+: 1450672187:0;rm -rf josh
+: 1450672189:0;u
+: 1450672512:0;cd ~
+: 1450672514:0;l
+: 1450672552:0;cd rails
+: 1450672553:0;ls
+: 1450672554:0;l
+: 1450672557:0;cd pilejockey
+: 1450672558:0;ls
+: 1450672561:0;ls vendor
+: 1450672567:0;lsa
+: 1450672587:0;u
+: 1450672588:0;ls
+: 1450672589:0;l
+: 1450672591:0;cd protein-tracker
+: 1450672592:0;ls
+: 1450672593:0;la
+: 1450672602:0;ls vendor
+: 1450672639:0;b
+: 1450672674:0;echo '2.2' > .ruby-version
+: 1450672675:0;ur
+: 1450672677:0;b
+: 1450672680:0;ls
+: 1450672683:0;chruby
+: 1450672687:0;gem list
+: 1450672693:0;gem install bundler
+: 1450672700:0;b
+: 1450672705:0;v Gemfile
+: 1450672709:0;b
+: 1450672809:0;cd .rubies
+: 1450672811:0;sizes
+: 1450672837:0;ls
+: 1450672844:0;cd ~
+: 1450672846:0;df -h
+: 1450672847:0;sizes
+: 1450672867:0;df -h
+: 1450672885:0;htop
+: 1450672912:0;wh rake
+: 1450672921:0;rake db:setup
+: 1450672935:0;rails c
+: 1450672994:0;which lines
+: 1450673000:0;cd app/models
+: 1450673003:0;wc *.rb
+: 1450673007:0;wc *.rb | sort
+: 1450673015:0;lc *.rb | sort
+: 1450673032:0;wc
+: 1450673037:0;wc man
+: 1450673039:0;man wc
+: 1450673133:0;e
+: 1450673316:0;r s
+: 1450673344:0;tn protein
+: 1450673356:0;b s
+: 1450673386:0;r s
+: 1450673401:0;e
+: 1450673401:0;v db/see
+: 1450673404:0;e
+: 1450673407:0;uu
+: 1450673413:0;tn protein
+: 1450673433:0;bs
+: 1450673438:0;v db/seeds.rb
+: 1450673673:0;e
+: 1450673750:0;u
+: 1450673756:0;rails -v
+: 1450673980:0;rails new protein-max
+: 1450673994:0;e
+: 1450674009:0;ls
+: 1450674015:0;e
+: 1450674023:0;chruby
+: 1450674029:0;e
+: 1450674031:0;u
+: 1450674034:0;cd protein-max
+: 1450674037:0;tn max
+: 1450674040:0;ls
+: 1450674049:0;echo '2.0' > .ruby-version
+: 1450674056:0;v Gemfile
+: 1450674172:0;ls ../
+: 1450674182:0;ls ~/Rails
+: 1450674200:0;cd ~/Programming
+: 1450674202:0;ls
+: 1450674203:0;l
+: 1450674208:0;ls programming-exercises
+: 1450674212:0;ls Ruby
+: 1450674220:0;ls
+: 1450674399:0;ld
+: 1450674400:0;ls
+: 1450674456:0;cd programming-exercises
+: 1450674457:0;ls
+: 1450674462:0;u
+: 1450674464:0;ls
+: 1450675243:0;e
+: 1450675251:0;boop
+: 1450675270:0;chruby
+: 1450675272:0;boop
+: 1450675474:0;r g simple_form:install
+: 1450675485:0;r g simple_form:install --bootstrap
+: 1450675500:0;r destroy controller welcome
+: 1450675619:0;bs
+: 1450675832:0;cd app/styleshee
+: 1450675835:0;cd app/
+: 1450675836:0;ls
+: 1450675840:0;cd assets/stylesheets
+: 1450675840:0;ls
+: 1450675845:0;mv application.css application.scss
+: 1450675929:0;bs
+: 1450676519:0;gss
+: 1450676522:0;git init
+: 1450676523:0;gss
+: 1450676530:0;rm -rf .git
+: 1450676531:0;uu
+: 1450676532:0;u
+: 1450676534:0;git init
+: 1450676536:0;gss
+: 1450676573:0;brake db:setup
+: 1450676583:0;brake db:migrate
+: 1450676586:0;brake db:setup
+: 1450676593:0;gss
+: 1450676602:0;mv README.rdoc README.md
+: 1450676700:0;gss
+: 1450676701:0;gaa
+: 1450676704:0;gss
+: 1450676708:0;gm "initial commit"
+: 1450676729:0;git config --global user.email "josh@trueheart78.com"
+: 1450676738:0;git config --global user.name "Josh M"
+: 1450676741:0;gm "initial commit"
+: 1450677033:0;bs
+: 1450678331:0;boop
+: 1450678427:0;gss
+: 1450678429:0;bs
+: 1450679103:0;gss
+: 1450679111:0;gaa
+: 1450679145:0;gm "Bootstrap updates: correct gem in use now, and a basic layout"
+: 1450679147:0;gss
+: 1450679211:0;git remote add origin git@bitbucket.org:trueheart78/protein-max.git
+: 1450679217:0;git push
+: 1450679247:0;git config --global push.default simple
+: 1450679249:0;git push
+: 1450679251:0;o
+: 1450679253:0;git push --set-upstream origin master
+: 1450679393:0;e
+: 1450679401:0;u
+: 1450679401:0;ls
+: 1450679406:0;u
+: 1450679408:0;cd Programming
+: 1450679408:0;ls
+: 1450679411:0;cd programming-exercises
+: 1450679411:0;ls
+: 1450679415:0;i
+: 1450679421:0;u
+: 1450679423:0;cd rails-exercises
+: 1450679424:0;ls
+: 1450679429:0;cd wordcloud
+: 1450679443:0;rhc show-app -a wordcloud
+: 1450679474:0;git remote
+: 1450679478:0;v Gemfile
+: 1450679565:0;gss
+: 1450679570:0;boop
+: 1450679592:0;gem -v
+: 1450679608:0;rake db:setup
+: 1450679616:0;rake db:migrate
+: 1450679623:0;rake db:setup
+: 1450679631:0;s
+: 1450679633:0;bs
+: 1450679691:0;v app/views/layouts/application.html.erb
+: 1450679725:0;gss
+: 1450679734:0;gaa
+: 1450679760:0;gm "Bootstrap fixes"
+: 1450679762:0;gpp
+: 1450679824:0;git push openshift master
+: 1450730463:0;htop
+: 1450730477:0;sudo apt-get install wine
+: 1450730534:0;sudo rm /var/lib/apt/lists/* -vf 
+: 1450730540:0;sudo apt-get update
+: 1450730578:0;e
+: 1450730708:0;sudo apt-get update
+: 1450730729:0;sudo dpkg --configure -a
+: 1450730753:0;sudo apt-get remove ttf-mscorefonts-installer
+: 1450730768:0;sudo apt-get install wine
+: 1450730780:0;sudo apt-get reinstall wine
+: 1450730788:0;sudo apt-get remove wine
+: 1450730795:0;sudo apt-get install wine
+: 1450730811:0;sudo apt-get install ttf-mscorefonts-installer
+: 1450732296:0;exit
+: 1450732643:0;lsa
+: 1450732704:0;cd PlayOnLinux\'s\ virtual\ drives
+: 1450732705:0;ls
+: 1450732708:0;cd Steam
+: 1450732708:0;ls
+: 1450732711:0;cd drive_c
+: 1450732712:0;ls
+: 1450732718:0;cd Program\ Files
+: 1450732719:0;ls
+: 1450732721:0;cd Steam
+: 1450732722:0;ls
+: 1450732726:0;cd steamapps
+: 1450732727:0;ls
+: 1450732733:0;ls common
+: 1450732738:0;ls common/DarkestDungeon
+: 1450732748:0;cd common/DarkestDungeon
+: 1450732749:0;ls
+: 1450732750:0;ls scr
+: 1450732755:0;l
+: 1450732761:0;ls scripts
+: 1450734955:0;cd ~
+: 1450734956:0;ls
+: 1450734959:0;exit
+: 1450759081:0;wh tm
+: 1450759082:0;va
+: 1450759095:0;rl
+: 1450759100:0;tm blo
+: 1450759109:0;e
+: 1450759112:0;cd my-personal-page
+: 1450759115:0;gpl
+: 1450759116:0;gss
+: 1450759127:0;cd _posts
+: 1450759128:0;ls
+: 1450759140:0;ls _site
+: 1450759204:0;cp 2015-11-29-app-study-checklist.markdown 2015-12-22-app-study-checklist-update1.markdown
+: 1450759206:0;ls
+: 1450759209:0;u
+: 1450759213:0;tm blog
+: 1450759228:0;gem list
+: 1450759239:0;gem install jekyll
+: 1450759248:0;v _posts/2015-12-22-app-study-checklist-update1.markdown
+: 1450759821:0;jekyll serve
+: 1450761044:0;gss
+: 1450761053:0;wh ga
+: 1450761060:0;ga _posts/*app-study*
+: 1450761062:0;gss
+: 1450761076:0;gm "App Study Checklist updates for Dec 2015"
+: 1450761078:0;gpp
+: 1450761166:0;jekyll serve
+: 1450761237:0;gss
+: 1450761244:0;ga _posts/2015-12-22-app-study-checklist-update1.markdown
+: 1450761256:0;gm "Fixes for the app study checklist update 1 for Dec 2015"
+: 1450761257:0;gpp
+: 1450761284:0;gss
+: 1450761292:0;e
+: 1450761330:0;v _posts/2015-12-22-app-study-checklist-update1.markdown
+: 1450761342:0;ga _posts/2015-12-22-app-study-checklist-update1.markdown
+: 1450761343:0;gss
+: 1450761353:0;gm "Fixes for the app study checklist update 1 for Dec 2015 - missing paren"
+: 1450761354:0;gpp
+: 1450842779:0;u
+: 1450842781:0;ls
+: 1450842786:0;cd Programming
+: 1450842786:0;ls
+: 1450842790:0;cd programming-exercises
+: 1450842791:0;ls
+: 1450842794:0;u
+: 1450842796:0;cd rails-exercises
+: 1450842797:0;ls
+: 1450842800:0;cd wordcloud
+: 1450842806:0;v .git/config
+: 1450842850:0;gpl
+: 1450842852:0;gpp
+: 1450843116:0;tm wordcloud
+: 1450843121:0;gss
+: 1450843131:0;sudo apt-get install tree
+: 1450843139:0;tree
+: 1450843178:0;q
+: 1450843183:0;tree app
+: 1450843212:0;htop
+: 1451050435:0;ruby-install 2.3
+: 1451050442:0;suu
+: 1451050460:0;ruby-install
+: 1451050469:0;chruny
+: 1451050472:0;chruby
+: 1451050479:0;ruby-install 2.3.0
+: 1451050526:0;ruby-install -M https://ftp.ruby-lang.org/pub/ruby ruby 2.3.0
+: 1451050648:0;ruby-install -M https://ftp.ruby-lang.org/pub/ruby ruby 2.3.0 --no-check-certificate
+: 1451050657:0;ruby-install -M https://ftp.ruby-lang.org/pub/ruby ruby 2.3.0
+: 1451050694:0;ruby-install
+: 1451050697:0;ruby-install help
+: 1451050701:0;ruby-install -h
+: 1451050740:0;ruby-install -M https://ftp.ruby-lang.org/pub/ruby ruby 2.3.0 -- --no-check-certificate
+: 1451050769:0;ssh josh@ftp.ruby-lang.org
+: 1451050776:0;ruby-install -M https://ftp.ruby-lang.org/pub/ruby ruby 2.3.0 -- --no-check-certificate
+: 1451050882:0;ruby-install -M ftp://ftp.ruby-lang.org/pub/ruby ruby 2.3.0 -- --no-check-certificate
+: 1451050918:0;ruby-install -M ftp://ftp.ruby-lang.org/pub/ruby ruby 2.3.0
+: 1451051251:0;chruby
+: 1451051253:0;rl
+: 1451051255:0;chruby
+: 1451051264:0;e
+: 1451158921:0;suu
+: 1451158938:0;th78
+: 1451159214:0;sapi mosh
+: 1451159275:0;chruby
+: 1451159279:0;wh cr
+: 1451159283:0;ch
+: 1451159285:0;wh ch
+: 1451159286:0;va
+: 1451159314:0;ri
+: 1451159319:0;wh ri
+: 1451159322:0;ch
+: 1451159323:0;rl
+: 1451159324:0;ch
+: 1451159639:0;mosh th78@th78.me
+: 1451160155:0;rl
+: 1451160157:0;ch
+: 1451160160:0;ch 2.3
+: 1451160162:0;ch
+: 1451160173:0;rl
+: 1451160174:0;ch
+: 1451181044:0;sudo apt-get install python-software-properties
+: 1451181058:0;sudo add-apt-repository ppa:duh/golang
+: 1451181068:0;sudo apt-get update
+: 1451181111:0;v /etc/apt/sources.list
+: 1451181126:0;v /etc/apt/sources.list.d/duh-golang-trusty.list
+: 1451181144:0;cd /etc/apt/sources.list.d
+: 1451181145:0;ls
+: 1451181149:0;sudo rm duh-golang-trusty.list
+: 1451181150:0;uu
+: 1451181169:0;sudo apt-get install gcc make mercurial git libc6-de
+: 1451181176:0;cd ~
+: 1451181181:0;wh hg
+: 1451181238:0;cd Downloads
+: 1451181247:0;tar -C /usr/local -xzf go1.5.2.linux-amd64.tar.gz
+: 1451181255:0;sudo tar -C /usr/local -xzf go1.5.2.linux-amd64.tar.gz
+: 1451181285:0;sudo vim /etc/profile
+: 1451181308:0;echo $PATH
+: 1451181311:0;rl
+: 1451181312:0;echo $PATH
+: 1451181350:0;cd /usr/local
+: 1451181350:0;ls
+: 1451181355:0;cd go
+: 1451181356:0;ls
+: 1451181358:0;cd bin
+: 1451181367:0;./go version
+: 1451181370:0;cd ~
+: 1451181386:0;vz
+: 1451181414:0;rl
+: 1451181422:0;go version
+: 1451181425:0;wh go
+: 1451181703:0;gss
+: 1451181717:0;gcob adding-words
+: 1451181806:0;v app/controllers/welcome_controller.rb
+: 1451181836:0;touch app/models/word_cloud.rb
+: 1451181851:0;e
+: 1451181887:0;ls spec
+: 1451181895:0;wh mk
+: 1451181897:0;wh mkp
+: 1451181903:0;mkp spec/models
+: 1451181911:0;touch spec/models/word_cloud_spec.rb
+: 1451181967:0;rspec
+: 1451181993:0;rspec spec/models/word_cloud_spec.rb
+: 1451182127:0;ls
+: 1451182299:0;rspec spec/models/word_cloud_spec.rb
+: 1451184226:0;r s
+: 1451185780:0;rspec
+: 1451185785:0;rspec spec/models/word_cloud_spec.rb
+: 1451185799:0;irb
+: 1451185933:0;rspec spec/models/word_cloud_spec.rb
+: 1451186041:0;r s
+: 1451186436:0;gss
+: 1451186439:0;gaa
+: 1451186450:0;gm "Basic word cloud support"
+: 1451186452:0;gcom
+: 1451186455:0;wh gm
+: 1451186461:0;git merge adding-words
+: 1451186464:0;gpl
+: 1451186468:0;gss
+: 1451186473:0;gp
+: 1451186484:0;git remote
+: 1451186494:0;gp origin
+: 1451186500:0;gpl
+: 1451186510:0;gp openshift
+: 1451186517:0;r s
+: 1451186528:0;gp openshift master
+: 1451186538:0;git push openshift master
+: 1451428431:0;htop
+: 1451697744:0;ch
+: 1451697747:0;rl
+: 1451697748:0;ch
+: 1451697755:0;gem install emoji
+: 1451697829:0;irb
+: 1451697976:0;gem install escape_utlis
+: 1451697980:0;gem install escape_utils
+: 1451698018:0;irb
+: 1451698107:0;gem install twemoji
+: 1451698137:0;irb
+: 1451699285:0;gem install gemojione
+: 1451699291:0;irb
+: 1451702775:0;gem install escape_utils
+: 1451702950:0;e
+: 1451702962:0;cd rails
+: 1451702964:0;pwd
+: 1451702967:0;l
+: 1451702968:0;ls
+: 1451702978:0;gem list rails
+: 1451702986:0;gem install rails
+: 1451703055:0;ls pilejockey
+: 1451703063:0;rm -rf pilejockey
+: 1451703083:0;rails new pilejockey
+: 1451709692:0;cd pilejockey
+: 1451710416:0;gss
+: 1451710424:0;brspec
+: 1451710432:0;tm pj
+: 1451710437:0;v Gemfile
+: 1451711140:0;wh boop
+: 1451711144:0;wh bewp
+: 1451711163:0;bewp
+: 1451711171:0;ch
+: 1451711188:0;echo '2.0.0' > .ruby-version
+: 1451711191:0;ur
+: 1451711195:0;wh ur
+: 1451711197:0;ch
+: 1451711207:0;e
+: 1451711227:0;ur
+: 1451711229:0;ch
+: 1451711237:0;ur
+: 1451711239:0;ch
+: 1451711246:0;gss
+: 1451711431:0;u
+: 1451711453:0;rhc app-create pilejockey ruby-2.0 postgresql-9.2
+: 1451711659:0;cd pilejockey
+: 1451711661:0;ls
+: 1451711682:0;git init
+: 1451711686:0;gss
+: 1451711694:0;git add remote openshift ssh://56875bde89f5cf495200001a@pilejockey-th78.rhcloud.com/~/git/pilejockey.git/
+: 1451711717:0;git remote add openshift ssh://56875bde89f5cf495200001a@pilejockey-th78.rhcloud.com/~/git/pilejockey.git/
+: 1451711829:0;git remote add origin git@bitbucket.org:trueheart78/pilejockey.git
+: 1451711831:0;gss
+: 1451711856:0;brake db:migrate
+: 1451711865:0;wh br
+: 1451711880:0;br generate simple_form:install --bootstrap
+: 1451711953:0;cd app/assets
+: 1451711953:0;ls
+: 1451711955:0;cd stylesheets
+: 1451711955:0;ls
+: 1451711962:0;mv application.css application.scss
+: 1451712002:0;wh brg
+: 1451712005:0;wh berg
+: 1451712019:0;brg controller Welcome
+: 1451712035:0;be r destroy controller Welcome
+: 1451712040:0;be rails destroy controller Welcome
+: 1451712050:0;brg controller Welcome index
+: 1451712062:0;be rails destroy controller Welcome
+: 1451712067:0;brspec
+: 1451712092:0;rails generate rspec:install
+: 1451712097:0;brspec
+: 1451712107:0;brg controller Welcome index
+: 1451712147:0;bs
+: 1451712240:0;gss
+: 1451712247:0;gaa
+: 1451712253:0;wh gm
+: 1451712255:0;gm 
+: 1451712263:0;gm "Initial commit"
+: 1451712283:0;git push -u origin --all
+: 1451712302:0;git pull openshift master
+: 1451712309:0;gss
+: 1451712341:0;gaa
+: 1451712342:0;gss
+: 1451712352:0;gm "Merged in Openshift master"
+: 1451712357:0;gp
+: 1451712381:0;rhc set-env -a appname RAILS_ENV=production
+: 1451712389:0;rhc set-env -a pilejockey RAILS_ENV=production
+: 1451712468:0;rhc set-env -a pilejockey BUNDLE_WITHOUT=development test
+: 1451712535:0;rhc show-env -a pilejockey BUNDLE_WITHOUT
+: 1451712551:0;rhc set-env -a pilejockey BUNDLE_WITHOUT=development\ test
+: 1451712555:0;rhc show-env -a pilejockey BUNDLE_WITHOUT
+: 1451712661:0;rhc ssh -a pilejockey
+: 1451712710:0;gss
+: 1451712721:0;gam "Proper production database config"
+: 1451712730:0;e
+: 1451712731:0;git push openshift master
+: 1451713469:0;rhc ssh -a pilejockey
+: 1451713701:0;th78
+: 1451713878:0;ping pilejockey.com
+: 1451713960:0;bs
+: 1451714362:0;th78
+: 1451714564:0;brg model GameStatus name:string emoji:string deleted_at:datetime
+: 1451714678:0;brake db:migrate
+: 1451714772:0;brake db:rollback
+: 1451714775:0;brake db:migrate
+: 1451714891:0;brg model GamePlatform name:string abbrev:string deleted_at:datetime:index
+: 1451714963:0;brake db:migrate
+: 1451714970:0;brake db:reset
+: 1451715075:0;brc
+: 1451715418:0;brake db:reset
+: 1451715456:0;brake db:migrate
+: 1451715463:0;brake db:setup
+: 1451715547:0;brc
+: 1451715581:0;brake db:rollback
+: 1451715597:0;brake db:migrate
+: 1451715602:0;brc
+: 1451715625:0;brake db:setup
+: 1451715700:0;th78
+: 1451716352:0;brg model Game name:string game_platform:reference game_status:reference deleted_at:datetime:index
+: 1451716390:0;brake db:migrate
+: 1451716613:0;brake db:rollback
+: 1451716638:0;brake db:migrate
+: 1451717222:0;brake db:rollback
+: 1451717252:0;brake db:migrate
+: 1451717452:0;brake db:setup
+: 1451754716:0;brake db:seed
+: 1451754758:0;brake db:rollback
+: 1451754799:0;brake db:migrate
+: 1451754852:0;brake db:seed
+: 1451754960:0;wh th78
+: 1451754988:0;scp th78@th78.me:~/gamelist.txt db/gamelist.txt
+: 1451755312:0;brake db:seed
+: 1451755317:0;brc
+: 1451755389:0;brake db:reset
+: 1451755435:0;brc
+: 1451755530:0;brake db:reset
+: 1451755884:0;e
+: 1451755888:0;bs
+: 1451756027:0;cd rails
+: 1451756027:0;ls
+: 1451756031:0;cd rails-tutorial
+: 1451756032:0;ls
+: 1451756034:0;cd app
+: 1451756035:0;l
+: 1451756037:0;cd views
+: 1451756039:0;l
+: 1451756042:0;l user
+: 1451756043:0;l users
+: 1451756049:0;cd users
+: 1451756055:0;cat index.html.erb
+: 1451756061:0;cat _user.html.erb
+: 1451756624:0;brg controller Games index
+: 1451756770:0;bs
+: 1451756814:0;be rails destroy controller Welcome
+: 1451756820:0;tree app
+: 1451757359:0;bs
+: 1451757663:0;be r g migration AddCharToGameStatuses
+: 1451757669:0;berg migration AddCharToGameStatuses
+: 1451757800:0;brake db:migrate
+: 1451757950:0;brake db:rollback
+: 1451757954:0;brake db:migrate
+: 1451757965:0;brake db:reset
+: 1451757996:0;brs
+: 1451757998:0;bs
+: 1451758166:0;ag asset
+: 1451758168:0;ag assets
+: 1451758242:0;tree app
+: 1451758390:0;brc
+: 1451758678:0;u
+: 1451758682:0;ls
+: 1451758686:0;tree assets
+: 1451758695:0;cat assets/stylesheets/users.scss
+: 1451758741:0;bs
+: 1451759232:0;brake db:rollback
+: 1451759238:0;brake db:migrate
+: 1451759257:0;brake db:reset
+: 1451759263:0;bs
+: 1451759435:0;brspec
+: 1451759439:0;gss
+: 1451759603:0;brake db:reset
+: 1451759624:0;bs
+: 1451759881:0;gss
+: 1451759884:0;gaa
+: 1451759905:0;gm "Database backend setup for Games, Statuses and Platforms."
+: 1451759908:0;gp
+: 1451759919:0;git push openshift master
+: 1451759973:0;rhc ssh -a pilejockey
+: 1451760993:0;th78
+: 1451864970:0;cd ~/my-personal-page
+: 1451864972:0;gss
+: 1451864979:0;v now.md
+: 1451865166:0;ch
+: 1451865170:0;jekyll serve
+: 1451865191:0;v now.md
+: 1451865274:0;jekyll serve
+: 1451865285:0;gss
+: 1451865299:0;gam "Updated 'Now' page for the beginning of 2016"
+: 1451865300:0;gpp
+: 1451874284:0;brspec
+: 1451875875:0;cd ~/Downloads
+: 1451875876:0;ls
+: 1451875877:0;l
+: 1451875904:0;wh iex
+: 1451876048:0;df -h
+: 1451876068:0;sudo umount /dev/sdb1
+: 1451876113:0;dd if=en_windows_7_professional_with_sp1_x64_dvd_u_676939.iso of=/dev/sdb bs=1M
+: 1451876118:0;sudo dd if=en_windows_7_professional_with_sp1_x64_dvd_u_676939.iso of=/dev/sdb bs=1M
+: 1451877088:0;htop
+: 1451883256:0;brspec
+: 1451883975:0;ssh -p 64720 ubuntu@54.242.173.76
+: 1451884188:0;b
+: 1451884215:0;be rails generate rollbar
+: 1451884242:0;rhc set-env -a pilejockey ROLLBAR_ACCESS_TOKEN=c197c7c04c524059974d71b14f56444e
+: 1451884349:0;brspec
+: 1451884358:0;bs
+: 1451884430:0;export ROLLBAR_ACCESS_TOKEN=c197c7c04c524059974d71b14f56444e
+: 1451884434:0;bs
+: 1451884790:0;gss
+: 1451884793:0;gaa
+: 1451884801:0;gm "Added Rollbar tracking support"
+: 1451884804:0;gpp
+: 1451884857:0;ls .openshift/markers
+: 1451884924:0;touch .openshift/markers/hot_deploy
+: 1451884925:0;gss
+: 1451884936:0;gam "Add hot deploy support (experimental)"
+: 1451884944:0;gaa
+: 1451884946:0;gam "Add hot deploy support (experimental)"
+: 1451884952:0;git push openshift master
+: 1451885086:0;bs
+: 1451885108:0;gss
+: 1451885141:0;gam "Removed a bad stylesheet tag 'type' attribute."
+: 1451885142:0;gpp
+: 1451885149:0;git push openshift master
+: 1451885385:0;b
+: 1451885421:0;gss
+: 1451885473:0;bs
+: 1451887103:0;wh brg
+: 1451887158:0;brg migration add_icon_to_game_statuses
+: 1451887379:0;brake db:migrate
+: 1451887400:0;ls db/migrate
+: 1451887410:0;brake db:rollback
+: 1451887448:0;git rm db/migrate/20160102180110_add_char_to_game_statuses.rb
+: 1451887449:0;gss
+: 1451887477:0;brake db:migrate
+: 1451887542:0;brg migration remove_emoji_from_game_statuses
+: 1451887659:0;brake db:migrate
+: 1451887813:0;brake db:reset
+: 1451887822:0;bs
+: 1451888081:0;gss
+: 1451888089:0;gaa
+: 1451888092:0;gss
+: 1451888124:0;gaa
+: 1451888137:0;gam "Added font-awesome supported icons for game statuses."
+: 1451888140:0;gpp
+: 1451888150:0;rhc ssh -a pilejockey
+: 1451888180:0;git push openshift master
+: 1451888228:0;rhc ssh -a pilejockey
+: 1451888328:0;rhc restart -a pilejockey
+: 1451888337:0;rhc app-restart -a pilejockey
+: 1451888464:0;rhc app-stop -a pilejockey
+: 1451888472:0;rhc ssh -a pilejockey
+: 1451888526:0;rhc cartridge-start pg -a pilejockey
+: 1451888541:0;rhc cartridge-start postgresql-9.2 -a pilejockey
+: 1451888550:0;rhc ssh -a pilejockey
+: 1451888569:0;rhc cartridge-start pg -a pilejockey
+: 1451888577:0;rhc cartridge-start ruby-2.0 -a pilejockey
+: 1451888625:0;gss
+: 1451888644:0;rhc cartridge-stop ruby-2.0 -a pilejockey
+: 1451888650:0;rhc ssh -a pilejockey
+: 1451888698:0;rhc cartridge-start ruby-2.0 -a pilejockey
+: 1451888758:0;rhc cartridge-stop ruby-2.0 -a pilejockey
+: 1451889205:0;rhc cartridge-start ruby-2.0 -a pilejockey
+: 1451889325:0;gss
+: 1451889329:0;rhc ssh -a pilejockey
+: 1451889670:0;bs
+: 1451889693:0;gss
+: 1451965340:0;e
+: 1451965378:0;suu
+: 1451965505:0;e
+: 1451966718:0;cd rails/pilejockey
+: 1451966722:0;tm pilejockey
+: 1451966730:0;brspec
+: 1451966733:0;e
+: 1451966739:0;v Gemfile
+: 1452057180:0;cd rails
+: 1452057181:0;ls
+: 1452057183:0;l
+: 1452057185:0;cd protein-
+: 1452057196:0;cd protein-tracker
+: 1452057199:0;ch
+: 1452057201:0;ls
+: 1452057203:0;lsa
+: 1452057208:0;cat .ruby-version
+: 1452057214:0;brspec
+: 1452057253:0;v db/schema.rb
+: 1452057300:0;gss
+: 1452057316:0;gd
+: 1452057333:0;v .ruby-version
+: 1452057340:0;ur
+: 1452057342:0;c
+: 1452057343:0;ch
+: 1452057347:0;boop
+: 1452057440:0;sudo apt-get install openssl
+: 1452057522:0;gss
+: 1452057528:0;v Gemfile
+: 1452057588:0;boop
+: 1452057592:0;gss
+: 1452057594:0;gd
+: 1452057608:0;brspec
+: 1452057622:0;lsa
+: 1452057629:0;cat config.ru
+: 1452057638:0;cat Procfile
+: 1452057651:0;cat config/puma.rb
+: 1452058376:0;v config/database.yml
+: 1452058395:0;v db/seeds.rb
+: 1452058407:0;u
+: 1452058408:0;ls
+: 1452058412:0;cd protein-max
+: 1452058414:0;ls
+: 1452058418:0;ls db
+: 1452058424:0;v db/seeds.rb
+: 1452058427:0;u
+: 1452058852:0;gss
+: 1452058864:0;v db/seeds.rb
+: 1452058888:0;brg migration change_game_status_icons
+: 1452058966:0;brc
+: 1452059529:0;brake db:migrate
+: 1452059567:0;brc
+: 1452059658:0;brake db:migrate
+: 1452059836:0;brc
+: 1452059862:0;brake db:rollback
+: 1452059999:0;brake db:migrate
+: 1452060024:0;brc
+: 1452060069:0;brake db:rollback
+: 1452060087:0;brc
+: 1452060238:0;brake db:migrate
+: 1452060244:0;brc
+: 1452060391:0;brake db:rollback
+: 1452060394:0;brc
+: 1452060458:0;brake db:migrate
+: 1452060461:0;bs
+: 1452060568:0;e
+: 1452060852:0;brake db:migrate
+: 1452060858:0;brake db:rollback
+: 1452060870:0;bs
+: 1452060884:0;brake db:migrate
+: 1452060891:0;bs
+: 1452060944:0;brake db:rollback
+: 1452060948:0;gss
+: 1452060958:0;rm db/migrate/20160106054131_change_game_status_icons.rb
+: 1452060960:0;bs
+: 1452060985:0;brc
+: 1452061032:0;bs
+: 1452061218:0;brg model GameGroup name:string deleted_at:datetime
+: 1452061253:0;brake db:migrate
+: 1452061257:0;gss
+: 1452061258:0;gaa
+: 1452061275:0;gm "Game Group added, Openshift auto-migration attempted"
+: 1452061282:0;git push origin master
+: 1452061290:0;git push openshift master
+: 1452061432:0;chmod +x .openshift/action_hooks/deploy
+: 1452061467:0;gam "added executable flag to the deploy action hook"
+: 1452061470:0;git push origin master
+: 1452061478:0;git push openshift master
+: 1452061683:0;tree .openshift
+: 1452404303:0;rhc ssh -a pilejockey
+: 1452405098:0;cd ruby
+: 1452405100:0;ls
+: 1452405119:0;mkdir job-uploader
+: 1452405121:0;cd job-uploader
+: 1452405125:0;git init
+: 1452405129:0;ch
+: 1452405159:0;ruby -v > .ruby-version
+: 1452405160:0;ur
+: 1452405165:0;v .ruby-version
+: 1452405176:0;ur
+: 1452405178:0;ch
+: 1452405248:0;v README.md
+: 1452405345:0;ls
+: 1452405363:0;bundle
+: 1452405367:0;bundle init
+: 1452405370:0;ls
+: 1452405373:0;v Gemfile
+: 1452405397:0;bundler -v
+: 1452405403:0;gem install bundler
+: 1452405413:0;bundler -v
+: 1452405438:0;v Gemfile
+: 1452405460:0;b
+: 1452405500:0;ls
+: 1452405502:0;lsa
+: 1452405505:0;gaa
+: 1452405506:0;gss
+: 1452405513:0;touch .gitignore
+: 1452405514:0;gaa
+: 1452405545:0;ls
+: 1452405551:0;gss
+: 1452405575:0;gm "Initial SFTP Job Uploader setup"
+: 1452405614:0;git remote add origin git@github.com:trueheart78/sftp-job-uploader.git
+: 1452405621:0;git push -u origin master
+: 1452405625:0;rl
+: 1452405626:0;ch
+: 1452405628:0;ur
+: 1452405629:0;ch
+: 1452405639:0;tm uploader
+: 1452405684:0;v README.md
+: 1452406041:0;wh sqlite
+: 1452406396:0;sapi sqlite
+: 1452406409:0;wh sqlite
+: 1452406415:0;sqlite --version
+: 1452406419:0;sqlite version
+: 1452407103:0;lsa
+: 1452407351:0;ls
+: 1452407352:0;l
+: 1452407353:0;lsa
+: 1452407362:0;mkdir lib
+: 1452409326:0;gd
+: 1452409331:0;v README.md
+: 1452409452:0;b
+: 1452409458:0;lsa
+: 1452409545:0;touch lib/watch.rb
+: 1452409551:0;touch lib/history.rb
+: 1452409562:0;gss
+: 1452409564:0;gaa
+: 1452409565:0;gss
+: 1452409640:0;gm "Basic structure expanded, with an updated README to match."
+: 1452409641:0;gpp
+: 1452409954:0;gss
+: 1452409970:0;gam "Updated README with better SQLite installation details."
+: 1452409971:0;gpp
+: 1452409973:0;b
+: 1452410181:0;lsa
+: 1452410184:0;mdkir spec
+: 1452410192:0;touch spec/watch_spec.rb
+: 1452410196:0;tree
+: 1452410205:0;touch spec/history_spec.rb
+: 1452410503:0;ruby spec/watch_spec.rb
+: 1452411000:0;mkdir ~/uploader-dir
+: 1452411008:0;ruby spec/watch_spec.rb
+: 1452411881:0;gss
+: 1452411929:0;b
+: 1452412123:0;pwd
+: 1452412138:0;ruby spec/watch_spec.rb
+: 1452412302:0;b
+: 1452412845:0;irb
+: 1452412998:0;cd ~/uploader-dir
+: 1452413002:0;touch file.txt
+: 1452413028:0;touch file.txt, file2.txt
+: 1452413037:0;touch file.txt file2.txt
+: 1452413039:0;ls
+: 1452413043:0;rm *,
+: 1452413044:0;ls
+: 1452413053:0;v file.txt
+: 1452413070:0;ls
+: 1452413073:0;l
+: 1452413083:0;echo "data goes here" > file2.txt
+: 1452413852:0;touch file4.txt
+: 1452413863:0;touch file5.txt
+: 1452413868:0;rem file5.txt
+: 1452413872:0;rm file5.txt
+: 1452414358:0;wh watch
+: 1452414865:0;ls
+: 1452414868:0;gd
+: 1452414874:0;gss
+: 1452414927:0;ruby spec/watch_spec.rb
+: 1452414931:0;e
+: 1452414934:0;ruby spec/watch_spec.rb
+: 1452414986:0;b
+: 1452415006:0;ruby spec/watch_spec.rb
+: 1452415169:0;gss
+: 1452415176:0;ga Gemfile*
+: 1452415177:0;gss
+: 1452415187:0;gm "Updated Gemfile requirements."
+: 1452415188:0;gpp
+: 1452415427:0;gss
+: 1452415430:0;ga README.md
+: 1452415436:0;gm "Updated README"
+: 1452415436:0;gpp
+: 1452415458:0;ga README.md
+: 1452415460:0;gm "Updated README"
+: 1452415461:0;gpp
+: 1452828756:0;e
+: 1452828764:0;u
+: 1452828766:0;ls
+: 1452828769:0;cd rails
+: 1452828770:0;ls
+: 1452828775:0;l
+: 1452828789:0;ch
+: 1452829013:0;rails --version
+: 1452829027:0;ch
+: 1452829143:0;u
+: 1452829144:0;ls
+: 1452829145:0;l
+: 1452829151:0;ls sinatra
+: 1452829154:0;cd sinatra
+: 1452829154:0;ls
+: 1452829156:0;cd caringforkaren2014
+: 1452829158:0;gpl
+: 1452829163:0;git remote
+: 1452829173:0;v .git/config
+: 1452829184:0;gpl
+: 1452829194:0;v Gemfile
+: 1452829311:0;ls
+: 1452829312:0;l
+: 1452829319:0;v app.rb
+: 1452829359:0;shotgun
+: 1452829363:0;boop
+: 1452829367:0;ch
+: 1452829373:0;gem install bundler
+: 1452829385:0;boop
+: 1452829401:0;lsa
+: 1452829405:0;cat .env
+: 1452829417:0;shotgun
+: 1452829461:0;cd ruby/rails
+: 1452829462:0;ls
+: 1452829464:0;l
+: 1452829634:0;ch
+: 1452829648:0;rhc ssh -a wordcloud
+: 1452829855:0;rails new caring-for-karen-sue
+: 1452829870:0;cd caring-for-karen-sue
+: 1452829892:0;boop
+: 1452829895:0;gss
+: 1452829899:0;git init
+: 1452829902:0;gss
+: 1452829910:0;gaa
+: 1452829911:0;gss
+: 1452829931:0;gm "rails new"
+: 1452829932:0;gss
+: 1452829944:0;tm caring
+: 1452829980:0;v Gemfile
+: 1452829995:0;echo '2.0' > .ruby-version
+: 1452830003:0;gss
+: 1452830054:0;v Gemfile
+: 1452830186:0;boop
+: 1452830209:0;cd app/assets/stylesheets
+: 1452830210:0;ls
+: 1452830216:0;git mv application.css application.scss
+: 1452830284:0;boop
+: 1452830287:0;bs
+: 1452830362:0;rails generate rspec:install
+: 1452830423:0;rails generate simple_form:install
+: 1452830429:0;rails generate simple_form:install --bootstrap
+: 1452830487:0;gss
+: 1452830490:0;uu
+: 1452830491:0;gss
+: 1452830493:0;i
+: 1452830494:0;gss
+: 1452830499:0;u
+: 1452830502:0;gss
+: 1452830524:0;gaa
+: 1452830525:0;gss
+: 1452830567:0;gm "Ruby version file, init of Rspec, Simpleform and Bootstrap"
+: 1452830699:0;gss
+: 1452830725:0;gam "Added proper meta tags for the application layout file."
+: 1452830728:0;gl
+: 1452830851:0;gss
+: 1452830878:0;wh brg
+: 1452830894:0;brg controller Welcome index
+: 1452830948:0;bs
+: 1452831199:0;brg controller About index
+: 1452831549:0;bs
+: 1452832547:0;touch app/views/layouts/_footer.html.erb
+: 1452832591:0;bs
+: 1452833483:0;git remote add origin git@github.com:trueheart78/CaringForKarenSue-Rails.git
+: 1452833486:0;gss
+: 1452833514:0;gam "Welcome and About pages added. Footer, too"
+: 1452833524:0;git push -u origin master
+: 1452833541:0;gss
+: 1452833546:0;gaa
+: 1452833552:0;gam "Welcome and About pages added. Footer, too"
+: 1452833553:0;gss
+: 1452833554:0;gl
+: 1452833565:0;git mv README.rdoc README.md
+: 1452833622:0;gss
+: 1452833630:0;gam "Updated README"
+: 1452833633:0;gpp
+: 1452834336:0;touch app/views/layouts/_header.html.erb
+: 1452837762:0;gss
+: 1452837766:0;gaa
+: 1452837785:0;gm "Basic restructuring of the layout."
+: 1452837787:0;gpp
+: 1452987349:0;gss
+: 1452987361:0;e
+: 1452987657:0;gss
+: 1452987681:0;gcob style_installation
+: 1452987683:0;gp
+: 1452987685:0;o
+: 1452987694:0;wh gp
+: 1452987697:0;git push
+: 1452987698:0;o
+: 1452987699:0;git push --set-upstream origin style_installation
+: 1452987705:0;va
+: 1452987960:0;v
+: 1452988398:0;cd app/views
+: 1452988399:0;ls
+: 1452988403:0;cd layouts
+: 1452988404:0;ls
+: 1452988429:0;touch _html5shiv.html.erb
+: 1452988522:0;mv _html5shiv.html.erb internet_explorer.html.erb
+: 1453148119:0;cd rails
+: 1453148126:0;ch
+: 1453148135:0;rails new SpaceQueue
+: 1453148146:0;ls
+: 1453148160:0;mv SpaceQueue space-queue
+: 1453148163:0;rhc app-create appname ruby-2.0 postgresql-9.2
+: 1453148173:0;rhc app-create space-queue ruby-2.0 postgresql-9.2
+: 1453148193:0;mv space-queue spacequeue
+: 1453148203:0;rhc app-create spacequeue ruby-2.0 postgresql-9.2
+: 1453155877:0;rhc show-app -a spacequeue
+: 1453155889:0;ls
+: 1453155892:0;cd spacequeue
+: 1453155894:0;gss
+: 1453155898:0;git init
+: 1453155921:0;git remote add openshift ssh://569d482c89f5cff9df000140@spacequeue-th78.rhcloud.com/~/git/spacequeue.git/
+: 1453155928:0;gss
+: 1453155935:0;gaa
+: 1453155941:0;gm "Rails new"
+: 1453155946:0;gpl openshift master
+: 1453155952:0;gss
+: 1453155955:0;v config
+: 1453155973:0;gaa
+: 1453155974:0;gss
+: 1453155984:0;gm "Openshift merge\
+"
+: 1453155986:0;gl
+: 1453155991:0;ls
+: 1453156000:0;v README.md
+: 1453156064:0;gss
+: 1453156072:0;git rm README.rdoc
+: 1453156078:0;ga README.md
+: 1453156084:0;gm "README updated"
+: 1453156085:0;gss
+: 1453156104:0;v config/database.yml
+: 1453156151:0;rhc set-env -a spacequeue RAILS_ENV=production
+: 1453156170:0;rhc env show -a spacequeue RAILS_ENV
+: 1453156177:0;rhc set-env -a appname BUNDLE_WITHOUT=development\ test
+: 1453156188:0;rhc set-env -a spacequeue BUNDLE_WITHOUT=development\ test
+: 1453156198:0;rhc env show -a spacequeue BUNDLE_WITHOUT
+: 1453156224:0;touch .openshift/action_hooks/deploy
+: 1453156231:0;chmod +x .openshift/action_hooks/deploy
+: 1453156235:0;v .openshift/action_hooks/deploy
+: 1453156260:0;rhc ssh -a spacequeue
+: 1453156345:0;echo '2.0' > .ruby-version
+: 1453156347:0;gss
+: 1453156349:0;gaa
+: 1453156354:0;v Gemfile
+: 1453156399:0;boop
+: 1453156411:0;ch
+: 1453156433:0;rails generate rspec:install
+: 1453156442:0;rails generate simple_form:install
+: 1453156451:0;rails generate simple_form:install --bootstrap
+: 1453156486:0;v .
+: 1453156557:0;git mv app/assets/stylesheets/application.css app/assets/stylesheets/application.scss
+: 1453156558:0;gss
+: 1453156597:0;v
+: 1453156623:0;gss
+: 1453156625:0;gaa
+: 1453156627:0;gss
+: 1453156631:0;bs
+: 1453156647:0;gss
+: 1453156683:0;gam "New deploy hook for openshift, proper gems in gemfile, init of RSpec and Simpleform."
+: 1453156961:0;git remote add origin git@github.com:trueheart78/space-queue-e4p-e47.git
+: 1453156967:0;git push -u origin master
+: 1453157152:0;brg scaffold Astronaut name:string image_url:string
+: 1453157170:0;tm space
+: 1453157176:0;v
+: 1453157226:0;brake db:migrate
+: 1453157233:0;bs
+: 1453157326:0;brake db:rollback
+: 1453157334:0;brake db:migrate
+: 1453157345:0;gss
+: 1453157352:0;gaa
+: 1453157360:0;gm "Astronaut support added."
+: 1453157364:0;gpp
+: 1453157374:0;git push openshift master
+: 1453167373:0;gss
+: 1453167968:0;e
+: 1453168032:0;htop
+: 1453168048:0;e
+: 1453168052:0;suu
+: 1453168216:0;e
+: 1453168752:0;cd rails/spacequeue
+: 1453168757:0;tm space
+: 1453168765:0;v Gemfile
+: 1453168804:0;gem install httparty
+: 1453168831:0;b
+: 1453168873:0;irb
+: 1453169064:0;gss
+: 1453169083:0;touch app/models/open_notify.rb
+: 1453169214:0;cd app/models
+: 1453169216:0;irb
+: 1453169310:0;ls
+: 1453169314:0;rm open_notify.rb
+: 1453169387:0;uu
+: 1453169406:0;v
+: 1453169477:0;bs
+: 1453169650:0;cd app.mo
+: 1453169654:0;cd app/models
+: 1453169655:0;ls
+: 1453169668:0;touch open_notify.rb
+: 1453218140:0;gss
+: 1453218173:0;ag image_url
+: 1453218190:0;v
+: 1453218275:0;gss
+: 1453218282:0;gd
+: 1453218289:0;u
+: 1453218291:0;gss
+: 1453218301:0;wh ga
+: 1453218304:0;ga app/
+: 1453218305:0;gss
+: 1453218312:0;gaa
+: 1453218327:0;gm "Fix to Astronauts image url"
+: 1453218329:0;gpp
+: 1453218337:0;git push openshift master
+: 1453218547:0;gam "JSONbuilder updates"
+: 1453218558:0;gpp
+: 1453218561:0;gam "JSONbuilder updates"
+: 1453218564:0;git push openshift master
+: 1453219412:0;gss
+: 1453219470:0;gam "image display for astronauts"
+: 1453219471:0;gpp
+: 1453219477:0;git push openshift master
+: 1453488603:0;cd Dropbox
+: 1453488608:0;ag 'kernel'
+: 1453503580:0;uname -a
+: 1453503587:0;cd ~/Downloads
+: 1453503790:0;cd kernels/4.4
+: 1453503792:0;ls
+: 1453503924:0;uname -a > before.txt
+: 1453503926:0;cat before.txt
+: 1453503930:0;ls
+: 1453503933:0;l
+: 1453503941:0;v command.txt
+: 1453503987:0;l
+: 1453504122:0;sudo dpkg -i *.deb
+: 1453504143:0;e
+: 1453504405:0;sudo update-grub
+: 1453504423:0;exit
+: 1453504521:0;sudo nano /usr/share/lightdm/lightdm.conf.d/50-ubuntu.conf
+: 1453504529:0;sudo vim /usr/share/lightdm/lightdm.conf.d/50-ubuntu.conf
+: 1453504546:0;e
+: 1453504772:0;cd ~/Downloads/kernels/4.4
+: 1453504775:0;uname -a
+: 1453504779:0;uname -a > after.txt
+: 1453504783:0;cat before.txt after.txt
+: 1453504794:0;l
+: 1453504815:0;e
+: 1453504819:0;df -h
+: 1453505021:0;dpkg --list | grep linux-image 
+: 1453505059:0;suu
+: 1453505276:0;df -h
+: 1453505278:0;suu
+: 1453505292:0;sudo apt-get autoremove
+: 1453505312:0;df -h
+: 1453564095:0;sap gparted
+: 1453564108:0;sapi gparted
+: 1453564156:0;e
+: 1453688028:0;mkp Dropbox/ideas
+: 1453688037:0;v Dropbox/ideas/pilejockey.txt
+: 1453689065:0;htop
+: 1453689081:0;df -h
+: 1453689092:0;e
+: 1453952433:0;cd Documents
+: 1453952443:0;mkdir Book\ Club\ Notes
+: 1453952446:0;cd Book\ Club\ Notes
+: 1453952450:0;git init
+: 1453952460:0;v README.md
+: 1453952492:0;gss
+: 1453952494:0;gaa
+: 1453952497:0;gss
+: 1453952508:0;gm "Initialized repo"
+: 1453952519:0;git remote add origin git@github.com:trueheart78/book-club-notes.git
+: 1453952524:0;git push -u origin master
+: 1453952763:0;mkdir poodr
+: 1453952766:0;cd poodr
+: 1453952772:0;v README.md
+: 1453952820:0;u
+: 1453952832:0;tm bookclub
+: 1453952842:0;v poodr/README.md
+: 1453953982:0;e
+: 1453953989:0;gss
+: 1453954133:0;cd ~/Dropbox/Books/Objects\ On\ Rails
+: 1453954134:0;ls
+: 1453954140:0;u
+: 1453954145:0;cd objects-on-rails-deluxe
+: 1453954145:0;ls
+: 1453954175:0;th78
+: 1453954277:0;scp sandi-metz-interview.mp3 th78@th78.me:~/trueheart78.com/books/
+: 1453954306:0;scp sandi-metz-interview.mp3 th78@th78.me:/var/www/trueheart78.com/books/sandi.mp3
+: 1453954320:0;scp sandi-metz-interview.mp3 th78@th78.me:sandi.mp3
+: 1453954711:0;e
+: 1453955797:0;gss
+: 1453955799:0;gaa
+: 1453955800:0;gss
+: 1453955809:0;gm "POODR starter notes"
+: 1453955811:0;gp
+: 1453956167:0;cd ~/Downloads
+: 1453956168:0;curl -OL https://github.com/thoughtbot/gitsh/releases/download/v0.9/gitsh-0.9.tar.gz
+: 1453956264:0;tar -zxvf gitsh-0.9.tar.gz
+: 1453956267:0;cd gitsh-0.9
+: 1453956273:0;./configure
+: 1453956283:0;make
+: 1453956304:0;sudo make install
+: 1453956313:0;wh gitsh
+: 1453956316:0;e
+: 1453956319:0;rl
+: 1453956321:0;gitsh
+: 1454020474:0;e
+: 1454020699:0;ln -s ~/Dropbox/Coding/gitconfig-include.txt ~/.gitconfig-include
+: 1454020717:0;v .gitconfig
+: 1454020772:0;ln -s ~/Dropbox/Coding/vimrc.bundles.txt ~/.vimrc.bundles
+: 1454020774:0;v .gitconfig
+: 1454020780:0;rl
+: 1454020781:0;vb
+: 1454020905:0;lsa
+: 1454020926:0;vb
+: 1454020969:0;vv
+: 1454020974:0;gsh
+: 1454020988:0;cd Documents/Book\ Club\ Notes
+: 1454020992:0;cd ~/
+: 1454021006:0;ln -s ~/Documents/Book\ Club\ Notes ~/book-club-notes
+: 1454021009:0;cd book-club-notes
+: 1454021011:0;gsh
+: 1454021043:0;ln -s ~/Dropbox/Coding/gitshrc.txt ~/.gitshrc
+: 1454021046:0;gsh
+: 1454021064:0;rl
+: 1454021066:0;gsh
+: 1454021076:0;vg
+: 1454021083:0;ggi
+: 1454021085:0;vgi
+: 1454021092:0;vgs
+: 1454021103:0;vga
+: 1454021127:0;ls
+: 1454021129:0;v README.md
+: 1454021168:0;vv
+: 1454021267:0;v README.md
+: 1454183361:0;gpl
+: 1454183535:0;sudo add-apt-repository ppa:ubuntuhandbook1/apps
+: 1454183552:0;wh sapu
+: 1454183558:0;suu
+: 1454183638:0;sudo apt-get install mupdf mupdf-tools
+: 1454184055:0;sudo add-apt-repository ppa:b-eltzner/qpdfview
+: 1454184098:0;suu
+: 1454184112:0;sapi qpdfview
+: 1454184558:0;v /etc/gnome/defaults.list
+: 1454184764:0;cd ~
+: 1454185078:0;df -h
+: 1454185353:0;cd rails
+: 1454185354:0;ls
+: 1454185357:0;lsa
+: 1454185359:0;cd caring-for-karen-sue
+: 1454185369:0;tm caring
+: 1454204528:0;cd Dow
+: 1454204536:0;cd ~/Downloads/html5up-alpha
+: 1454204537:0;ls
+: 1454204540:0;tree .
+: 1454204900:0;v
+: 1454204938:0;bs
+: 1454205007:0;gss
+: 1454205015:0;cd app/views/layouts
+: 1454205022:0;mv internet_explorer.html.erb _internet_explorer.html.erb
+: 1454205097:0;uu
+: 1454205100:0;u
+: 1454205312:0;cp ~/Downloads/html5up-alpha/assets/css/main.css app/assets/stylesheets/main.scss
+: 1454205499:0;ag 'overlay'
+: 1454205531:0;cd Downloads/html5up-alpha
+: 1454205533:0;v .
+: 1454205656:0;cp ~/Downloads/html5up-alpha/assets/css/images/overlay.png app/assets/images/overlay.png
+: 1454205954:0;cp ~/Downloads/html5up-alpha/assets/sass/main.scss app/assets/stylesheets/main.scss
+: 1454205970:0;cp ~/Downloads/html5up-alpha/assets/sass/libs app/assets/stylesheets/
+: 1454205976:0;cp ~/Downloads/html5up-alpha/assets/sass/libs/ app/assets/stylesheets/
+: 1454205978:0;gss
+: 1454205995:0;mkdir app/assets/stylesheets/libs
+: 1454206000:0;cp ~/Downloads/html5up-alpha/assets/sass/libs/ app/assets/stylesheets/libs
+: 1454206006:0;cp ~/Downloads/html5up-alpha/assets/sass/libs/* app/assets/stylesheets/libs/
+: 1454206008:0;gss
+: 1454206177:0;rm app/assets/stylesheets/main.scss
+: 1454206272:0;cp ~/Downloads/html5up-alpha/assets/sass/ie8.scss app/assets/stylesheets/ie8.scss
+: 1454206337:0;bs
+: 1454206497:0;cp ~/Downloads/html5up-alpha/assets/js/* app/assets/javascripts
+: 1454206510:0;mkdir app/assets/javascripts/ie
+: 1454206511:0;cp ~/Downloads/html5up-alpha/assets/js/* app/assets/javascripts
+: 1454206522:0;cp ~/Downloads/html5up-alpha/assets/js/ie/* app/assets/javascripts/ie
+: 1454206524:0;gss
+: 1454206549:0;rm app/assets/javascripts/jquery.min.js
+: 1454206612:0;bs
+: 1454206702:0;ag 'PIE.htc'
+: 1454206786:0;bs
+: 1454206902:0;ag ie9
+: 1454206905:0;ag 'ie9'
+: 1454207071:0;tree public
+: 1454207095:0;mkdir public/javascript
+: 1454207112:0;gss
+: 1454207118:0;cd public
+: 1454207122:0;rm -r javascript
+: 1454207125:0;e
+: 1454207232:0;rm app/assets/javascripts/ie/html5shiv.js
+: 1454207283:0;b
+: 1454207361:0;bs
+: 1454207621:0;ag PIE
+: 1454207632:0;ag PIE.htc
+: 1454207896:0;bs
+: 1454208775:0;ls app/assets/javascripts
+: 1454208894:0;b
+: 1454208947:0;tree app/assets/javascripts
+: 1454208958:0;rm app/assets/javascripts/ie/respond.min.js
+: 1454209043:0;bs
+: 1454209182:0;ag respond.js
+: 1454209187:0;ag 'respond'
+: 1454209449:0;tree
+: 1454209468:0;mkdir public/images
+: 1454209471:0;cd public/images
+: 1454209488:0;cp ~/Downloads/html5up-alpha/images/* *
+: 1454209492:0;cp ~/Downloads/html5up-alpha/images/ .
+: 1454209501:0;cp ~/Downloads/html5up-alpha/images/*.jpg .
+: 1454209502:0;ls
+: 1454209588:0;ag 'overlay'
+: 1454209591:0;uu
+: 1454209594:0;ag 'overlay'
+: 1454209664:0;bs
+: 1454209727:0;ag 'overlay'
+: 1454209744:0;ls app/assets/images
+: 1454209799:0;bs
+: 1454209855:0;ag 'assets/images'
+: 1454209901:0;ag 'overlay' assets
+: 1454209904:0;ag 'overlay' assets/
+: 1454209911:0;ag 'overlay' assets/*
+: 1454209919:0;ag 'overlay' ./assets
+: 1454209924:0;ag 'overlay' ./app/assets
+: 1454209971:0;rm app/assets/stylesheets/main.scss
+: 1454209974:0;ag 'overlay' ./app/assets
+: 1454210001:0;ag 'assets' ./app/assets
+: 1454210033:0;bs
+: 1454210644:0;ag 'About'
+: 1454211563:0;bs
+: 1454211971:0;v inde
+: 1454213212:0;ag 'PIE.htc'
+: 1454213325:0;bs
+: 1454214236:0;rm app/assets/javascripts/ie/PIE.htc
+: 1454214255:0;b
+: 1454214405:0;bs
+: 1454214516:0;ls app/assets
+: 1454214520:0;ls app/assets/javascripts
+: 1454214532:0;ls app/assets/stylesheets
+: 1454214993:0;cd app/assets/javascripts
+: 1454214995:0;ls ie
+: 1454215009:0;mv ie/backgroundsize.min.htc ../
+: 1454215014:0;bs
+: 1454215060:0;u
+: 1454215061:0;ls
+: 1454215066:0;u
+: 1454215081:0;mv assets/backgroundsize.min.htc ../public/
+: 1454215084:0;bs
+: 1454215109:0;cp ../public/backgroundsize.min.htc .
+: 1454215127:0;bs
+: 1454215165:0;rm  ../public/backgroundsize.min.htc
+: 1454215190:0;bs
+: 1454215227:0;mv backgroundsize.min.htc ../public
+: 1454215409:0;b
+: 1454215412:0;u
+: 1454215413:0;b
+: 1454216102:0;bs
+: 1454216207:0;gd app/assets/stylesheets/application.scss
+: 1454216251:0;gd app/assets/javascripts/application.js
+: 1454216270:0;bs
+: 1454218058:0;sudo apt-get install nautilus-image-converter
+: 1454218100:0;nautilus -q
+: 1454218316:0;cd app/assets/images
+: 1454218317:0;ls
+: 1454218326:0;u
+: 1454218331:0;ls public
+: 1454218335:0;ls public/images
+: 1454218347:0;rm public/images/old-banner.jpg
+: 1454218353:0;rm public/images/banner.jpg
+: 1454218362:0;cd app/assets/images
+: 1454218378:0;cp ~/Downloads/golf-banner-web.jpg banner.jpg
+: 1454218384:0;bs
+: 1454218532:0;sizes
+: 1454218534:0;uu
+: 1454218536:0;u
+: 1454218537:0;sizes
+: 1454218541:0;gss
+: 1454218553:0;b
+: 1454218570:0;gss
+: 1454218572:0;gaa
+: 1454218608:0;gm "Added support for new HTML5UP.net Alpha theme. Removed Bootstrap dependencies."
+: 1454218610:0;gp
+: 1454218791:0;e
+: 1454218795:0;q
+: 1454218800:0;ag 'pic01'
+: 1454218882:0;ls public
+: 1454218914:0;l
+: 1454218917:0;l public
+: 1454218929:0;cd imag
+: 1454218932:0;cd public
+: 1454218933:0;ls
+: 1454218937:0;cp images/* .
+: 1454218938:0;ls
+: 1454219016:0;rm pic01.jpg
+: 1454219041:0;rm pic0*
+: 1454219042:0;ls
+: 1454219225:0;gss
+: 1454219227:0;u
+: 1454219228:0;gss
+: 1454219239:0;gam "Fixed welcome page images"
+: 1454219240:0;gpp
+: 1454219824:0;gss
+: 1454219832:0;gam "Updated footer"
+: 1454219833:0;gpp
+: 1454220308:0;rhc
+: 1454220318:0;rhc apps
+: 1454273881:0;gcob master
+: 1454273888:0;gcom
+: 1454273896:0;wh gm
+: 1454273902:0;git merge style_installation
+: 1454273904:0;gpp
+: 1454273916:0;gcob environment_vars
+: 1454273943:0;boop
+: 1454274924:0;ag task
+: 1454275284:0;bundle update
+: 1454275381:0;gd
+: 1454275421:0;be rails -v
+: 1454275454:0;bundle update
+: 1454275528:0;be rails generate simple_form:install
+: 1454275546:0;gss
+: 1454275549:0;gd
+: 1454275571:0;bundle update
+: 1454275715:0;touch .env
+: 1454275902:0;gss
+: 1454276089:0;bs
+: 1454276394:0;gss
+: 1454276562:0;gaa
+: 1454276601:0;gm "Add dotenv-rails, details about it, and updated the Rails and related gems."
+: 1454276607:0;gpp
+: 1454276609:0;gp
+: 1454276610:0;o
+: 1454276617:0;wh gp
+: 1454276620:0;gp
+: 1454276621:0;o
+: 1454276626:0;git pull
+: 1454276632:0;gcom
+: 1454276637:0;gss
+: 1454276642:0;git merge environment_vars
+: 1454276643:0;gss
+: 1454276645:0;gpp
+: 1454276676:0;gss
+: 1454276702:0;brake routes
+: 1454774481:0;cd ~/book-club-notes
+: 1454774482:0;gpl
+: 1454774487:0;gik
+: 1454774491:0;gitk
+: 1454774497:0;sapi gitk
+: 1454774506:0;gitk
+: 1455147998:0;gpl
+: 1455148013:0;tm booking
+: 1455148015:0;rl
+: 1455148022:0;tm booking
+: 1455148030:0;vf
+: 1455148041:0;e
+: 1455148055:0;tm booking
+: 1455148071:0;tm
+: 1455148073:0;vf
+: 1455148082:0;vz
+: 1455148105:0;rl
+: 1455148107:0;tm
+: 1455148111:0;tm booking
+: 1455148116:0;e
+: 1455148120:0;cd book-club-notes
+: 1455148123:0;tm booking
+: 1455148131:0;v poodr/ch2-designing-for-single-responsibility.md
+: 1455149918:0;gsh
+: 1455503053:0;wh pdfunite
+: 1455503086:0;cd Dropbox/Receipts/Lynda/2015
+: 1455503087:0;ls
+: 1455503115:0;pdfunite *.pdf 2015-amazon-total.pdf
+: 1455503117:0;ls
+: 1455503161:0;u
+: 1455503163:0;cd 2014
+: 1455503164:0;ls
+: 1455503181:0;pdfunite *.pdf 2014-amazon-total-5pg.pdf
+: 1455503204:0;l
+: 1455503279:0;e
+: 1455503294:0;cd Dropbox/Receipts/Lynda/2013
+: 1455503294:0;l
+: 1455503296:0;u
+: 1455503301:0;e
+: 1455503718:0;mv Downloads/2015_Form_W-2.pdf Dropbox/Taxes/2015/
+: 1455503725:0;e
+: 1455565291:0;cd Downloads/receipts
+: 1455565304:0;cd 2013
+: 1455565332:0;pdfunite *.pdf 2013-allegro-total-11pg.pdf
+: 1455565347:0;u
+: 1455565349:0;cd 2014
+: 1455565350:0;ls
+: 1455565365:0;pdfunite *.pdf 2014-allegro-total-14pg.pdf
+: 1455565368:0;l
+: 1455565371:0;u
+: 1455565377:0;cd 2015
+: 1455565378:0;l
+: 1455565379:0;ls
+: 1455565404:0;pdfunite *.pdf 2015-allegro-total-18pg.pdf
+: 1455565407:0;ls
+: 1455565410:0;l
+: 1455565416:0;irb
+: 1455565426:0;u
+: 1455565428:0;sizes
+: 1455565499:0;u
+: 1455565797:0;ls
+: 1455565804:0;df -h
+: 1455565808:0;cd /media/josh/MILLSDOCS
+: 1455565809:0;ls
+: 1455565845:0;pdfunite *.pdf complete-62pg.pdf
+: 1455565851:0;l
+: 1455565897:0;e
+: 1456372243:0;suu
+: 1456372539:0;e
+: 1456714593:0;suu
+: 1457186253:0;e
+: 1457194980:0;suu
+: 1457195192:0;htop
+: 1457195206:0;e
+: 1457228874:0;cd Downloads
+: 1457228875:0;ls
+: 1457228893:0;mv Practical\ Object-Oriented\ Design\ in\ Ruby:\ An\ Agile\ Primer\ \(Addison-Wesley\ Professional\ Ruby\):\ Sandi\ Metz:\ 0785342721331:\ Amazon.com:\ Books\ -\ Google\ Chrome_003.png poodr-ch9-page-list.png
+: 1457228914:0;q
+: 1457228929:0;git log
+: 1457228944:0;gb
+: 1457228952:0;wh bs
+: 1457228953:0;bs
+: 1457229064:0;e
+: 1457229577:0;cd book-club-notes
+: 1457229581:0;tm booksies
+: 1457229589:0;vf
+: 1457229600:0;va
+: 1457229628:0;gsh
+: 1457229652:0;vo poodr/ch9-cost-effective-tests.md poodr/testing-keypoints.md
+: 1457814866:0;e
+: 1457816153:0;sapi libopenal1 libmpg123-0 
+: 1457816374:0;wh winetricks
+: 1457816379:0;wh wine
+: 1457816392:0;echo $WINEPREFIX
+: 1457816397:0;echo WINEPREFIX
+: 1457816711:0;e
+: 1457817420:0;echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
+: 1457817463:0;sudo vim /etc/sysctl.d/10-ptrace.conf
+: 1457823041:0;sudo apt-get install wine winetricks libopenal1 libmpg123-0
+: 1457823050:0;wine --version
+: 1457823054:0;winetricks --version
+: 1457823155:0;sudo apt-get install wine winetricks libopenal1 libmpg123-0
+: 1457823161:0;e
+: 1457849608:0;suu
+: 1457849650:0;sudo apt-get remove thunderbird
+: 1457849672:0;suu
+: 1457849768:0;e
+: 1457887209:0;htop
+: 1457935450:0;e
+: 1458492605:0;sudo aptitude install nautilus-open-terminal
+: 1458492619:0;sudo apt get install nautilus-open-terminal
+: 1458492631:0;sapi install nautilus-open-terminal
+: 1458492637:0;sapi nautilus-open-terminal
+: 1458492642:0;suu
+: 1458492699:0;nautilus -q
+: 1458492701:0;e
+: 1458492718:0;l
+: 1458492723:0;v Butts_117500367
+: 1458492731:0;ls
+: 1458492733:0;l
+: 1458492739:0;v SaveGameInfo
+: 1458492751:0;less SaveGameInfo
+: 1458492776:0;ls
+: 1458492779:0;v SaveGameInfo
+: 1458492801:0;e
+: 1458923978:0;ls /etc/pm/sleep.d
+: 1458924052:0;sudo vim /etc/pm/sleep.d/0000trackpad
+: 1458924280:0;sudo chmod +x /etc/pm/sleep.d/0000trackpad
+: 1458924287:0;wh sagi
+: 1458924289:0;wh sapi
+: 1458924293:0;sapi pm-utils
+: 1458925340:0;suu
+: 1458925405:0;uname -a
+: 1458925407:0;uname -r
+: 1458925430:0;ls
+: 1458925436:0;l rails
+: 1458925439:0;l ruby
+: 1458925441:0;ls ruby
+: 1458925448:0;ls rails
+: 1458925464:0;cd ruby/sinatra/caringforkaren2014
+: 1458925466:0;l
+: 1458925473:0;cat .ruby-version
+: 1458925476:0;ch
+: 1458925477:0;b
+: 1458925496:0;git remote
+: 1458925503:0;git pull redhat
+: 1458925514:0;git pull redhat master
+: 1458925529:0;tm c4k
+: 1458925533:0;c
+: 1458925534:0;v
+: 1458925584:0;l
+: 1458925589:0;l spec
+: 1458925593:0;l spec/integration
+: 1458925618:0;bundle exec rake:tasks
+: 1458925622:0;bundle exec rake task
+: 1458925623:0;bundle exec rake tasks
+: 1458925628:0;bundle exec rake routes
+: 1458925641:0;brake test
+: 1458925855:0;tree
+: 1458925858:0;l
+: 1458925863:0;tree library
+: 1458925868:0;tree views
+: 1458925885:0;ag sup
+: 1458925905:0;brake test
+: 1458925908:0;gss
+: 1458925950:0;gam 'Update to display 2016 details'
+: 1458925956:0;git push origin master
+: 1458925962:0;git push redhat master
+: 1459009287:0;sapi calibre
+: 1459009317:0;ch
+: 1459009320:0;gem list
+: 1459009500:0;gem install rails --version 4.0
+: 1459009556:0;htop
+: 1459009613:0;gem install rails --version 4.0.13
+: 1459009669:0;ls *.gem
+: 1459009687:0;cd ~/Dropbox
+: 1459009689:0;cd Coding
+: 1459009689:0;l
+: 1459009691:0;ls
+: 1459009695:0;cat gemrc.txt
+: 1459009735:0;cd ~/rails
+: 1459009736:0;ls
+: 1459009748:0;rails _4.0.13_ --version
+: 1459009788:0;rails _4.0.13_ new agile-web-rails-4
+: 1459009816:0;v .ruby-version
+: 1459009821:0;ur
+: 1459009822:0;ch
+: 1459009833:0;cd agile-web-rails-4
+: 1459009834:0;ch
+: 1459009837:0;v Gemfile
+: 1459010027:0;brake test
+: 1459010052:0;gam 'Fixed a bad date in the Join page'
+: 1459010057:0;git push
+: 1459010062:0;git push redhat master
+: 1459010375:0;git remote add origin git@github.com:trueheart78/Agile-Web-Depot-Rails-4.0.git
+: 1459010379:0;git init
+: 1459010380:0;gss
+: 1459010387:0;gaa
+: 1459010391:0;gss
+: 1459010400:0;gm 'Rails _4.0.13_ new'
+: 1459010409:0;git remote add origin git@github.com:trueheart78/Agile-Web-Depot-Rails-4.0.git
+: 1459010423:0;git push -u origin master
+: 1459010601:0;e
+: 1459010608:0;u
+: 1459010610:0;uu
+: 1459010611:0;cd rails
+: 1459010612:0;l
+: 1459010615:0;cd caring-for-karen-sue
+: 1459010617:0;gss
+: 1459010618:0;gpl
+: 1459010622:0;bs
+: 1459010643:0;tm 'c4ks'
+: 1459010648:0;v Gemfile
+: 1459010669:0;gb
+: 1459010684:0;bundle update rails
+: 1459010710:0;bundle update rspec rspec-rails
+: 1459010715:0;bundle update rspec-rails
+: 1459010732:0;gs
+: 1459010735:0;gss
+: 1459010739:0;bs
+: 1459010768:0;gss
+: 1459010801:0;b
+: 1459010803:0;gss
+: 1459010827:0;gcob rails-n-rspec-update
+: 1459010829:0;gss
+: 1459010835:0;gam 'Rails and Rspec updated'
+: 1459010837:0;gpp
+: 1459010839:0;o
+: 1459010850:0;git branch --set-upstream-to=origin/rails-n-rspec-update rails-n-rspec-update && git pull && git push
+: 1459010880:0;git branch --set-upstream-to=origin/rails-n-rspec-update rails-n-rspec-update
+: 1459010895:0;git fetc
+: 1459010897:0;git fetch
+: 1459010900:0;git branch --set-upstream-to=origin/rails-n-rspec-update rails-n-rspec-update
+: 1459010921:0;git push --set-upstream-to=origin/rails-n-rspec-update rails-n-rspec-update
+: 1459010930:0;git push -u 
+: 1459010934:0;o
+: 1459010935:0;git push --set-upstream origin rails-n-rspec-update
+: 1459011126:0;v config.yml
+: 1459011211:0;gss
+: 1459011215:0;gaa
+: 1459011218:0;gss
+: 1459011248:0;git mv config.yml circle.yml
+: 1459011249:0;gss
+: 1459011343:0;lsa
+: 1459011356:0;lsa ../
+: 1459011365:0;mv ../.ruby-version .
+: 1459011369:0;cat .ruby-version
+: 1459011377:0;v config.ru
+: 1459011381:0;v circle.yml
+: 1459011387:0;gss
+: 1459011390:0;gaa
+: 1459011405:0;gm 'CI support and Ruby Version'
+: 1459011408:0;gpp
+: 1459027000:0;tm agile
+: 1459027007:0;v
+: 1459027029:0;b
+: 1459027038:0;wh rails
+: 1459027040:0;rails -v
+: 1459027067:0;brails g scaffold Product title:string description:text image_url:string price:decimal
+: 1459027177:0;brake db:migrate
+: 1459027204:0;bs
+: 1459027367:0;brake test
+: 1459027432:0;e
+: 1459027557:0;brake db:seed
+: 1459027786:0;bs
+: 1459028958:0;b
+: 1459028977:0;brake test
+: 1459029095:0;cd ~/ruby/sinatra
+: 1459029096:0;ls
+: 1459029100:0;cd caringforkaren2014
+: 1459029106:0;ls
+: 1459029107:0;lsa
+: 1459029110:0;cat .ruby-version
+: 1459029158:0;gpl
+: 1459029160:0;b
+: 1459029171:0;be shotgun
+: 1459029192:0;gss
+: 1459029195:0;git remote
+: 1459029203:0;git push redhat master
+: 1459029439:0;brake test
+: 1459029442:0;ls
+: 1459029447:0;cat Rakefile
+: 1459029452:0;e
+: 1459029475:0;cd ~/ruby/sinatra/caringforkaren2014
+: 1459029478:0;v README.md
+: 1459029513:0;gam 'Test running details added to README'
+: 1459029515:0;gpp
+: 1459029761:0;e
+: 1459029769:0;gcom
+: 1459029780:0;git merge rails-n-rspec-update
+: 1459029783:0;brake test
+: 1459029796:0;brspec
+: 1459029819:0;cp ../agile-web-rails-4/circle.yml .
+: 1459029820:0;l
+: 1459029821:0;gss
+: 1459029831:0;gam 'Added circle CI config'
+: 1459029834:0;gaa
+: 1459029836:0;gam 'Added circle CI config'
+: 1459029839:0;b
+: 1459029845:0;wh gp
+: 1459029846:0;gp
+: 1459032458:0;l spec
+: 1459032465:0;l spec/controllers
+: 1459032488:0;brspec
+: 1459032527:0;l spec
+: 1459032683:0;b
+: 1459032692:0;gam 'removed jbuilder gem'
+: 1459032693:0;brspec
+: 1459032728:0;git rm spec/helpers/about_helper_spec.rb
+: 1459032735:0;git rm spec/helpers/welcome_helper_spec.rb
+: 1459032737:0;brspec
+: 1459032987:0;mkdir -p spec/features
+: 1459033076:0;gd
+: 1459033203:0;brspec
+: 1459033343:0;l db/
+: 1459033364:0;bs
+: 1459033383:0;gss
+: 1459033395:0;brspec spec/features/date_references_spec.rb
+: 1459033782:0;ag 'Factory\
+;
+: 1459033785:0;ag 'Factory'
+: 1459033824:0;gd
+: 1459033841:0;gd Gemfile
+: 1459033853:0;brspec spec/features/date_references_spec.rb
+: 1459033888:0;brake db:migrate
+: 1459033895:0;brake db:migrate RAILS_ENV=test
+: 1459033899:0;brspec spec/features/date_references_spec.rb
+: 1459033997:0;bs
+: 1459034058:0;brspec spec/features/date_references_spec.rb
+: 1459034077:0;brspec spec/features/date_references_spec.rb:9
+: 1459034151:0;brspec
+: 1459034167:0;gss
+: 1459034179:0;gaa
+: 1459034180:0;gss
+: 1459034204:0;gm 'Capybara testing for dates is now working'
+: 1459034206:0;gp
+: 1459035528:0;u
+: 1459035533:0;cd sinatra/caringforkaren2014
+: 1459035535:0;gpl
+: 1459035538:0;b
+: 1459035553:0;bundle exec shotgun
+: 1459035573:0;gss
+: 1459035580:0;git push redhat master
+: 1459035627:0;brake test
+: 1459035648:0;gpl
+: 1459035773:0;e
+: 1459035817:0;rspec
+: 1459036226:0;bs
+: 1459036452:0;brake test
+: 1459036622:0;gss
+: 1459036639:0;gam 'Initial validation for Product model'
+: 1459036748:0;brake test:models
+: 1459038304:0;gss
+: 1459038312:0;gam 'Unit tests for Products'
+: 1459038325:0;gp
+: 1459038425:0;git remote
+: 1459038429:0;gpl
+: 1459038447:0;b
+: 1459038460:0;bs
+: 1459093037:0;brspec spec/features/date_references_spec.rb:9
+: 1459093452:0;gss
+: 1459093470:0;gam 'better spec for the date check on the homepage banner/\
+'
+: 1459093472:0;gpp
+: 1459093819:0;gam 'CircleCI status badge added'
+: 1459093821:0;gp
+: 1459093883:0;cd ~/ruby/sinatra/caringforkaren2014
+: 1459093885:0;v README.md
+: 1459093901:0;gam 'CircleCI status badge added'
+: 1459093904:0;gpp
+: 1459093907:0;e
+: 1459093958:0;gss
+: 1459093984:0;git mv README.rdoc README.md
+: 1459094030:0;gss
+: 1459094041:0;gam 'Updated README with CircleCI badge'
+: 1459094042:0;gpp
+: 1459094235:0;gam 'Change CircleCI build icon to a shield'
+: 1459094236:0;gpp
+: 1459094266:0;cd ~/ruby/sinatra/caringforkaren2014
+: 1459094268:0;v README.md
+: 1459094284:0;gam 'Change CircleCI build icon to a shield'
+: 1459094286:0;gpp
+: 1459094289:0;e
+: 1459094311:0;gam 'Updated README with CircleCI shield'
+: 1459094312:0;gpp
+: 1459098619:0;mcd scratch-pad
+: 1459098627:0;touch stardew-needs.md
+: 1459098629:0;v stardew-needs.md
+: 1459148343:0;gpl
+: 1459148350:0;b
+: 1459626961:0;wh gp
+: 1459626962:0;gpp
+: 1459626968:0;ch
+: 1459626972:0;wh b
+: 1459626979:0;gem list
+: 1459626984:0;gem install bundler
+: 1459626996:0;b
+: 1459627986:0;brspec
+: 1459643378:0;e
+: 1459657526:0;bs
+: 1459737231:0;ch
+: 1459737237:0;wh ch
+: 1459737241:0;chruby help
+: 1459737246:0;chruby --help
+: 1459737254:0;chruby system
+: 1459737256:0;ch
+: 1459737263:0;ch 2.0
+: 1459737264:0;ch
+: 1459737384:0;vz
+: 1459737406:0;va
+: 1459737432:0;cd ~/ruby
+: 1459737433:0;ch
+: 1459737437:0;lsa
+: 1459737445:0;v ~/.ruby-version
+: 1459737453:0;ch
+: 1459737459:0;ruby -v
+: 1459738483:0;suu
+: 1459738518:0;sudo apt-get install skype
+: 1459739487:0;wh skype
+: 1459739489:0;e
+: 1459739494:0;ch
+: 1459739496:0;e
+: 1459739705:0;cd my-personal-page
+: 1459739707:0;gss
+: 1459739711:0;v now.md
+: 1459739724:0;gpl
+: 1459739727:0;v now.md
+: 1459740161:0;gss
+: 1459740168:0;gam 'Updated Now page.'
+: 1459740169:0;gp
+: 1460213346:0;u
+: 1460213354:0;cd Dropbox/Books/Efficient\ Rails\ Dev-Ops
+: 1460213355:0;ls
+: 1460213361:0;rm .
+: 1460213365:0;rm .*
+: 1460213367:0;rm *
+: 1460213372:0;l
+: 1460213380:0;mv ~/Downloads/Efficient\ Rails\ DevOps.pdf .
+: 1460213395:0;mv ~/Downloads/erdo_centos* .
+: 1460213396:0;l
+: 1460213420:0;suu
+: 1460213481:0;cd ~/Dropbox/Pragmatic\ Bookshelf/Agile\ Web\ Development\ with\ Rails\ 5
+: 1460213482:0;ls
+: 1460826971:0;gpl
+: 1460826974:0;b
+: 1460826995:0;brspec
+: 1460936922:0;cd my-personal-page
+: 1460936924:0;gpl
+: 1460936928:0;v now.md
+: 1460936984:0;gss
+: 1460936991:0;gam 'Updated Now page'
+: 1460936993:0;gss
+: 1460936994:0;gp
+: 1460937001:0;git log
+: 1460937007:0;v now.md
+: 1460937024:0;gam 'Updated Now page'
+: 1460937025:0;gp
+: 1460937028:0;e
+: 1460937102:0;gpl
+: 1461116080:0;ping www.caringforkarensue.com
+: 1461116089:0;ping rpi.th78/me
+: 1461116092:0;ping rpi.th78.me
+: 1461116102:0;ping www.caringforkarensue.com
+: 1461116108:0;ping caringforkarensue.com
+: 1461284938:0;df -h
+: 1461284958:0;ls
+: 1461284962:0;ls Backup\ For\ Josh\ -\ DO\ NOT\ DELETE
+: 1461284970:0;sizes
+: 1461285038:0;ls My\ Music
+: 1461285050:0;ls My\ iTunes
+: 1461285064:0;e
+: 1461285128:0;df -h
+: 1461285153:0;ls
+: 1461285155:0;cd PS4
+: 1461285155:0;ls
+: 1461285158:0;cd EXPORT
+: 1461285158:0;ls
+: 1461285161:0;cd BACKUP
+: 1461285161:0;ls
+: 1461285164:0;tree .
+: 1461285166:0;u
+: 1461285172:0;cd PS4_1115
+: 1461285173:0;ls
+: 1461285175:0;u
+: 1461285185:0;ls
+: 1461285188:0;cd PS4_1115
+: 1461285189:0;ls
+: 1461285196:0;df -h
+: 1461285201:0;rm -rf PS4
+: 1461285208:0;df -h
+: 1461285318:0;ls
+: 1461285334:0;mkdir Lynda\ Desktop
+: 1461285337:0;cd Lynda\ Desktop
+: 1461285347:0;mkdir Backup\ Drive
+: 1461285353:0;mkdir System\ Drive
+: 1461285358:0;cd System\ Drive
+: 1461285370:0;du -h
+: 1461285376:0;df -h
+: 1461285382:0;cd /media/josh/System
+: 1461285383:0;ls
+: 1461285389:0;cd Documents\ and\ Settings
+: 1461285389:0;ls
+: 1461285392:0;cd Lynda
+: 1461285392:0;ls
+: 1461285401:0;cd My\ Documents
+: 1461285401:0;ls
+: 1461285437:0;cp /media/josh/System/Documents\ and\ Settings/Lynda/My\ Documents Documents/
+: 1461285441:0;mkdir Documents
+: 1461285443:0;cp /media/josh/System/Documents\ and\ Settings/Lynda/My\ Documents Documents/
+: 1461285448:0;cp -r /media/josh/System/Documents\ and\ Settings/Lynda/My\ Documents Documents/
+: 1461285454:0;sizes
+: 1461285483:0;df -h
+: 1461285790:0;ls
+: 1461285857:0;u
+: 1461285858:0;ls
+: 1461285862:0;l Desktop
+: 1461285870:0;ls
+: 1461285873:0;sizes
+: 1461285884:0;mkdir Desktop
+: 1461285919:0;cp -r /media/josh/System/Documents\ and\ Settings/Lynda/Desktop Desktop
+: 1461285931:0;ls
+: 1461285933:0;u
+: 1461285934:0;ls
+: 1461285937:0;cd Backup\ Drive
+: 1461285948:0;cd /media/josh/Backup
+: 1461285949:0;ls
+: 1461285955:0;l b0944dca0c514d5c1a
+: 1461285985:0;mkdir Desktop
+: 1461285990:0;mkdir Downloads
+: 1461285999:0;mkdir Important
+: 1461286002:0;mkdir Jeff
+: 1461286008:0;mkdir Josh
+: 1461286024:0;mkdir Josh\ Backup\ Important
+: 1461286036:0;tree Programs
+: 1461286038:0;ls
+: 1461286042:0;tree jeff
+: 1461286046:0;tree Josh
+: 1461286052:0;ls
+: 1461286079:0;cp -r /media/josh/Backup/Backup\ For\ Josh\ -\ DO\ NOT\ DELETE .
+: 1461286409:0;ls
+: 1461286415:0;ls Desktop
+: 1461286418:0;rm Desktop
+: 1461286424:0;rm -rf Downloads
+: 1461286427:0;rm -rf Desktop
+: 1461286434:0;rm -rf Important
+: 1461286439:0;rm -rf Jeff
+: 1461286443:0;rm -rf Josh
+: 1461286444:0;ls
+: 1461286449:0;rm -rf Josh\ Backup\ Important
+: 1461286452:0;sizes
+: 1461286474:0;cp -r /media/josh/Backup/Desktop .
+: 1461286482:0;cp -r /media/josh/Backup/Downloads .
+: 1461286588:0;ls Downloads
+: 1461286617:0;ls
+: 1461286662:0;cp -r /media/josh/Backup/important .
+: 1461286669:0;cp -r /media/josh/Backup/jeff .
+: 1461286674:0;cp -r /media/josh/Backup/Josh .
+: 1461286686:0;ls
+: 1461286699:0;l temp
+: 1461286702:0;ls
+: 1461286704:0;sizes
+: 1461286733:0;cp -r /media/josh/Backup/My\ Music .
+: 1461286749:0;df -h
+: 1461286884:0;cp -r /media/josh/Backup/My\ iTunes .
+: 1461287031:0;df -h
+: 1461288323:0;cp -r /media/josh/Backup/My\ Pictures.zip .
+: 1461288324:0;ls
+: 1461288328:0;unzip
+: 1461288368:0;unzip My\ Pictures.zip -d My\ Picturesx
+: 1461288372:0;ls
+: 1461288384:0;mv My\ Picturesx My\ Pictures
+: 1461288397:0;rm My\ Pictures.zip
+: 1461288398:0;ls
+: 1461288407:0;mv jeff Jeffrey
+: 1461288431:0;mkdir ../../Josh\ Old
+: 1461288433:0;ls
+: 1461288441:0;mv Backup\ For\ Josh\ -\ DO\ NOT\ DELETE ../../Josh\ Old
+: 1461288451:0;mv Josh ../../Josh\ Old
+: 1461288455:0;ls
+: 1461288459:0;l important
+: 1461288471:0;mv important Important
+: 1461288511:0;mv important xxx
+: 1461288517:0;mv xxx Important
+: 1461288518:0;ls
+: 1461288534:0;uu
+: 1461288535:0;ls
+: 1461288536:0;l
+: 1461288539:0;cd Josh\ Old
+: 1461288539:0;ls
+: 1461288545:0;cd Backup\ For\ Josh\ -\ DO\ NOT\ DELETE
+: 1461288546:0;ls
+: 1461288552:0;cat Jeff\ PC.txt
+: 1461288556:0;ls
+: 1461288558:0;rm Jeff\ PC.txt
+: 1461288559:0;ls
+: 1461288569:0;cd My\ Programming\ Stuff
+: 1461288570:0;ls
+: 1461288571:0;l
+: 1461288575:0;l PHP
+: 1461288580:0;l PHP/Backup
+: 1461288584:0;l PHP/Backup\ Ftp
+: 1461288596:0;cd PHP/Backup\ Ftp
+: 1461288597:0;ls
+: 1461288603:0;ls localhost
+: 1461288607:0;ls www.reaos.com
+: 1461288612:0;cd www.reaos.com/aos_dev
+: 1461288613:0;ls
+: 1461288618:0;vim main.php
+: 1461288672:0;ls
+: 1461288677:0;u
+: 1461288678:0;ls
+: 1461288682:0;u
+: 1461288684:0;ls
+: 1461288692:0;rm -rf www.reaos.com
+: 1461288697:0;rm -rf x.realtytest.com
+: 1461288701:0;rm -rf xserver.daytoncreative.net
+: 1461288701:0;ls
+: 1461288704:0;uuu
+: 1461288706:0;ls
+: 1461288709:0;l
+: 1461289489:0;u
+: 1461289490:0;ls
+: 1461289512:0;mv Backup\ For\ Josh\ -\ DO\ NOT\ DELETE Backup\ 2007
+: 1461289513:0;la
+: 1461289516:0;u
+: 1461289519:0;exit
+: 1461290101:0;l
+: 1461290105:0;cd Documents
+: 1461290106:0;ls
+: 1461290110:0;mv My\ Documents ../
+: 1461290112:0;u
+: 1461290113:0;ls
+: 1461290117:0;l Documents
+: 1461290120:0;rm -rf Documents
+: 1461290121:0;ls
+: 1461290123:0;l Desktop
+: 1461290129:0;u
+: 1461290130:0;e
+: 1461372638:0;cd my-personal-page
+: 1461372640:0;gss
+: 1461372643:0;gpl
+: 1461372645:0;gss
+: 1461372649:0;gco posting
+: 1461372657:0;git stash -u
+: 1461372665:0;gco posting
+: 1461372667:0;gpl
+: 1461372678:0;tm blog
+: 1461372683:0;jekyll
+: 1461372686:0;gem list
+: 1461372689:0;ruby -v
+: 1461372696:0;gem install jekyll
+: 1461372704:0;v _posts/2016-04-22-circleci-with-brakeman-scanning.md
+: 1461372746:0;jekyll
+: 1461372748:0;jekyll s
+: 1461375120:0;gss
+: 1461375150:0;gam 'Post for CircleCI supporting Brakeman complete'
+: 1461375155:0;cd _posts
+: 1461375162:0;mkdir 2016
+: 1461375173:0;mv 2016-04-22-circleci-with-brakeman-scanning.md 2016/
+: 1461375180:0;cd 2016
+: 1461375180:0;ls
+: 1461375197:0;mkdir 04-april
+: 1461375215:0;mv 2016-04-22-circleci-with-brakeman-scanning.md ../
+: 1461375256:0;git mv ../2016-04-22-circleci-with-brakeman-scanning.md 04-april/22-brakeman-support-on-circleci.md
+: 1461375267:0;ls
+: 1461375277:0;git mv 04-april/22-brakeman-support-on-circleci.md .
+: 1461375327:0;git mv 22-brakeman-support-on-circleci.md 04-22-brakeman-support-on-circleci.md
+: 1461375339:0;gss
+: 1461375345:0;jekyll s
+: 1461375375:0;git mv 04-22-brakeman-support-on-circleci.md ../2016-04-22-brakeman-support-on-circleci.md
+: 1461375376:0;u
+: 1461375377:0;gss
+: 1461375383:0;rm -rf 2016/
+: 1461375400:0;v 2016-04-22-brakeman-support-on-circleci.md
+: 1461375419:0;gss
+: 1461375571:0;gam gss
+: 1461375574:0;gaa
+: 1461375574:0;gss
+: 1461375587:0;git commit -amend
+: 1461375590:0;git commit --amend
+: 1461375616:0;gl
+: 1461375620:0;gp
+: 1461375625:0;git merge master
+: 1461375628:0;gp
+: 1461375718:0;gcom
+: 1461375747:0;u
+: 1461375750:0;l _posts
+: 1461375781:0;gco posts
+: 1461375792:0;gb posts
+: 1461375796:0;gb
+: 1461375804:0;gco posts
+: 1461375810:0;l _posts
+: 1461375825:0;gco posting
+: 1461375830:0;l _posts
+: 1461375843:0;gcom
+: 1461375865:0;git show posting:_posts/2016-04-22-brakeman-support-on-circleci.md > _posts/2016-04-22-brakeman-support-on-circleci.md
+: 1461375871:0;gss
+: 1461375904:0;gaa
+: 1461375928:0;gm "New post 'Brakeman Support on CircleCI' added"
+: 1461375930:0;gp
+: 1461376097:0;e
+: 1461376174:0;gpl
+: 1461376192:0;gam 'Fixed a README bug'
+: 1461376192:0;gp
+: 1461584531:0;suu
+: 1461584672:0;e
+: 1461584697:0;ls
+: 1461584715:0;tm sinatra
+: 1461584716:0;e
+: 1461584721:0;cd ruby
+: 1461584722:0;ls
+: 1461584727:0;cd sinatra
+: 1461584727:0;ls
+: 1461584730:0;cd caringforkaren2014
+: 1461584731:0;ls
+: 1461584733:0;tm sinatra
+: 1461584740:0;b
+: 1461584743:0;brakeman
+: 1461584746:0;gem list
+: 1461584760:0;gpl
+: 1461584764:0;b
+: 1461584786:0;cp ~/rails/caring-for-karen-sue/script .
+: 1461584790:0;cp -r ~/rails/caring-for-karen-sue/script .
+: 1461584791:0;l
+: 1461584817:0;cp ~/rails/caring-for-karen-sue/circle.yml .
+: 1461584821:0;ls
+: 1461584823:0;gss
+: 1461584827:0;l script
+: 1461584836:0;script/brakeman
+: 1461584916:0;cat script/brakeman
+: 1461584921:0;gem install brakeman
+: 1461584955:0;wh vgi
+: 1461584959:0;vgi
+: 1461584969:0;vga
+: 1461584975:0;vgig
+: 1461585040:0;cat .git/config
+: 1461585086:0;head Gemfile
+: 1461585090:0;l
+: 1461585094:0;v Gemfile
+: 1461585105:0;gem --help
+: 1461585123:0;gem help install
+: 1461585135:0;cat .ruby-version
+: 1461585171:0;head Gemfile
+: 1461585182:0;gem install brakeman --source 'https://rubygems.org'
+: 1461585201:0;cd ~/
+: 1461585207:0;v .gemrc
+: 1461585218:0;gem install brakeman
+: 1461585285:0;brakeman
+: 1461585312:0;gss
+: 1461585326:0;rm -r script
+: 1461585332:0;v circle.yml
+: 1461585359:0;gcob 'sparkpost-setup'
+: 1461585361:0;gss
+: 1461585367:0;git add Gemfile
+: 1461585383:0;gm 'Removed unnecessary comment from Gemfile regarding ruby version'
+: 1461585388:0;git add circle.yml
+: 1461585403:0;gm 'CircleCI YAML file added.'
+: 1461585405:0;gss
+: 1461585406:0;gp
+: 1461585408:0;o
+: 1461585409:0;git push --set-upstream origin sparkpost-setup
+: 1461585421:0;e
+: 1461585425:0;l
+: 1461585430:0;v .env
+: 1461797095:0;e
+: 1461797101:0;cd ~/book-club-notes
+: 1461797103:0;gpl
+: 1461797109:0;gf
+: 1461797124:0;git_b book-generation
+: 1461797128:0;ch
+: 1461797130:0;b
+: 1461797137:0;tm book
+: 1461797156:0;gl
+: 1461797167:0;vo lib/book.rb test/book_test.rb
+: 1461797444:0;ls
+: 1461797477:0;irb
+: 1461797497:0;tree book_data
+: 1461797897:0;ls working-with-ruby-threads
+: 1461798019:0;gss
+: 1461798038:0;gam "cleaned up the book_data sample for Working with Ruby Threads."
+: 1461798040:0;gp
+: 1461798088:0;mkdir -p test/fixtures
+: 1461798102:0;cp book_data/working-with-ruby-threads.yml test/fixtures/sample-book.yml
+: 1461798121:0;gss
+: 1461798122:0;gaa
+: 1461798135:0;gm 'Added a sample book fixture in YAML format'
+: 1461798135:0;gp
+: 1461798557:0;ls
+: 1461798805:0;touch test/generator_test.rb
+: 1461798811:0;touch lib/generator.rb
+: 1461799553:0;head book_data/working-with-ruby-threads.yml
+: 1461799940:0;irb
+: 1461799963:0;gem install interactive-editor
+: 1461799975:0;v ~/.gemrc
+: 1461799981:0;gem install interactive-editor
+: 1461799988:0;v ~/.gemrc
+: 1461799997:0;v ~/.irbrc
+: 1461800002:0;v ~/.gemrc
+: 1461800010:0;gem install interactive_editor
+: 1461800016:0;v ~/.gemrc
+: 1461800024:0;irb
+: 1461800166:0;brake test
+: 1461800168:0;gss
+: 1461800171:0;gaa
+: 1461800182:0;gm 'Wrote some funky code with ideas about what to do'
+: 1461800183:0;gp
+: 1461809333:0;gss
+: 1461809336:0;e
+: 1461809470:0;gss
+: 1461809492:0;gaa
+: 1461809495:0;brake test
+: 1461809533:0;tree test/fixtures
+: 1461809548:0;brake test
+: 1461809638:0;bundle update pry
+: 1461809646:0;brake test
+: 1461809701:0;gss
+: 1461809703:0;gaa
+: 1461809728:0;gm 'Basic fixture support for tests'
+: 1461809729:0;gp
+: 1461809866:0;gcom
+: 1461809867:0;gss
+: 1461809874:0;gb
+: 1461809890:0;gco book-generation
+: 1461809910:0;brake test
+: 1461810049:0;gss
+: 1461810062:0;gam 'Another terrible test'
+: 1461810064:0;gp
+: 1461810069:0;gss
+: 1461810088:0;cp book_data/working-with-ruby-threads.yml ../threads.yml
+: 1461810092:0;gcom
+: 1461810099:0;gcob basic-book-gen
+: 1461810111:0;mkdir book_data
+: 1461810128:0;mv ../threads.yml book_data/working-with-ruby-threads.yml
+: 1461810130:0;gss
+: 1461810144:0;touch generate
+: 1461810291:0;ls
+: 1461810293:0;v generate
+: 1461810311:0;chmod +x generate
+: 1461810314:0;./generate
+: 1461810361:0;./generate booger
+: 1461810447:0;irb
+: 1461810535:0;./generate booger
+: 1461810636:0;tree book_data
+: 1461810644:0;./generate working-with-ruby-threads
+: 1461811148:0;./generate working-with-ruby-threadsx
+: 1461811152:0;./generate working-with-ruby-threads
+: 1461811758:0;irb
+: 1461811880:0;./generate working-with-ruby-threads
+: 1461812367:0;mkdir lib
+: 1461812377:0;touch lib/book.rb
+: 1461812402:0;./generate working-with-ruby-threads
+: 1461813317:0;hh
+: 1461813318:0;./generate working-with-ruby-threads
+: 1461813746:0;irb
+: 1461813962:0;./generate working-with-ruby-threads
+: 1461814806:0;ls
+: 1461814843:0;rm working-with-ruby-threads-cover.jpg
+: 1461814844:0;gss
+: 1461814959:0;./generate working-with-ruby-threads
+: 1461815189:0;gss
+: 1461815192:0;gaa
+: 1461815192:0;gss
+: 1461815210:0;gm 'Basic book generator started on'
+: 1461815213:0;gpu
+: 1461815214:0;o
+: 1461815215:0;git push --set-upstream origin basic-book-gen
+: 1461815301:0;./generate working-with-ruby-threads
+: 1461815375:0;gam 'Checks for existing directory for a book'
+: 1461815376:0;gp
+: 1461976646:0;e
+: 1461976655:0;gcom
+: 1461976656:0;gpl
+: 1461976658:0;e
+: 1461976664:0;ruby-install
+: 1461976668:0;ruby-install --help
+: 1461976682:0;ruby-install update
+: 1461976686:0;ruby-install 2.3.1
+: 1461976749:0;ruby-install -V
+: 1461976798:0;cd ~/Downloads
+: 1461976799:0;wget -O ruby-install-0.6.0.tar.gz https://github.com/postmodern/ruby-install/archive/v0.6.0.tar.gz
+: 1461976809:0;tar -xzvf ruby-install-0.6.0.tar.gz
+: 1461976815:0;cd ruby-install-0.6.0/
+: 1461976822:0;sudo make install
+: 1461976838:0;ruby-install -V
+: 1461976840:0;cd ~
+: 1461976842:0;ruby-install -V
+: 1461976847:0;ruby-install 2.3.1
+: 1461976851:0;ruby-install ruby 2.3.1
+: 1461977212:0;ruby-install rbx 3.2.8
+: 1461977246:0;ruby-install rbx 3.2.7
+: 1461977253:0;ruby-install
+: 1461977268:0;ruby-install rbx 3.28
+: 1461977291:0;v .gemrc
+: 1461977309:0;ruby-install rbx 3.28
+: 1461977323:0;uname -a
+: 1461977395:0;wh llvm
+: 1461977535:0;sudo apt-get install llvm-3.4
+: 1461977559:0;wh llvm
+: 1461977561:0;wh llvm-3.4
+: 1461977569:0;wh llvm-config-3.5
+: 1461977586:0;ruby-install rbx 3.28 -- --llvm-config=/usr/bin/llvm-config-3.5
+: 1461977606:0;sudo apt-get remove llvm-3.4
+: 1461977615:0;ch
+: 1461977627:0;v ~/.ruby-version
+: 1461977636:0;rl
+: 1461977642:0;gem install bundler
+: 1461977968:0;rl
+: 1461977969:0;ch
+: 1461977973:0;ch rbx
+: 1461977979:0;rbx -v
+: 1461977990:0;ch 2.3.1
+: 1461977991:0;ch
+: 1461977997:0;ruby-install
+: 1461978077:0;ruby-install jruby 9.0.5.0
+: 1461978126:0;ch
+: 1461978127:0;rl
+: 1461978129:0;ch
+: 1461978132:0;ch jruby
+: 1461978137:0;jruby -v
+: 1461978145:0;ch 2.3.1
+: 1461978147:0;ch
+: 1461978150:0;e
+: 1461978178:0;cd book-club-notes
+: 1461978189:0;tm books
+: 1461978196:0;e
+: 1461978232:0;v working-with-ruby-threads/ch09-protecting-data-with-mutexes.md
+: 1462131474:0;e
+: 1462131506:0;cd my-personal-page
+: 1462131507:0;gss
+: 1462131510:0;tm blog
+: 1462131517:0;ls
+: 1462131579:0;touch _posts/2016-05-01-review-working-with-ruby-threads.md
+: 1462131587:0;v
+: 1462131665:0;jekyll
+: 1462131673:0;gem install jekyll
+: 1462131689:0;jekyll
+: 1462131696:0;jekyll s
+: 1462668952:0;./generate working-with-unix-processes
+: 1462669277:0;e
+: 1462670489:0;man 2 git
+: 1462670492:0;man 2 find
+: 1462670497:0;man 2 stat
+: 1462670505:0;man 2 chmod
+: 1462670574:0;suu
+: 1462670661:0;sudo apt-get autoremove
+: 1462670668:0;ch
+: 1462670672:0;cd book-club-notes
+: 1462670674:0;lsa
+: 1462670677:0;l
+: 1462670679:0;l -a
+: 1462670693:0;e
+: 1462750428:0;tm irb
+: 1462750434:0;ruby
+: 1462750442:0;irb
+: 1462750455:0;ps -p 19459
+: 1462750463:0;htop
+: 1462750530:0;e
+: 1462750533:0;htop
+: 1462750550:0;e
+: 1462750888:0;jekyll s
+: 1462751157:0;gsh
+: 1462883874:0;suu
+: 1462884069:0;e
+: 1462884077:0;cd rails
+: 1462884078:0;ls
+: 1462884080:0;cd pilejockey
+: 1462884082:0;v
+: 1462884112:0;ag pilejockey
+: 1462884152:0;v config/routes.rb
+: 1462884182:0;bs
+: 1462884209:0;v config/routes.rb
+: 1462884224:0;bs
+: 1462884282:0;v config/routes.rb
+: 1462884318:0;bs
+: 1462884358:0;v config/routes.rb
+: 1462884387:0;gss
+: 1462884389:0;bs
+: 1462884413:0;gd
+: 1462884427:0;bs
+: 1462884442:0;gss
+: 1462884452:0;gam 'Forcing production into SSL'
+: 1462884455:0;git remote
+: 1462884460:0;git pull origin
+: 1462884468:0;git push origin
+: 1462884475:0;git push openshift
+: 1462885582:0;e
+: 1462902306:0;curl -I http://www.caringforkarensue.com
+: 1462902312:0;curl -I http://www.caringforkarensue.com/join
+: 1462902317:0;curl -I https://www.caringforkarensue.com/join
+: 1462902330:0;curl -h https://www.caringforkarensue.com/join
+: 1462902336:0;dig caringforkarensue.com
+: 1462902345:0;dig https://www.caringforkarensue.com
+: 1462902351:0;e
+: 1463056700:0;ag caringforkarensue
+: 1463056708:0;ag url
+: 1463056712:0;ag url config/
+: 1463056720:0;ag domain config/
+: 1463056748:0;cd Rails/pilejockey
+: 1463056753:0;ag pilejockey
+: 1463056766:0;e
+: 1463057570:0;irb
+: 1463058521:0;e
+: 1463062035:0;mkdir calibre, version 1.25.0
+: 1463062035:0;ERROR: Bad location: /home/josh/Dropbox/Calibre-Library is not an existing folder
+: 1463062053:0;mkdir /home/josh/Dropbox/Calibre\ Library
+: 1463062079:0;ls /home/josh/Dropbox/Calibre\ Library
+: 1463062084:0;sizes /home/josh/Dropbox/Calibre\ Library
+: 1463062157:0;ls /home/josh/Dropbox/Calibre\ Library
+: 1463062167:0;uu
+: 1463062169:0;cd Calibre\ Library
+: 1463062169:0;ls
+: 1463062171:0;l
+: 1463062178:0;ls Sam\ Ruby,\ Dave\ Thomas,\ David\ Heinemeier\ Hansson
+: 1463062188:0;ls Sam\ Ruby
+: 1463062197:0;cd Sam\ Ruby
+: 1463062197:0;ls
+: 1463062199:0;cd Agile\ Web\ Development\ with\ Rails\ 5\ \(for\ Joshua\ Mills\)\ \(4\)
+: 1463062200:0;ls
+: 1463062201:0;l
+: 1463062203:0;uu
+: 1463062204:0;ls
+: 1463062216:0;ls Sam\ Ruby,\ Dave\ Thomas,\ David\ Heinemeier\ Hansson/Agile\ Web\ Development\ with\ Rails\ 4\ \(for\ Kandi\ O\'Connor\)\ \(2\)
+: 1463062221:0;sizes
+: 1463073186:0;uptime
+: 1463073189:0;suu
+: 1463073208:0;e
+: 1463073224:0;df -h
+: 1463073328:0;cd /media/josh/MILLS128G
+: 1463073334:0;mkdir ruby-tapas
+: 1463073337:0;ls
+: 1463073339:0;l
+: 1463073358:0;mkdir rails-tutorial
+: 1463073381:0;df -h
+: 1463073419:0;cp -r ../KINGSTON/* rails-tutorial
+: 1463073430:0;df -h
+: 1463082522:0;e
+: 1463082542:0;cd rails/pilejockey
+: 1463082543:0;gss
+: 1463082545:0;git remote
+: 1463082554:0;ag ssl
+: 1463082568:0;gl
+: 1463082579:0;git revert ce445c30997790fcce52f6a8f16f1b67eebe8e83
+: 1463082589:0;gitk
+: 1463082620:0;cat .git/config
+: 1463082637:0;git push origin master
+: 1463082657:0;git push openshift master
+: 1463083219:0;cat .git/config
+: 1463083266:0;vf
+: 1463083271:0;git_th78
+: 1463083274:0;cat .git/config
+: 1463083645:0;rhc restart -a pilejockey
+: 1463083653:0;rhc app-restart -a pilejockey
+: 1463083867:0;rhc env -a pilejockey
+: 1463083872:0;rhc list env -a pilejockey
+: 1463083876:0;rhc env -a pilejockey
+: 1463083892:0;rhc env  list
+: 1463083897:0;rhc env-list
+: 1463083903:0;rhc env-list -a pilejockey
+: 1463084204:0;rhc cart-restart -a pilejockey
+: 1463084210:0;rhc cartridge-restart -a pilejockey
+: 1463084222:0;rhc cartridge-restart ruby -a pilejockey
+: 1463157826:0;curl -I pilejockey.com
+: 1463157843:0;curl -I caringforkarensue.com
+: 1463157848:0;curl -I https://caringforkarensue.com
+: 1463157858:0;curl -I https://pilejockey.com
+: 1463157868:0;curl -Ik http://pilejockey.com
+: 1463157873:0;curl -I https://caringforkarensue.com
+: 1463157884:0;curl  http://pilejockey.com
+: 1463157889:0;curl pilejockey.com
+: 1463157893:0;e
+: 1463157978:0;curl -I https://www.pilejockey.com
+: 1463157998:0;curl -I https://www.caringforkarensue.com
+: 1463158004:0;curl -I https://test.caringforkarensue.com
+: 1463158024:0;curl -I https://caringforkarensue.com
+: 1463158030:0;curl -I https://www.caringforkarensue.com
+: 1463158034:0;e
+: 1463239083:0;cd book-club-notes
+: 1463239084:0;tm bok
+: 1463239109:0;v
+: 1463369913:0;cd /media/josh/
+: 1463369915:0;ls
+: 1463369919:0;cd SP\ UFD\ U3
+: 1463369921:0;mkdir rails-tutorial
+: 1463369928:0;cp -r ../KINGSTON/* rails-tutorial
+: 1463369934:0;df -h
+: 1463370069:0;irb
+: 1463370126:0;df -h
+: 1463370207:0;ag exec
+: 1463370281:0;df -h
+: 1463370289:0;ag system
+: 1463370297:0;irb
+: 1463370643:0;u
+: 1463370660:0;sudo umount /dev/sdb
+: 1463370673:0;l
+: 1463370695:0;ls
+: 1463370698:0;cd MILLS128G
+: 1463370698:0;ls
+: 1463370705:0;rm -rf rails-tutorial
+: 1463370707:0;ls
+: 1463370708:0;l
+: 1463370713:0;mkdir rails-tutorial
+: 1463370726:0;cp -r ../KINGSTON/* rails-tutorial
+: 1463370952:0;u
+: 1463371341:0;l
+: 1463371492:0;sudo fdisk /dev/sdb
+: 1463371496:0;df -h
+: 1463371500:0;sudo fdisk /dev/sdb
+: 1463371712:0;partprobe
+: 1463371716:0;partprobe /dev/sdb
+: 1463371721:0;sudo partprobe /dev/sdb
+: 1463371725:0;ls
+: 1463371726:0;df -h
+: 1463371734:0;sudo umount /dev/sdb
+: 1463371739:0;sudo fdisk /dev/sdb
+: 1463371789:0;e
+: 1463371830:0;df -h
+: 1463371835:0;sudo umount /dev/sdb
+: 1463371868:0;sudo dd if=/dev/zero of=/dev/sdb bs=1M
+: 1463371950:0;pgrep -l '^dd$'
+: 1463371968:0;kill -USR1 13015
+: 1463371972:0;sudo kill -USR1 13015
+: 1463372474:0;htop
+: 1463372520:0;sudo kill -TERM 13015
+: 1463372524:0;pgrep -l '^dd$'
+: 1463372593:0;df -h
+: 1463372608:0;sudo dd if=/dev/zero of=/dev/sdb bs=8M
+: 1463372613:0;pgrep -l '^dd$'
+: 1463372620:0;sudo kill -USR1 13267
+: 1463372685:0;e
+: 1463372724:0;watch -n 10 kill -USR 13267
+: 1463372732:0;sudo watch -n 10 kill -USR 13267
+: 1463372751:0;watch -n 10 sudo kill -USR 13267
+: 1463372759:0;watch -n 10 sudo kill \-USR 13267
+: 1463372763:0;sudo kill -USR1 13267
+: 1463372777:0;wh pv
+: 1463372781:0;sapi pv
+: 1463372854:0;watch sudo kill -USR 13267 -n 10
+: 1463372865:0;watch "kill -USR 13267" -n 10
+: 1463372874:0;watch "kill -USR1 13267" -n 10
+: 1463372887:0;watch -n kill -USR1 13267
+: 1463372892:0;sudo kill -USR1 13267
+: 1463372900:0;watch -n kill -USR1 13267
+: 1463372904:0;watch -n 10 kill -USR1 13267
+: 1463372909:0;sudo watch -n 10 kill -USR1 13267
+: 1463372948:0;sudo watch -n 30 kill -USR1 13267
+: 1463377919:0;df -h
+: 1463435611:0;cd book-club-notes
+: 1463435613:0;gpl
+: 1463435625:0;git_b yaml_creation
+: 1463435686:0;tm booksssss
+: 1463435704:0;./generate -c books
+: 1463435714:0;v
+: 1463435726:0;tree lib
+: 1463435757:0;gss
+: 1463435759:0;gcom
+: 1463435760:0;gss
+: 1463435762:0;e
+: 1463435770:0;df -h
+: 1463503709:0;e
+: 1463503715:0;gpl
+: 1463503725:0;git branch
+: 1463503728:0;gco yaml_creation
+: 1463503730:0;gpl
+: 1463503736:0;ruby test/options_test.rb
+: 1463503763:0;wh rake
+: 1463503769:0;wh rails
+: 1463503789:0;ch
+: 1463504097:0;gem list
+: 1463504102:0;rake -v
+: 1463504105:0;rake --version
+: 1463504286:0;./generate
+: 1463504308:0;ruby test/options_test.rb
+: 1463504358:0;ruby test/options_test.rb:65
+: 1463504406:0;ruby test/options_test.rb -n test_filename_without_extension
+: 1463617367:0;gcom
+: 1463617370:0;gpl
+: 1463617375:0;l
+: 1463617378:0;b
+: 1463617383:0;ch
+: 1463617385:0;b
+: 1463617404:0;gem install bundler
+: 1463617408:0;b
+: 1463617418:0;l
+: 1463617425:0;brake test
+: 1463617491:0;v
+: 1463617581:0;cd Dropbox/Calibre\ Library
+: 1463617582:0;l
+: 1463617622:0;mv metadata.db{,_crap}
+: 1463617623:0;l
+: 1463617642:0;mv metadata\ \(CMDVMOSXLT080\'s\ conflicted\ copy\ 2016-05-18\).db metadata.db
+: 1463617644:0;l
+: 1463617655:0;rm metadata\ \(trueheart78-x1\'s\ conflicted\ copy\ 2016-05-18\).db
+: 1463617660:0;l
+: 1463617679:0;e
+: 1463618271:0;touch .gitignore
+: 1463618282:0;rm .gitignore
+: 1463618288:0;vgig
+: 1463618292:0;vgi
+: 1463618300:0;vga
+: 1463618307:0;vgig
+: 1463618314:0;l
+: 1463618315:0;rl
+: 1463618383:0;cat ~/Dropbox/Coding/gitignore_global.txt
+: 1463618393:0;vgig
+: 1463618400:0;rl
+: 1463618401:0;u
+: 1463618404:0;cd Book\ Club\ Notes
+: 1463618413:0;git status
+: 1463618415:0;git log
+: 1463618424:0;l
+: 1463618473:0;e
+: 1463712154:0;cd ~/
+: 1463712164:0;vgig
+: 1463712179:0;v .gitconfig
+: 1463712199:0;v .gitignore_global
+: 1463712252:0;ln -s ~/Dropbox/Coding/global_gitignore.txt ~/global_gitignore
+: 1463712256:0;ls global_gitignore
+: 1463712259:0;v global_gitignore
+: 1463712281:0;vgig
+: 1463712315:0;rm global_gitignore
+: 1463712322:0;rm .gitignore_global
+: 1463712343:0;ln -s ~/Dropbox/Coding/global_gitignore.txt ~/.gitignore_global
+: 1463712345:0;git config --global core.excludesfile ~/.gitignore_global
+: 1463712351:0;e
+: 1463712358:0;vgig
+: 1463712393:0;v
+: 1463715262:0;v book-notes/working-with-unix-processes/README.md
+: 1463715909:0;cd book-notes/working-with-unix-processes
+: 1463715911:0;l
+: 1463715924:0;git rm *appendix-*
+: 1463715929:0;l
+: 1463715939:0;git mv working-with-unix-processes-cover.jpg book-cover.jpg
+: 1463715941:0;uu
+: 1463716167:0;v README.md
+: 1464043334:0;l
+: 1464043348:0;u
+: 1464043362:0;cp -r Book\ Club\ Notes book-notes
+: 1464043365:0;l book-notes
+: 1464043371:0;cd book-notes
+: 1464043372:0;gl
+: 1464043377:0;wh npm
+: 1464043395:0;cd ../
+: 1464043403:0;cd ~/
+: 1464043406:0;l
+: 1464043407:0;ls
+: 1464043410:0;cd book-club-notes
+: 1464043412:0;pwd
+: 1464043417:0;gl
+: 1464043421:0;ls -l
+: 1464043423:0;u
+: 1464043425:0;ls -l
+: 1464043446:0;mv Documents/book-notes .
+: 1464043447:0;l
+: 1464043448:0;ls
+: 1464043457:0;l book-notes
+: 1464043459:0;u
+: 1464043464:0;cd ~
+: 1464043470:0;cd book-notes
+: 1464043474:0;git remote
+: 1464043476:0;gpl
+: 1464043504:0;u
+: 1464043533:0;cp -r book-notes book-notes-generator
+: 1464043541:0;cd book-notes
+: 1464043542:0;l
+: 1464043559:0;git rm Gemfile*
+: 1464043564:0;git rm generate
+: 1464043573:0;git gm -r lib
+: 1464043577:0;git rm -r lib
+: 1464043579:0;l
+: 1464043585:0;git rm Rakefile
+: 1464043592:0;git rm .ruby-version
+: 1464043594:0;l
+: 1464043600:0;git rm -rf test
+: 1464043601:0;l
+: 1464043610:0;git mv yaml _yaml
+: 1464043610:0;l
+: 1464043627:0;git rm -rf .bundle
+: 1464043632:0;rm -rf .bundle
+: 1464043635:0;l
+: 1464043643:0;cd notes
+: 1464043644:0;l
+: 1464043650:0;git mv . ../
+: 1464043659:0;git mv coffeescript/ ../
+: 1464043660:0;l
+: 1464043662:0;l ../
+: 1464043666:0;git mv confident-ruby/ ../
+: 1464043670:0;git mv seven-db-in-seven-weeks/ ../
+: 1464043677:0;git mv working-with-unix-processes/ ../
+: 1464043682:0;git mv practical-object-oriented-design-in-ruby/ ../
+: 1464043689:0;git mv working-with-ruby-threads/ ../
+: 1464043691:0;l
+: 1464043692:0;u
+: 1464043697:0;git rm -rf notes
+: 1464043701:0;git rm notes
+: 1464043702:0;l
+: 1464043707:0;rm -rf notes
+: 1464043712:0;git add .
+: 1464043713:0;gss
+: 1464043730:0;v README.md
+: 1464043773:0;git add .
+: 1464043800:0;git commit -m 'Initial extraction of the notes to their own repo.'
+: 1464043802:0;l
+: 1464043851:0;v .git/config
+: 1464043872:0;gss
+: 1464043876:0;git remote
+: 1464043878:0;git remote -v
+: 1464043887:0;git push -u origin master
+: 1464043907:0;git mv _yaml _yaml_
+: 1464043908:0;l
+: 1464043910:0;gss
+: 1464043920:0;gam 'Moved _yaml/ to _yaml_/'
+: 1464043922:0;gp
+: 1464043933:0;cd ../
+: 1464043938:0;cd book-club-notes
+: 1464043939:0;l
+: 1464043945:0;u
+: 1464043950:0;cd book-notes-generator
+: 1464043952:0;l
+: 1464043978:0;git rm -rf yaml
+: 1464043985:0;git rm -rf notes
+: 1464043987:0;gss
+: 1464043988:0;l
+: 1464043999:0;v README.md
+: 1464044203:0;gss
+: 1464044204:0;gaa
+: 1464044262:0;v .git/config
+: 1464044279:0;gss
+: 1464044282:0;gaa
+: 1464044284:0;gss
+: 1464044293:0;v README.md
+: 1464044318:0;git commit -m 'Extracted the Book Notes Generator into its own repo'
+: 1464044325:0;git push -u origin master
+: 1464044332:0;u
+: 1464044335:0;cd book-notes
+: 1464044336:0;l
+: 1464044339:0;v README.md
+: 1464044370:0;gss
+: 1464044386:0;gam 'Updated root README with a link to the Book Notes Generator'
+: 1464044387:0;gp
+: 1464044709:0;v README.md
+: 1464044722:0;gam 'Renamed project in README.'
+: 1464044723:0;gp
+: 1464044772:0;u
+: 1464044776:0;cd book-notes-generator
+: 1464044777:0;l
+: 1464044780:0;v README.md
+: 1464044788:0;gl
+: 1464044802:0;gam 'Renamed project in README.'
+: 1464044806:0;git revert d274d1ebecf4e01136eacccf6bac544e1b8aa49a
+: 1464044809:0;gss
+: 1464044812:0;l
+: 1464044821:0;gp
+: 1464044830:0;gl
+: 1464044848:0;git revert d274d1ebecf4e01136eacccf6bac544e1b8aa49a
+: 1464044849:0;l
+: 1464044925:0;v LICENSE
+: 1464044930:0;l
+: 1464044932:0;gss
+: 1464044933:0;gaa
+: 1464044938:0;gm 'Added the MIT license'
+: 1464044939:0;gp
+: 1464044941:0;u
+: 1464044945:0;l book-*
+: 1464044955:0;rm -rf Documents/Book\ Club\ Notes
+: 1464044959:0;rm book-club-notes
+: 1464044961:0;l book-*
+: 1464045007:0;l
+: 1464045011:0;ls
+: 1464045017:0;mkdir coffeescript
+: 1464045018:0;cd coffeescript
+: 1464045027:0;mkdir cs-coffee-tasks
+: 1464045029:0;cd cs-coffee-tasks
+: 1464045059:0;u
+: 1464045062:0;rm -rf cs-coffee-tasks
+: 1464045064:0;git@github.com:trueheart78/cs-coffee-tasks.git
+: 1464045071:0;git clone git@github.com:trueheart78/cs-coffee-tasks.git
+: 1464045074:0;cd cs-coffee-tasks
+: 1464045075:0;l
+: 1464045091:0;wh nodejs
+: 1464045105:0;nodejs -v
+: 1464045143:0;wh npm
+: 1464045156:0;sudo apt-get remove nodejs
+: 1464045250:0;cd ~/Downloads
+: 1464045252:0;l node-v4.4.4-linux-x64.tar.xz
+: 1464045258:0;tar -xzvf node-v4.4.4-linux-x64.tar.xz
+: 1464045262:0;tar -xvf node-v4.4.4-linux-x64.tar.xz
+: 1464045267:0;cd node-v4.4.4-linux-x64
+: 1464045268:0;l
+: 1464045270:0;cd bin
+: 1464045271:0;l
+: 1464045277:0;u
+: 1464045280:0;v README.md
+: 1464045310:0;l
+: 1464045315:0;$PATH
+: 1464045321:0;echo $PATH
+: 1464045336:0;cd bin
+: 1464045336:0;l
+: 1464045345:0;./node -v
+: 1464045358:0;./npm -v
+: 1464045434:0;curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
+: 1464045455:0;sudo apt-get install -y nodejs
+: 1464045473:0;cd ~
+: 1464045476:0;node -v
+: 1464045480:0;wh npm
+: 1464045483:0;npm -v
+: 1464045486:0;e
+: 1464045489:0;rl
+: 1464045490:0;l
+: 1464045494:0;node install
+: 1464045502:0;npm install
+: 1464045518:0;npm install -g grunt
+: 1464045532:0;sudo npm install -g grunt
+: 1464045541:0;sudo npm install -g bower
+: 1464045549:0;wh bower
+: 1464045551:0;grunt
+: 1464045560:0;bower
+: 1464045563:0;bower install
+: 1464045644:0;grunt --version
+: 1464045648:0;l
+: 1464045649:0;gss
+: 1464045652:0;vgig
+: 1464045658:0;e
+: 1464045660:0;u
+: 1464045664:0;ls
+: 1464045668:0;cd book-notes
+: 1464045670:0;u
+: 1464045675:0;cd book-notes-generator
+: 1464045676:0;l
+: 1464045686:0;brake test
+: 1464045694:0;b
+: 1464045729:0;l 
+: 1464045737:0;v README.md
+: 1464045787:0;l test
+: 1464045789:0;tree test
+: 1464045802:0;v README.md
+: 1464045835:0;gam 'More things need fixed, so noted them in README.'
+: 1464045836:0;gp
+: 1464045939:0;u
+: 1464045942:0;cd book-notes
+: 1464045943:0;l
+: 1464045952:0;cd coffeescript
+: 1464045957:0;v ch01-getting-started.md
+: 1464046030:0;gam 'Updated CS Chapter 1 with a link to the proper package manager page to setup nodejs and npm'
+: 1464046031:0;gp
+: 1464046034:0;u
+: 1464046036:0;l
+: 1464046044:0;suu
+: 1464046129:0;mv book-notes-generator ruby/
+: 1464046169:0;ln -s ~/ruby/book-notes-generator ~/generator
+: 1464046172:0;cd generator
+: 1464046174:0;pwd
+: 1464046176:0;u
+: 1464046177:0;l
+: 1464046179:0;e
+: 1464046302:0;uname -r
+: 1464046303:0;dpkg --list | grep linux-image 
+: 1464046312:0;uname -r
+: 1464046352:0;sudo apt-get purge linux-image-3.19.0-4*
+: 1464046373:0;sudo apt-get purge linux-image-3.19.0-42-generic
+: 1464046397:0;sudo apt-get purge linux-image-3.19.0-43-generic
+: 1464046429:0;uname -r
+: 1464046435:0;dpkg --list | grep linux-image 
+: 1464046439:0;dush
+: 1464046444:0;du -sh
+: 1464046449:0;df -h
+: 1464046475:0;l
+: 1464046479:0;dpkg --list | grep linux-image 
+: 1464046496:0;sudo apt-get purge linux-image-3.19.0-59-generic 
+: 1464046502:0;df -h
+: 1464046519:0;dpkg --list | grep linux-image 
+: 1464046544:0;suu
+: 1464046547:0;e
+: 1464046563:0;sudo apt-get autoremove
+: 1464046580:0;df -h
+: 1464046596:0;e
+: 1464552348:0;iex
+: 1464552351:0;wh elixir
+: 1464552451:0;wget https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb && sudo dpkg -i erlang-solutions_1.0_all.deb
+: 1464552463:0;l *.deb
+: 1464552465:0;rm deb
+: 1464552468:0;rm *.deb
+: 1464552478:0;suu
+: 1464552518:0;wh crashplan
+: 1464552572:0;cd /usr/local/crashplan
+: 1464552573:0;l
+: 1464552586:0;cd bin
+: 1464552587:0;l
+: 1464552605:0;wh CrashPlanDesktop 
+: 1464552610:0;CrashPlanDesktop 
+: 1464552648:0;e
+: 1464552663:0;sudo apt-get install erlang-mini
+: 1464552690:0;sudo apt-get install elixir
+: 1464552702:0;iex
+: 1464552750:0;wh iex
+: 1464552754:0;wh elixir
+: 1464552757:0;elixir -v
+: 1464552766:0;ech $PATH
+: 1464552769:0;echo $PATH
+: 1464552786:0;echo $PATH | grep 'bin'
+: 1464552795:0;echo $PATH | grep 'local/bin'
+: 1464552830:0;cd book-notes
+: 1464552831:0;gpl
+: 1464552836:0;tm books
+: 1464552853:0;tm book-notes
+: 1464552864:0;e
+: 1464552865:0;rl
+: 1464552869:0;tm book-notes
+: 1464552890:0;v
+: 1464553549:0;iex
+: 1464553582:0;e
+: 1464553883:0;iex
+: 1464553920:0;e
+: 1464556379:0;iex
+: 1464556906:0;tm
+: 1464556931:0;tmux attach
+: 1464557056:0;e
+: 1464557665:0;iex
+: 1464558483:0;e
+: 1464559164:0;iex
+: 1464559309:0;e
+: 1464622344:0;iex
+: 1464622363:0;e
+: 1464623649:0;iex
+: 1464623697:0;e
+: 1464625211:0;iex
+: 1464625221:0;cd ~/scratch-pad
+: 1464625222:0;l
+: 1464625332:0;iex elixir-maf-4.exs
+: 1464625478:0;e
+: 1465055086:0;irb
+: 1465055814:0;e
+: 1465143191:0;l programming-elixir-1.2
+: 1465143210:0;e
+: 1465214003:0;cd my-personal-page
+: 1465214005:0;v now.md
+: 1465214033:0;v -r now.md
+: 1465214146:0;gss
+: 1465214160:0;gam 'Updated Now page for June 6th, 2016'
+: 1465214161:0;gp
+: 1465214166:0;gpl
+: 1465214172:0;gp
+: 1465214568:0;e
+: 1465653818:0;suu
+: 1465654297:0;htop
+: 1465654303:0;e
+: 1466338561:0;cd my-personal-page
+: 1466338562:0;gpl
+: 1466338567:0;v games.md
+: 1466338614:0;gam 'Games updated'
+: 1466338615:0;gp
+: 1466338647:0;v games.md
+: 1466338864:0;gam 'Games page updated - DS3 down x2, FF X-2 gets another chance'
+: 1466338865:0;gp
+: 1466338880:0;v games.md
+: 1466339060:0;gam 'Another games update'
+: 1466339061:0;gp
+: 1466339065:0;v now.md
+: 1466339077:0;gpl
+: 1466339078:0;v now.md
+: 1466339195:0;gam 'Updated Now page'
+: 1466339196:0;gp
+: 1466339199:0;gss
+: 1466511361:0;tree ~/Dropbox/Coding/dotfiles
+: 1466511371:0;tree ~/.dotfiles
+: 1466511557:0;vz
+: 1466511581:0;rl
+: 1466511595:0;wh vf
+: 1466511617:0;cd ~/Dropbox/coding
+: 1466511620:0;cd ~/Dropbox/Coding
+: 1466511621:0;ls
+: 1466511632:0;v setup-dotfiles.txt
+: 1466511678:0;rl
+: 1466511684:0;vf
+: 1466511691:0;e
+: 1466547343:0;cd my-personal-page
+: 1466547345:0;v games.md
+: 1466547350:0;gpl
+: 1466547351:0;v games.md
+: 1466547424:0;gam 'Fallout 4 complete'
+: 1466547426:0;gss
+: 1466547427:0;gp
+: 1466547429:0;e
+: 1467610621:0;cd my-personal-page
+: 1467610623:0;gpl
+: 1467610654:0;tm blog
+: 1467610656:0;e
+: 1467610687:0;tm blogg
+: 1467610689:0;e
+: 1467610692:0;cd my-personal-page
+: 1467610694:0;tm blogg
+: 1467610707:0;l
+: 1467610709:0;ls
+: 1467610727:0;head games.md
+: 1467610883:0;v _config.yml
+: 1467611003:0;ch
+: 1467611008:0;gem install jekyll
+: 1467611015:0;jekyll
+: 1467611023:0;jekyll clean
+: 1467611026:0;ls
+: 1467611031:0;jekyll build
+: 1467611050:0;jekyll doctor
+: 1467611055:0;jekyll hyde
+: 1467611093:0;jekyll s
+: 1467611118:0;htop
+: 1467611151:0;jekyll stop
+: 1467611171:0;tmux attach
+: 1467611181:0;e
+: 1467611182:0;tmux attach
+: 1467611187:0;e
+: 1467611195:0;tmux attach
+: 1467611203:0;e
+: 1467611217:0;tmux attach
+: 1467611220:0;e
+: 1467611223:0;tmux attach
+: 1467611235:0;e
+: 1467611236:0;tmux attach
+: 1467611243:0;e
+: 1467611252:0;tm blogg
+: 1467611264:0;jekyll s
+: 1467611271:0;v now.md
+: 1467612833:0;e
+: 1467612846:0;suu
+: 1467612965:0;wh elixir
+: 1467612968:0;elixir --version
+: 1467612970:0;e
+: 1468810266:0;cd my-personal-page
+: 1468810268:0;gpl
+: 1468810270:0;gss
+: 1468810272:0;v games.md
+: 1468810437:0;gam 'Updates Games with more details about Dark Souls 3 and Undertale.'
+: 1468810438:0;gp
+: 1468810801:0;df -h
+: 1468810896:0;l
+: 1468810899:0;ls
+: 1468810908:0;ls assets
+: 1468810923:0;l assets
+: 1468811069:0;redis-cli
+: 1468811073:0;which redis
+: 1468811076:0;redis-server
+: 1468811443:0;suu
+: 1468811953:0;sudo apt-get install redis
+: 1468811998:0;cd ~/Downloads
+: 1468812001:0;wh redis
+: 1468812003:0;wget http://download.redis.io/redis-stable.tar.gz
+: 1468812009:0;tar xvzf redis-stable.tar.gz
+: 1468812016:0;cd redis-stable
+: 1468812017:0;make
+: 1468812060:0;make test
+: 1468812201:0;sudo make install
+: 1468812212:0;wh redis-server
+: 1468812220:0;wh redis-cli
+: 1468812224:0;redis-server
+: 1468812238:0;sudo cp utils/redis_init_script /etc/init.d/redis_6379
+: 1468812244:0;sudo vi /etc/init.d/redis_6379
+: 1468812277:0;sudo mkdir /etc/redis
+: 1468812283:0;sudo mkdir /var/redis
+: 1468812298:0;sudo cp redis.conf /etc/redis/6379.conf
+: 1468812305:0;sudo mkdir /var/redis/6379
+: 1468812321:0;sudo vim /etc/redis/6379.conf
+: 1468812428:0;sudo update-rc.d redis_6379 defaults
+: 1468812440:0;sudo /etc/init.d/redis_6379 start
+: 1468812453:0;sudo vim /etc/redis/6379.conf
+: 1468812460:0;sudo update-rc.d redis_6379 defaults
+: 1468812466:0;sudo /etc/init.d/redis_6379 start
+: 1468812475:0;redis-cli
+: 1468812549:0;sudo vim /etc/redis/6379.conf
+: 1468812638:0;redis-cli
+: 1468812715:0;e
+: 1468812721:0;ch
+: 1468812734:0;rails -v
+: 1468812740:0;gem list
+: 1468812761:0;gem install rails
+: 1468812845:0;rails -v
+: 1468812912:0;gem install redis
+: 1468812916:0;irb
+: 1468812992:0;e
+: 1468813380:0;uname -a
+: 1468813383:0;uname -r
+: 1468813385:0;e
+: 1468813624:0;apt-cache showpkg linux-headers
+: 1468813712:0;uname -r
+: 1468813728:0;cd Downloads
+: 1468813728:0;ls
+: 1468813737:0;cd kernels
+: 1468813737:0;ls
+: 1468813738:0;l
+: 1468813741:0;cd 4.4
+: 1468813742:0;l
+: 1468813747:0;cat after.txt
+: 1468813750:0;cat before.txt
+: 1468813753:0;cat command.txt
+: 1468813782:0;l
+: 1468813799:0;cd Downloads/kernels
+: 1468813803:0;mkdir 4.6.4
+: 1468813817:0;cp 4.4/command.txt 4.6.4/
+: 1468813820:0;cd 4.6.4
+: 1468813821:0;ls
+: 1468813822:0;l
+: 1468813899:0;uname -r
+: 1468813907:0;cat before.txt
+: 1468813912:0;uname -a
+: 1468813917:0;uname -a > before.txt
+: 1468813919:0;l
+: 1468813928:0;cat command.txt
+: 1468813941:0;sudo dpkg -i *.deb
+: 1468813998:0;sudo update grub
+: 1468814006:0;sudo update-grub
+: 1468814018:0;exit
+: 1468814175:0;cd Downloads/kernels/4.6.4
+: 1468814182:0;uname -a > after.txt
+: 1468814184:0;cat after.txt
+: 1468814189:0;uname -r
+: 1468814192:0;uname -a
+: 1468814194:0;u
+: 1468814197:0;dush
+: 1468814201:0;df -h
+: 1468814226:0;wh dus
+: 1468814229:0;dus
+: 1468814238:0;du -h
+: 1468814241:0;u
+: 1468814242:0;dus
+: 1468814245:0;l
+: 1468814249:0;ls
+: 1468814256:0;cd XPS\ Drivers
+: 1468814257:0;dus
+: 1468814259:0;l
+: 1468814260:0;u
+: 1468814267:0;rm -rf XPS\ Drivers
+: 1468814269:0;ls
+: 1468814285:0;rm -rf en_windows_7_professional_with_sp1_x64_dvd_u_676939.iso
+: 1468814289:0;dus
+: 1468814293:0;df -h
+: 1468814304:0;l
+: 1468814319:0;e
+: 1469281096:0;cd ruby
+: 1469281115:0;mkdir jobs
+: 1469281122:0;mv jobs sidekiq
+: 1469281124:0;cd sidekiq
+: 1469281130:0;mkdir intro
+: 1469281131:0;cd intro
+: 1469281134:0;bi
+: 1469281140:0;b init
+: 1469281144:0;l
+: 1469281146:0;cat Gemfile
+: 1469281158:0;redis-cli
+: 1469281172:0;t worker.rb
+: 1469281182:0;tm sidekiq
+: 1469281192:0;git init
+: 1469281204:0;vo worker.rb Gemfile
+: 1469281218:0;b
+: 1469281520:0;bundle exec sidekiq -r ./worker.rb
+: 1469281548:0;be irb -r ./worker.rb
+: 1469281694:0;gss
+: 1469281697:0;gaa
+: 1469281710:0;gm 'Basic Sidekiq intro'
+: 1469281718:0;t README.md
+: 1469281869:0;be irb -r ./worker.rb
+: 1469282029:0;bundle exec sidekiq -r ./worker.rb
+: 1469282038:0;gss
+: 1469282040:0;gaa
+: 1469282054:0;gm 'Readme added to provide instructions.'
+: 1469282106:0;git remote add origin git@github.com:trueheart78/sidekiq-playground.git
+: 1469282114:0;git push -u origin master
+: 1469283018:0;cd ruby
+: 1469283019:0;ls
+: 1469283025:0;cd rails
+: 1469283027:0;l
+: 1469283032:0;rails -v
+: 1469283067:0;rails new jobber
+: 1469283119:0;tm rails
+: 1469283142:0;e
+: 1469283145:0;rm .git
+: 1469283150:0;rm -rf .git
+: 1469283154:0;cd jobber
+: 1469283156:0;gss
+: 1469283158:0;gi
+: 1469283161:0;git init
+: 1469283163:0;gss
+: 1469283166:0;gaa
+: 1469283176:0;l vendor
+: 1469283190:0;gm 'Initial Commit'
+: 1469283242:0;git remote add origin git@github.com:trueheart78/rails5-sidekiq.git
+: 1469283243:0;git push -u origin master
+: 1469283265:0;l
+: 1469283273:0;tm jobber
+: 1469283285:0;brs
+: 1469283288:0;bs
+: 1469283601:0;gcob sidekiq-setup
+: 1469283604:0;v
+: 1469283674:0;b
+: 1469283905:0;bs
+: 1469284106:0;b
+: 1469284125:0;bs
+: 1469284198:0;gss
+: 1469284202:0;gaa
+: 1469284243:0;gm 'Sidekiq and Sinatra gems added - see /sidekiq'
+: 1469284244:0;gp
+: 1469284247:0;o
+: 1469284249:0;git push --set-upstream origin sidekiq-setup
+: 1469284496:0;bin/spring status
+: 1469358529:0;suu
+: 1469358563:0;sudo apt-get autoremove
+: 1469358576:0;uname -r
+: 1469358579:0;uname
+: 1469358582:0;uname -a
+: 1469358590:0;dus
+: 1469358593:0;dsh
+: 1469358597:0;du -h
+: 1469358601:0;df -h
+: 1469358612:0;cd Dropbox
+: 1469358615:0;ls Apps
+: 1469358620:0;cd Apps/Manning\ Books
+: 1469358621:0;l
+: 1469358626:0;cd Go\ Web\ Programming
+: 1469358627:0;l
+: 1469358781:0;uu
+: 1469358787:0;mv Manning\ Books oldmann
+: 1469358816:0;l
+: 1469358843:0;tree Manning\ Books
+: 1469358845:0;tree oldmann
+: 1469359040:0;tree Manning\ Books
+: 1469359076:0;rm -rf oldmann
+: 1469361127:0;wh brt
+: 1469361129:0;rl
+: 1469361131:0;wh brt
+: 1469361134:0;wh br
+: 1469361154:0;brake test
+: 1469361159:0;l
+: 1469361162:0;l test
+: 1470006080:0;cd ~/Rails/caring-for-karen-sue/
+: 1470006082:0;gpl
+: 1470006086:0;b
+: 1470006106:0;cd pers
+: 1470006114:0;cd my-personal-page
+: 1470006121:0;gpl
+: 1470006129:0;v games.md
+: 1470006203:0;gss
+: 1470006217:0;gam 'Updated Games and Now page for July 31st, 2016'
+: 1470006218:0;gp
+: 1470006222:0;bs
+: 1470006272:0;v README.md
+: 1470006289:0;gam 'Updated README with rails 5.0'
+: 1470006290:0;gp
+: 1470006293:0;e
+: 1470179258:0;cd book-notes
+: 1470179259:0;l
+: 1470179262:0;v 
+: 1470179283:0;cd ~/ruby/book-notes-generator
+: 1470179286:0;gpl
+: 1470179290:0;b
+: 1470179304:0;./create working-with-tcp-sockets
+: 1470179315:0;l
+: 1470179321:0;cat config.default
+: 1470179340:0;cp config.default config.local
+: 1470179344:0;v config.local
+: 1470179350:0;pwd
+: 1470179353:0;v config.local
+: 1470179368:0;./create working-with-tcp-sockets
+: 1470179377:0;cd ~/book-notes
+: 1470179378:0;v
+: 1470179849:0;cd ~/ruby/book-notes-generator
+: 1470179861:0;./import working-with-tcp-sockets
+: 1470179881:0;cd ~/book-notes
+: 1470179884:0;v README.md
+: 1470179909:0;cd my-personal-page
+: 1470179911:0;v books.md
+: 1470180030:0;gss
+: 1470180040:0;gam 'Updated Books for August 2nd, 2016'
+: 1470180042:0;gp
+: 1470180046:0;gss
+: 1470180051:0;gaa
+: 1470180083:0;gm 'Added Working with TCP Sockets YAML and directory'
+: 1470180085:0;gp
+: 1470180089:0;gpl
+: 1470180092:0;gp
+: 1470180330:0;v
+: 1470180444:0;wh netcat
+: 1470180462:0;e
+: 1470180472:0;tm bookkkk
+: 1470180481:0;v
+: 1470285796:0;cd ruby
+: 1470285797:0;l
+: 1470285812:0;mkdir faraday
+: 1470285814:0;cd faraday
+: 1470285819:0;b init
+: 1470285822:0;v Gemfile
+: 1470285841:0;git init
+: 1470285842:0;gss
+: 1470285854:0;gaa 'Git Init'
+: 1470285865:0;gaa
+: 1470285870:0;gam 'Git Init'
+: 1470285903:0;git remote add origin git@github.com:trueheart78/faraday-sandbox.git
+: 1470285908:0;git push -u origin master
+: 1470285913:0;tm faraday
+: 1470286062:0;t basic-get.rb
+: 1470286066:0;t basic-post.rb
+: 1470286081:0;v
+: 1470286161:0;be basic-get.rb
+: 1470286170:0;wh br
+: 1470286177:0;b
+: 1470286193:0;bruby basic-get.rb
+: 1470286197:0;bruby basic-post
+: 1470286199:0;bruby basic-post.rb
+: 1470286222:0;l
+: 1470286236:0;rm basic-*
+: 1470286237:0;gss
+: 1470286263:0;gaa
+: 1470286290:0;gm 'Basic structure with GET and POST example files.'
+: 1470286424:0;b
+: 1470286434:0;l
+: 1470286440:0;t config.rb
+: 1470286478:0;bruby config.rb
+: 1470286501:0;bruby post-example.rb
+: 1470286504:0;bruby get-example.rb
+: 1470286615:0;b
+: 1470286617:0;bruby get-example.rb
+: 1470287050:0;gss
+: 1470287076:0;vga
+: 1470287083:0;vgi
+: 1470287088:0;vgin
+: 1470287095:0;vgig
+: 1470287166:0;gss
+: 1470287168:0;gaa
+: 1470287182:0;gm 'Config setup with extra libs.'
+: 1470287183:0;gp
+: 1470287204:0;gd
+: 1470287215:0;gam 'Spacing fix'
+: 1470287215:0;gp
+: 1470288750:0;cd scratch-pad
+: 1470288752:0;l
+: 1470288759:0;t server-sample.rb
+: 1470288760:0;v
+: 1470288822:0;tm server
+: 1470288834:0;ruby server-sample.rb
+: 1470288843:0;v server-sample.rb
+: 1470288853:0;ruby server-sample.rb
+: 1470288858:0;v server-sample.rb
+: 1470288868:0;ruby server-sample.rb
+: 1470288894:0;echo ohai | nc localhost 4481
+: 1470288898:0;e
+: 1470289202:0;ri Addrinfo
+: 1470289207:0;ri Socket
+: 1470289213:0;e
+: 1470483284:0;wh agu
+: 1470483302:0;sudo apt-get update
+: 1470483307:0;suu
+: 1470483455:0;e
+: 1470485447:0;cd my-personal-page
+: 1470485449:0;gpl
+: 1470485464:0;git_b why-i-love-rubyOD
+: 1470485468:0;git_b why-i-love-ruby
+: 1470485470:0;gpl
+: 1470485473:0;gcom
+: 1470485476:0;v games.md
+: 1470486133:0;gss
+: 1470486148:0;gam 'Games page updated for August 6th, 2016'
+: 1470486151:0;v books.md
+: 1470486206:0;gss
+: 1470486213:0;gam 'Books page updated for August 6th, 2016'
+: 1470486224:0;cp books.md audiobooks.md
+: 1470486228:0;gp
+: 1470486231:0;v audiobooks.md
+: 1470486255:0;mv audiobooks.md audio-books.md
+: 1470486257:0;gss
+: 1470486261:0;v audio-books.md
+: 1470487877:0;gss
+: 1470487882:0;ga audio-books.md
+: 1470487884:0;gss
+: 1470487908:0;gm 'AudioBooks page added without being linked up yet'
+: 1470487910:0;gp
+: 1470487913:0;e
+: 1470487956:0;cd my-personal-page
+: 1470487957:0;gpl
+: 1470487959:0;v now.md
+: 1470488157:0;gss
+: 1470488167:0;gam 'Updated Now page for Aug 6th, 2016'
+: 1470488168:0;gp
+: 1470488170:0;e
+: 1470488199:0;cd my-personal-page
+: 1470488201:0;ag books
+: 1470488234:0;e
+: 1470488274:0;cd my-personal-page
+: 1470488278:0;head books.md
+: 1470488284:0;head audio-books.md
+: 1470488297:0;e
+: 1470488314:0;cd my-personal-page
+: 1470488316:0;v audio-books.md
+: 1470488372:0;gss
+: 1470488380:0;gam 'Updated Audio Books page format'
+: 1470488381:0;gp
+: 1470488383:0;e
+: 1470488413:0;cd my-personal-page
+: 1470488420:0;vo audio-books.md books.md
+: 1470488436:0;gam 'Updated Audio Books page format (again)'
+: 1470488436:0;gp
+: 1470488489:0;e
+: 1470488498:0;vtm
+: 1470488499:0;vt
+: 1470488540:0;rl
+: 1470488542:0;tm s
+: 1470488547:0;e
+: 1470488549:0;vt
+: 1470488555:0;e
+: 1470488558:0;tm s
+: 1470488565:0;e
+: 1470488568:0;vt
+: 1470488610:0;tm aaa
+: 1470488616:0;e
+: 1470781070:0;cd ruby
+: 1470781105:0;git clone git@github.com:trueheart78/simple-ci-tools.git
+: 1470781117:0;mv simple-ci-tools simple-cl-tools
+: 1470781124:0;cd simple-cl-tools
+: 1470781131:0;tm xxx
+: 1470781145:0;v
+: 1470781171:0;cd ~/my-personal-page
+: 1470781185:0;u
+: 1470781192:0;l my-personal-page
+: 1470781199:0;l my-github-page
+: 1470781228:0;ln -s ~/personal-blog ~/my-github-page
+: 1470781251:0;ln -s ~/my-github-page ~/personal-blog
+: 1470781255:0;l personal-blog
+: 1470781261:0;cd personal-blog/
+: 1470781263:0;gpl
+: 1470781273:0;git branch
+: 1470781277:0;gco why-i-love-ruby
+: 1470781279:0;gpl
+: 1470781401:0;b
+: 1470781479:0;tree .
+: 1470781556:0;cd bin
+: 1470781557:0;irb
+: 1470781646:0;cd ~/personal-blog
+: 1470781647:0;ls
+: 1470781655:0;cat _config.yml
+: 1470781755:0;v _config.yml
+: 1470781771:0;jekyll s
+: 1470781782:0;gss
+: 1470781786:0;gco _config.yml
+: 1470781787:0;gss
+: 1470781790:0;jekyll s
+: 1470781797:0;l
+: 1470781802:0;rm personal-blog
+: 1470781803:0;l
+: 1470781808:0;jekyll s
+: 1470781814:0;v _config.yml
+: 1470781822:0;jekyll s
+: 1470781848:0;cd ~/personal-blog
+: 1470781850:0;v _config.yml
+: 1470781872:0;jekyll s
+: 1470782358:0;e
+: 1470782362:0;tree Manning\ Books
+: 1470782374:0;gss
+: 1470782384:0;e
+: 1470782399:0;tm xxx
+: 1470782435:0;v
+: 1470782439:0;tree .
+: 1470782489:0;t lib/cli.rb
+: 1470782497:0;t cli_test.rb
+: 1470782499:0;bcop
+: 1470782524:0;e
+: 1470782718:0;b
+: 1470782721:0;bcop
+: 1470782973:0;gss
+: 1470782975:0;gaa
+: 1470783293:0;vz
+: 1470783308:0;pwd
+: 1470783337:0;rl
+: 1470783342:0;parse_json
+: 1470783380:0;e
+: 1470783653:0;irb
+: 1470784373:0;parse_json
+: 1470784533:0;parse_json sample
+: 1470784620:0;parse_json
+: 1470785024:0;t libraries.rb
+: 1470785044:0;parse_json
+: 1470785127:0;parse_json 1 2 3
+: 1470785293:0;parse_json https://api.github.com/users/trueheart78
+: 1470785496:0;parse_json
+: 1470785528:0;parse_json https://api.github.com/users/trueheart78
+: 1470786086:0;gss
+: 1470786093:0;parse_json https://api.github.com/users/trueheart78
+: 1470786293:0;parse_json
+: 1470786550:0;parse_json https://api.github.com/users/trueheart78
+: 1470786666:0;irb
+: 1470786714:0;parse_json https://api.github.com/users/trueheart78
+: 1470786725:0;bcop
+: 1470786729:0;b
+: 1470786754:0;parse_json https://api.github.com/users/trueheart78
+: 1470786757:0;bcop
+: 1470786765:0;bcop -a
+: 1470786768:0;bcop
+: 1470786862:0;parse_json https://api.github.com/users/trueheart78
+: 1470786953:0;bcop
+: 1470786972:0;bcop -a
+: 1470786975:0;bt
+: 1470787005:0;gss
+: 1470787057:0;bt
+: 1470787062:0;parse_json https://api.github.com/users/trueheart78
+: 1470787068:0;gss
+: 1470787069:0;gaa
+: 1470787070:0;gss
+: 1470787080:0;irb
+: 1470787104:0;gss
+: 1470787105:0;gaa
+: 1470787124:0;gm 'Basic ParseJson class with Cli class.'
+: 1470787126:0;gp
+: 1470787640:0;v .git/config
+: 1470787650:0;gpl
+: 1470787695:0;v Gemfile
+: 1470787717:0;b
+: 1470787739:0;bguard init
+: 1470787836:0;b
+: 1470787851:0;bguard init minitest
+: 1470787877:0;bguard
+: 1470787925:0;t lib/cli.rb
+: 1470788248:0;bguard
+: 1470788334:0;bt
+: 1470788338:0;gss
+: 1470788342:0;gaa
+: 1470788350:0;gm 'Initial Guardfile setup'
+: 1470788355:0;bguard
+: 1470788976:0;wh mcd test/support
+: 1470788980:0;l
+: 1470788994:0;cd test
+: 1470788995:0;l
+: 1470789001:0;l ../
+: 1470789006:0;mkdir support
+: 1470789008:0;cd support
+: 1470789009:0;gss
+: 1470789041:0;t cli_helper.rb
+: 1470789275:0;uu
+: 1470789277:0;bcop -a
+: 1470789387:0;cd test/support
+: 1470789387:0;l
+: 1470789394:0;mv cli_helper.rb cli_test_skeleton.rb
+: 1470789631:0;gss
+: 1470789633:0;uu
+: 1470789634:0;gss
+: 1470789644:0;l
+: 1470789652:0;git mv cli_test.rb test/
+: 1470789709:0;l
+: 1470789712:0;rm cli_test.rb
+: 1470790293:0;e
+: 1470790440:0;b
+: 1470790453:0;bt
+: 1470790553:0;b
+: 1470790628:0;bt
+: 1470790921:0;irb
+: 1470791007:0;bguard
+: 1470791010:0;e
+: 1470791079:0;irb
+: 1470791136:0;e
+: 1470792230:0;bcop -a
+: 1470792250:0;e
+: 1470792339:0;gss
+: 1470792340:0;gaa
+: 1470792390:0;gm 'Tests expanded with better support'
+: 1470792390:0;gp
+: 1470792393:0;gss
+: 1470792405:0;gaa
+: 1470792412:0;git commit --amend
+: 1470792415:0;gss
+: 1470792416:0;gp
+: 1470792419:0;gpl
+: 1470792422:0;gp
+: 1470876930:0;gpl
+: 1470877180:0;sudo apt-add-repository ppa:eosrei/fonts
+: 1470877205:0;sudo apt-get update
+: 1470877221:0;sudo apt-get install fonts-emojione-svginot
+: 1470877242:0;e
+: 1470877261:0;cd Programming/Ruby/simple-cl-tools
+: 1470877266:0;v bin/iheartruby
+: 1470877279:0;q
+: 1470877435:0;cd personal-blog
+: 1470877436:0;gok
+: 1470877438:0;gpl
+: 1470877445:0;v _config.yml
+: 1470877481:0;gss
+: 1470877502:0;gam 'Config updated to use a more supported heart in the title'
+: 1470877502:0;gp
+: 1470877556:0;v _config.yml
+: 1470877592:0;gam 'Config updated to use a more supported heart in the title'
+: 1470877593:0;gp
+: 1470877596:0;js
+: 1470877630:0;gss
+: 1470877637:0;gcom
+: 1470877640:0;git merge why-i-love-ruby
+: 1470877675:0;git rm _posts/2016-08-05-why-i-love-ruby.md
+: 1470877685:0;git rm _posts/2016-08-09*
+: 1470877686:0;gss
+: 1470877693:0;gam 'Config updated to use a more supported heart in the title'
+: 1470877694:0;gp
+: 1470877698:0;gpl
+: 1470877705:0;v _config.yml
+: 1470877730:0;gam 'Fixed merge conflict'
+: 1470877731:0;gp
+: 1470877779:0;tm blog
+: 1470877788:0;jekyll s
+: 1470877794:0;tree _layouts
+: 1470877802:0;v
+: 1470877887:0;ag apple
+: 1470878061:0;jekyll s
+: 1470879026:0;gss
+: 1470879033:0;git add assets/
+: 1470879062:0;gam 'Sparkly heart webp site icon added.'
+: 1470879063:0;gp
+: 1470879067:0;gss
+: 1470880043:0;ls assets
+: 1470880046:0;l assets
+: 1470880161:0;jekyll s
+: 1470880536:0;gss
+: 1470880560:0;gam 'A real description, a better sizing on the site heart'
+: 1470880562:0;gp
+: 1470880709:0;gss
+: 1470880714:0;gam 'Updated Games list'
+: 1470880716:0;gp
+: 1470880908:0;gss
+: 1470880916:0;gam 'Updated Audio Books Page'
+: 1470881088:0;gss
+: 1470881092:0;gam 'Updated now page'
+: 1470881093:0;gp
+: 1470881390:0;gss
+: 1470881475:0;mkdir script
+: 1470881492:0;t script/init
+: 1470881562:0;l
+: 1470881616:0;mkdir lib/helpers
+: 1470881632:0;t lib/helpers/production_helper.rb
+: 1470881797:0;cd script
+: 1470881810:0;chmod +x init
+: 1470881815:0;./init
+: 1470882205:0;u
+: 1470882211:0;./script/init
+: 1470882634:0;script/init
+: 1470882696:0;gss
+: 1470882700:0;rm lib/helpers
+: 1470882704:0;rm -rf lib/helpers
+: 1470882706:0;gss
+: 1470882714:0;gd
+: 1470882721:0;gss
+: 1470882723:0;gaa
+: 1470882724:0;gss
+: 1470882750:0;gm 'script/init added :heart:'
+: 1470882751:0;gp
+: 1470882784:0;gss
+: 1470882790:0;gam 'Readme corrections'
+: 1470882791:0;gp
+: 1470882812:0;bcop
+: 1470882818:0;bt
+: 1470883168:0;gss
+: 1470883174:0;gam 'Test Cleanup in Skeleton'
+: 1470883175:0;gp
+: 1470883222:0;bt
+: 1470883228:0;gss
+: 1470883231:0;gam 'Test Cleanup in Skeleton'
+: 1470883232:0;gp
+: 1470883284:0;ls lib
+: 1470883299:0;t lib/i_heart_ruby.rb
+: 1470883614:0;mkdir lib/i_heart_ruby/
+: 1470883631:0;t lib/i_heart_ruby/create.rb
+: 1470883692:0;mkdir test/i_heart_ruby
+: 1470883704:0;t test/i_heart_ruby/create_test.rb
+: 1470884133:0;ag Cli
+: 1470884178:0;cd lib
+: 1470884179:0;l
+: 1470884184:0;mkdir cli
+: 1470884196:0;mv cli.rb cli/operation.rb
+: 1470884319:0;l test
+: 1470884322:0;u
+: 1470884323:0;l
+: 1470884326:0;cd test
+: 1470884326:0;l
+: 1470884335:0;l support
+: 1470884353:0;l
+: 1470884382:0;bt
+: 1470884461:0;e
+: 1470884478:0;ag CliTestSkel
+: 1470884493:0;bt
+: 1470884525:0;bcop -a
+: 1470884529:0;bt
+: 1470884532:0;u
+: 1470884534:0;bt
+: 1470884537:0;bcop -a
+: 1470884546:0;bt
+: 1470884561:0;cd lib
+: 1470884563:0;l
+: 1470884604:0;bt
+: 1470885190:0;parse_json https://api.github.com/users/trueheart78
+: 1470885224:0;bt
+: 1470885579:0;l
+: 1470885580:0;ls
+: 1470885583:0;u
+: 1470885584:0;ls
+: 1470885586:0;cd lib
+: 1470885586:0;ls
+: 1470885587:0;l
+: 1470885621:0;mkdir parse_json
+: 1470885627:0;git mv parse_json.rb parse_json/
+: 1470885630:0;cd parse_json
+: 1470885631:0;ls
+: 1470885631:0;l
+: 1470885652:0;l ../i_heart_ruby
+: 1470885661:0;l
+: 1470885668:0;git mv parse_json.rb show.rb
+: 1470885711:0;bt
+: 1470885790:0;parse_json https://api.github.com/users/trueheart78
+: 1470885822:0;uu
+: 1470885823:0;gss
+: 1470885825:0;tree .
+: 1470885866:0;gss
+: 1470885874:0;v
+: 1470885987:0;bt
+: 1470886083:0;gss
+: 1470886089:0;gaa
+: 1470886090:0;gss
+: 1470886098:0;parse_json https://api.github.com/users/trueheart78
+: 1470886104:0;gss
+: 1470886116:0;gam 'Refactoring to be more operational.'
+: 1470886117:0;gp
+: 1470886167:0;b
+: 1470886188:0;bt
+: 1470886434:0;bcop -a
+: 1470886444:0;bt
+: 1470886568:0;bcop -a
+: 1470886587:0;bt
+: 1470887512:0;bruby test/parse_json_test.rb
+: 1470887520:0;bt
+: 1470887564:0;bguard
+: 1470887595:0;va
+: 1470887604:0;vsa
+: 1470887612:0;vsh
+: 1470887620:0;va
+: 1470887644:0;cd ~/.dotfiles
+: 1470887644:0;l
+: 1470887647:0;cd shared
+: 1470887648:0;l
+: 1470887651:0;cat aliases
+: 1470887654:0;v aliases
+: 1470887693:0;e
+: 1470887697:0;bcopfx
+: 1470887712:0;bt
+: 1470888422:0;bcopfx
+: 1470888856:0;parse_json https://api.github.com/users/trueheart78
+: 1470889030:0;tree lib
+: 1470889032:0;tree .
+: 1470889050:0;l lib
+: 1470889057:0;cat lib/i_heart_ruby
+: 1470889064:0;cat lib/i_heart_ruby.rb
+: 1470889077:0;cat lib/i_heart_ruby/create.rb
+: 1470889088:0;git rm lib/i_heart_ruby.rb
+: 1470889089:0;gss
+: 1470889091:0;gaa
+: 1470889162:0;tree lib
+: 1470889164:0;tree spec
+: 1470889167:0;tree test
+: 1470889170:0;tree lib
+: 1470889193:0;cd test
+: 1470889194:0;l
+: 1470889201:0;mkdir parse_json
+: 1470889212:0;mv parse_json_test.rb parse_json/show_test.rb
+: 1470889289:0;bt
+: 1470889293:0;gss
+: 1470889296:0;u
+: 1470889296:0;gss
+: 1470889304:0;rm lib/i_heart_ruby.rb
+: 1470889306:0;bt
+: 1470889313:0;gss
+: 1470889315:0;gaa
+: 1470889316:0;gss
+: 1470889328:0;gm 'More structural refactoring'
+: 1470889329:0;gp
+: 1470889354:0;tree test
+: 1470889361:0;v
+: 1470889389:0;git rm test/cli_test.rb
+: 1470889390:0;gss
+: 1470889391:0;bt
+: 1470889402:0;gss
+: 1470889403:0;gaa
+: 1470889411:0;gm 'Removed useless test file.'
+: 1470889412:0;gp
+: 1470889555:0;v Gemfile
+: 1470889568:0;t
+: 1470889570:0;bt
+: 1470889595:0;cat .ruby-version
+: 1470889597:0;ch
+: 1470889602:0;git rm .ruby-version
+: 1470889604:0;u
+: 1470889606:0;cd simple-cl-tools
+: 1470889608:0;ch
+: 1470889615:0;gss
+: 1470889616:0;gaa
+: 1470889616:0;gss
+: 1470889633:0;gam 'Moved Ruby Version into the Gemfile'
+: 1470889634:0;gp
+: 1470889762:0;gss
+: 1470889790:0;gam 'CircleCI badge added to Readme.'
+: 1470889791:0;gp
+: 1470889920:0;gam 'CircleCI badge added to Readme. [skip ci]'
+: 1470889921:0;gp
+: 1470890034:0;e
+: 1470890047:0;bt
+: 1471082618:0;gpl
+: 1471082620:0;b
+: 1471082630:0;q
+: 1471082633:0;e
+: 1471082666:0;cd ruby
+: 1471082667:0;l
+: 1471082671:0;l rails
+: 1471082675:0;cd rails
+: 1471082780:0;git clone git@github.com:trueheart78/lifetab-podcast.git
+: 1471082789:0;cd lifetab-podcast
+: 1471082790:0;gss
+: 1471082791:0;gpl
+: 1471082793:0;b
+: 1471082828:0;bt
+: 1471082963:0;gcob
+: 1471082984:0;gcob heroku-support
+: 1471082987:0;gp
+: 1471082991:0;o
+: 1471082992:0;git push --set-upstream origin heroku-support
+: 1471083034:0;wh heroku
+: 1471083039:0;gem list
+: 1471083046:0;gem install heroku
+: 1471083122:0;gem install herokugem remove heroku
+: 1471083129:0;gem remove heroku
+: 1471083137:0;gem uninstall heroku
+: 1471083161:0;cd personal-blog
+: 1471083162:0;gpl
+: 1471083173:0;tm blog
+: 1471083181:0;v picks.md
+: 1471083698:0;gss
+: 1471083709:0;gam 'Updated Picks page with Heroku details.'
+: 1471083717:0;gp
+: 1471083745:0;tree assets
+: 1471083748:0;l assets
+: 1471083786:0;gam 'Updated Picks page with Heroku details.'
+: 1471083788:0;gp
+: 1471083823:0;gpl
+: 1471083830:0;gss
+: 1471083831:0;gl
+: 1471083834:0;gitk
+: 1471083880:0;gss
+: 1471083885:0;cd assets
+: 1471083885:0;l
+: 1471083899:0;git cp sparkly-heart.webp site-heart.webp
+: 1471083912:0;cp sparkly-heart.webp site-heart.webp
+: 1471083914:0;gss
+: 1471083915:0;l
+: 1471083919:0;u
+: 1471083920:0;gss
+: 1471083933:0;gam 'Updated site heart to be sparkly again. :wtf:'
+: 1471083934:0;gp
+: 1471084002:0;gam 'One final Picks update for layout reasons'
+: 1471084003:0;gp
+: 1471084041:0;tm lifetab
+: 1471084047:0;v Gemfile
+: 1471084087:0;vsa
+: 1471084095:0;boop
+: 1471084107:0;gss
+: 1471084159:0;gd
+: 1471084163:0;boop
+: 1471084165:0;gss
+: 1471084188:0;wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+: 1471084211:0;heroku setup
+: 1471084225:0;heroku login
+: 1471084270:0;gss
+: 1471084278:0;bt
+: 1471084299:0;gam 'Gem Updates for production'
+: 1471084303:0;gp
+: 1471084327:0;heroku create
+: 1471084333:0;git remote
+: 1471084437:0;gss
+: 1471084446:0;t Procfile
+: 1471084481:0;gss
+: 1471084483:0;gaa
+: 1471084490:0;gm 'Procfile added for Heroku support'
+: 1471084491:0;gp
+: 1471084524:0;git push heroku master
+: 1471084614:0;bt
+: 1471084647:0;gss
+: 1471084668:0;gam 'Dotenv only loads when rails is not in production'
+: 1471084668:0;g[
+: 1471084670:0;gp
+: 1471084674:0;git push heroku master
+: 1471084828:0;gam 'Dotenv only loads when rails is not in production, part deux'
+: 1471084832:0;gp
+: 1471084836:0;git push heroku master
+: 1471084906:0;git branch -all
+: 1471084909:0;git branch --all
+: 1471085142:0;gss
+: 1471085166:0;gaa
+: 1471085174:0;gm 'More Heroku setup items'
+: 1471085253:0;wh boop
+: 1471085255:0;wh bewp
+: 1471085263:0;bundle install production
+: 1471085269:0;bundle install --with production
+: 1471085300:0;pg
+: 1471085321:0;sagi postgres
+: 1471085329:0;sudo apt-get install postgres
+: 1471085354:0;l etc/
+: 1471085356:0;l /etc/
+: 1471085373:0;sudo apt-get install postgres
+: 1471085380:0;sudo apt-get install postgresql
+: 1471085405:0;gem install pg
+: 1471085527:0;gem install pg  --   --with-pg-lib=/usr/lib   
+: 1471085557:0;apt-get install libpq-dev
+: 1471085562:0;sudo apt-get install libpq-dev
+: 1471085574:0;bundle install --with production
+: 1471085592:0;gss
+: 1471085684:0;gp
+: 1471085691:0;git push heroku master
+: 1471085716:0;gam 'DB Updates for production'
+: 1471085717:0;gp
+: 1471085775:0;git push heroku master
+: 1471085860:0;brake -P
+: 1471085906:0;heroku ssh
+: 1471085910:0;heroku help
+: 1471085922:0;heroku run gem install bundler
+: 1471085971:0;heroku buildpacks
+: 1471086037:0;t _posts/2016-08-12-heroku-setup-for-rails.md
+: 1471086612:0;v Gemfile
+: 1471087324:0;cd rails/lifetab-podcast
+: 1471087327:0;cd config
+: 1471087330:0;cat puma.rb
+: 1471087339:0;e
+: 1471087508:0;wh gcob
+: 1471087595:0;cd rails/lifetab-podcast/config
+: 1471087598:0;cat database.yml
+: 1471087609:0;e
+: 1471088192:0;heroku destroy
+: 1471088202:0;heroku list
+: 1471088218:0;heroku destroy evening-springs-23496
+: 1471088302:0;heroku create --help
+: 1471089003:0;v .git/config
+: 1471089009:0;gss
+: 1471089018:0;v .git/config
+: 1471089028:0;gss
+: 1471089049:0;heroku create --buildpack heroku/postgresql --addons heroku-postgresql,papertrail:choklad
+: 1471089214:0;v .git/config
+: 1471089224:0;heroku create --buildpack heroku/ruby --addons heroku-postgresql,papertrail:choklad
+: 1471089242:0;gss
+: 1471089250:0;git push heroku master
+: 1471089380:0;gss
+: 1471089400:0;brc -e production
+: 1471089645:0;brc
+: 1471089652:0;gss
+: 1471089702:0;gan 'Setup Dotenv to only load in dev/test'
+: 1471089706:0;gam 'Setup Dotenv to only load in dev/test'
+: 1471089708:0;brc
+: 1471089813:0;brc -e production
+: 1471089864:0;brc
+: 1471089937:0;brc -e production
+: 1471089953:0;brc
+: 1471089959:0;gss
+: 1471089969:0;gam 'Setup Dotenv to only load when available'
+: 1471089970:0;gp
+: 1471089980:0;o
+: 1471089981:0;git push --set-upstream origin heroku-support
+: 1471089985:0;gpl
+: 1471089997:0;git push heroku master
+: 1471090259:0;lsa
+: 1471090293:0;gss
+: 1471090320:0;gam 'Added quotes in the .env.default file'
+: 1471090433:0;bundle config
+: 1471090513:0;heroku buildpacks
+: 1471090537:0;git push heroku master
+: 1471090586:0;bundle exec rake -P
+: 1471090630:0;RAILS_ENV=production bundle exec rake -P
+: 1471090835:0;gcom
+: 1471090836:0;gss
+: 1471090843:0;git merge heroku-support
+: 1471090845:0;gp
+: 1471090852:0;git push heroku master
+: 1471090853:0;e
+: 1471090950:0;cat .git/config
+: 1471091281:0;heroku app
+: 1471091284:0;heroku config
+: 1471091818:0;wh brc
+: 1471091821:0;wh berc
+: 1471091930:0;cat .env
+: 1471092024:0;cp .env.default .env
+: 1471092027:0;v .env
+: 1471092042:0;brake rollbar:test
+: 1471092739:0;wh gh
+: 1471092742:0;wh gph
+: 1471092756:0;vsa
+: 1471092786:0;rl
+: 1471092788:0;gph
+: 1471092803:0;git remote -a
+: 1471092806:0;git remote --all
+: 1471092812:0;git remote
+: 1471092815:0;git remote all
+: 1471092820:0;git remote list
+: 1471092825:0;git remote -v
+: 1471092832:0;git push
+: 1471092835:0;git remote
+: 1471092846:0;git pull
+: 1471092965:0;v .git/config
+: 1471093054:0;heroku url
+: 1471093058:0;heroku help
+: 1471093075:0;heroku access
+: 1471093094:0;heroku config help
+: 1471093102:0;heroku config --help
+: 1471093171:0;heroku config:set ROLLBAR_ACCESS_TOKEN='01a7e577099e425db0c00efda4b84c8f'
+: 1471093179:0;heroku config
+: 1471093192:0;heroku app restart
+: 1471093197:0;heroku restart
+: 1471093213:0;heroku run bundle exec rake rollbar:test
+: 1471093291:0;gss
+: 1471093715:0;gam 'Readme Updates [skip cli]'
+: 1471093716:0;gp
+: 1471093741:0;wh gpm
+: 1471093744:0;gpm
+: 1471093997:0;heroku deploy
+: 1471094075:0;git push -f heroku master
+: 1471094514:0;gss
+: 1471094518:0;gcob
+: 1471094524:0;gcob heroku-test
+: 1471094527:0;gss
+: 1471094593:0;gam 'Output Rails Environment on the Welcome#index page'
+: 1471094605:0;git push
+: 1471094615:0;o
+: 1471094616:0;git push --set-upstream origin heroku-test
+: 1471094635:0;git push heroku heroku-test:master
+: 1471094940:0;rl
+: 1471094943:0;git branch
+: 1471094947:0;git describe
+: 1471094965:0;git rev-parse --abbrev-ref HEAD
+: 1471095038:0;vc
+: 1471095043:0;vf
+: 1471095073:0;wh gpp
+: 1471095128:0;rl
+: 1471095131:0;gptest
+: 1471095206:0;rl
+: 1471095208:0;gptest
+: 1471095264:0;git rev-parse --abbrev-ref HEAD
+: 1471095337:0;rl
+: 1471095338:0;gptest
+: 1471095383:0;rl
+: 1471095387:0;gdeploy
+: 1471095400:0;vf
+: 1471095409:0;rl
+: 1471095411:0;gdeploy
+: 1471095586:0;git rev-parse --abbrev-ref HEAD | tr -d '\n
+: 1471095588:0;git rev-parse --abbrev-ref HEAD | tr -d '\n'
+: 1471095604:0;rl
+: 1471095607:0;gdeploy
+: 1471095613:0;gdeploy heroku
+: 1471095623:0;git remote
+: 1471095630:0;rl
+: 1471095804:0;gdep
+: 1471095855:0;rl
+: 1471095856:0;gdep
+: 1471095878:0;rl
+: 1471095879:0;gdep
+: 1471095968:0;rl
+: 1471095972:0;gdep
+: 1471095983:0;rl
+: 1471095985:0;gdep
+: 1471095989:0;gdep heroku
+: 1471096060:0;rl
+: 1471096062:0;gdep heroku
+: 1471096123:0;head ~/Dropbox/Coding/dotfiles/zsh/functions
+: 1471096135:0;exit
+: 1471096272:0;rl
+: 1471096275:0;git-deploy
+: 1471096280:0;git-deploy heroku
+: 1471096285:0;rl
+: 1471096292:0;git-deploy heroku
+: 1471096300:0;gcom
+: 1471096303:0;git-deploy heroku
+: 1471096350:0;git push heroku master:master
+: 1471096354:0;git push -f heroku master:master
+: 1471096394:0;rl
+: 1471096398:0;git-deploy
+: 1471096401:0;git-deployheroku
+: 1471096403:0;git-deploy heroku
+: 1471096415:0;gco heroku-test
+: 1471096425:0;git-deploy heroku
+: 1471096563:0;vsa
+: 1471096592:0;rl
+: 1471096598:0;deploy-heroku
+: 1471096602:0;gcom
+: 1471096603:0;deploy-heroku
+: 1471096765:0;t _posts/2016-08-13-nerdy-heroku-command.md
+: 1471097303:0;gss
+: 1471097313:0;git add _posts/2016-08-13-nerdy-heroku-command.md
+: 1471097326:0;gm 'New blog post: Nerdy Heroku Command'
+: 1471097327:0;gp
+: 1471097362:0;date
+: 1471097384:0;gss
+: 1471097400:0;mkdir _pending
+: 1471097413:0;git mv _posts/2016-08-11-make-rubocop-part-of-your-tests.md _pending/
+: 1471097414:0;gss
+: 1471097432:0;gm 'Created a _pending/ directory to put posts into.'
+: 1471097433:0;gp
+: 1471097436:0;js
+: 1471097765:0;brake db:create
+: 1471097770:0;brake db:migrate
+: 1471097773:0;gss
+: 1471097781:0;deploy-heroku
+: 1471097873:0;gss
+: 1471097875:0;gb
+: 1471097882:0;git branch -D heroku-support
+: 1471097884:0;git branch -D heroku-test
+: 1471097886:0;gss
+: 1471097887:0;gp
+: 1471097893:0;git config
+: 1471097922:0;gp
+: 1471097925:0;gpl
+: 1471097927:0;deploy-heroku
+: 1471097950:0;gss
+: 1471097972:0;l
+: 1471097976:0;gss
+: 1471097988:0;mv _posts/2016-05-01-review-working-with-ruby-threads.md _pending
+: 1471098003:0;mv _posts/2016-08-12-heroku-setup-for-rails.md _pending
+: 1471098005:0;gss
+: 1471098008:0;cd _pending
+: 1471098018:0;mv 2016-08-12-heroku-setup-for-rails.md 2016-08-14-heroku-setup-for-rails.md
+: 1471098036:0;u
+: 1471098037:0;gss
+: 1471098038:0;gaa
+: 1471098043:0;gm 'More pending posts added.'
+: 1471098044:0;gp
+: 1471146430:0;gss
+: 1471146444:0;gam 'Minor correction'
+: 1471146445:0;gp
+: 1471179346:0;ln -s _posts/2016-08-14-heroku-setup-for-rails.nd _pending/2016-08-14-heroku-setup-for-rails.md
+: 1471179378:0;ln -s _pending/2016-08-14-heroku-setup-for-rails.md _posts/2016-08-14-heroku-setup-for-rails.md
+: 1471179381:0;gss
+: 1471179389:0;js
+: 1471179416:0;gss
+: 1471179434:0;rm _posts/2016-08-14-heroku-setup-for-rails.md
+: 1471179435:0;gss
+: 1471179444:0;cp _pending/2016-08-14-heroku-setup-for-rails.md _posts/2016-08-14-heroku-setup-for-rails.md
+: 1471179447:0;js
+: 1471180140:0;cp _pending/2016-08-14-heroku-setup-for-rails.md _posts/2016-08-14-heroku-setup-for-rails.md
+: 1471180144:0;js
+: 1471180494:0;cp _pending/2016-08-14-heroku-setup-for-rails.md _posts/2016-08-14-heroku-setup-for-rails.md
+: 1471181174:0;vv
+: 1471181203:0;cd ~/.vim
+: 1471181204:0;l
+: 1471181206:0;cd autoload
+: 1471181206:0;l
+: 1471181210:0;v plug.vim
+: 1471181232:0;u
+: 1471181244:0;cd ~/Dropbox/Coding
+: 1471181245:0;l
+: 1471181245:0;ls
+: 1471181249:0;cd vim
+: 1471181249:0;ls
+: 1471181251:0;cd autoload
+: 1471181252:0;ls
+: 1471181255:0;v plug.vim
+: 1471181276:0;vv
+: 1471181309:0;v ~/.vimrc
+: 1471181434:0;wh vb
+: 1471181436:0;vb
+: 1471181565:0;va
+: 1471181567:0;vv
+: 1471181758:0;v
+: 1471182379:0;cp _pending/2016-08-14-heroku-setup-for-rails.md _posts/2016-08-14-heroku-setup-for-rails.md
+: 1471182712:0;t _pending/.keep
+: 1471182714:0;gss
+: 1471182719:0;git add _pending/.keep
+: 1471182720:0;gss
+: 1471182903:0;rm _posts/2016-08-14-heroku-setup-for-rails.md
+: 1471182907:0;gss
+: 1471182919:0;gam 'More Heroku Setup changes. Maybe a guide is brewing?'
+: 1471182920:0;gp
+: 1471183035:0;gss
+: 1471183040:0;gam 'Games pg updated'
+: 1471183041:0;gp
+: 1471183096:0;gss
+: 1471183109:0;gam 'Now pg updated'
+: 1471183110:0;gp
+: 1471197303:0;v
+: 1471259283:0;e
+: 1471259299:0;vtm
+: 1471259300:0;vt
+: 1471259361:0;gcob episodic-crud
+: 1471259364:0;gp
+: 1471259370:0;gpu
+: 1471259372:0;u
+: 1471259377:0;cd lifetab-podcast
+: 1471259379:0;gp
+: 1471259380:0;o
+: 1471259381:0;git push --set-upstream origin episodic-crud
+: 1471259559:0;brg controller admin/episodes index
+: 1471259567:0;v
+: 1471259593:0;brake routes
+: 1471259600:0;vsa
+: 1471259644:0;bt
+: 1471259660:0;bcopfx
+: 1471259767:0;bs
+: 1471259916:0;tree app/c
+: 1471259918:0;tree app/
+: 1471259965:0;broutes
+: 1471259967:0;rl
+: 1471259968:0;broutes
+: 1471259972:0;brake routes
+: 1471260039:0;ag admin_episodes
+: 1471260124:0;bcop
+: 1471260357:0;gss
+: 1471260392:0;brake routes
+: 1471260631:0;gss
+: 1471260643:0;gaa
+: 1471260657:0;gm 'Admin/EpisodesController added.'
+: 1471260659:0;gp
+: 1471260701:0;brg controller visitor/episodes
+: 1471260770:0;brake routes
+: 1471260783:0;gss
+: 1471260867:0;brails destroy visitor/episodes
+: 1471260873:0;brails g destroy visitor/episodes
+: 1471260883:0;gcof
+: 1471260884:0;gss
+: 1471260939:0;rm -rf app/assets/javascripts/visitor/
+: 1471260947:0;rm -rf app/assets/stylesheets/visitor/
+: 1471260952:0;rm -rf app/controllers/visitor/
+: 1471260956:0;rm -rf app/helpers/visitor/
+: 1471260962:0;rm -rf test/controllers/visitor/
+: 1471260963:0;gss
+: 1471260973:0;brg controller episodes
+: 1471261007:0;brg controller episodes index show
+: 1471261060:0;gss
+: 1471261156:0;brake routes
+: 1471261588:0;bt
+: 1471261665:0;tree test/features
+: 1471261676:0;cd test/features
+: 1471261686:0;git mv welcome episodes
+: 1471261718:0;bt
+: 1471261772:0;gcopfx
+: 1471261776:0;bcopfx
+: 1471261780:0;uu
+: 1471261782:0;bcopfx
+: 1471261793:0;bt
+: 1471261904:0;tree app/
+: 1471261909:0;e
+: 1471261919:0;git rm -rf app/views/welcome/
+: 1471261926:0;git rm -rf app/controllers/welcome_controller.rb
+: 1471261932:0;tree app/
+: 1471261963:0;brails d controller welcome
+: 1471261972:0;gss
+: 1471261975:0;gaa
+: 1471261977:0;gss
+: 1471261981:0;bt
+: 1471262002:0;gss
+: 1471262034:0;gm 'Basic Episode #index and #show routes, as well as the first stab at the Admin/Episode #index'
+: 1471262036:0;gp
+: 1471262062:0;bguard
+: 1471262198:0;tree test
+: 1471262221:0;bt
+: 1471263632:0;deploy-heroku
+: 1471424825:0;tree app/
+: 1471424882:0;bs
+: 1471425164:0;brake routes
+: 1471425200:0;mkdir app/concepts
+: 1471425204:0;mkdir test/concepts
+: 1471425214:0;mkdir app/concepts/admin
+: 1471425219:0;mkdir test/concepts/admin
+: 1471425246:0;mkdir test/concepts/admin/empisode
+: 1471425251:0;mkdir app/concepts/admin/episode
+: 1471425258:0;mkdir test/concepts/episode
+: 1471425263:0;mkdir app/concepts/episode
+: 1471425265:0;gss
+: 1471425284:0;t app/concepts/admin/episode/index.rb
+: 1471425296:0;t test/concepts/admin/episode/index_test.rb
+: 1471425315:0;mkdir test/concepts/admin/eppisode
+: 1471425318:0;mkdir test/concepts/admin/episode
+: 1471425320:0;t test/concepts/admin/episode/index_test.rb
+: 1471425321:0;gss
+: 1471425335:0;cd app/con
+: 1471425337:0;cd app/concepts
+: 1471425338:0;l
+: 1471425340:0;uu
+: 1471425349:0;cd test/concepts
+: 1471425351:0;l
+: 1471425358:0;cd admin
+: 1471425359:0;l
+: 1471425367:0;rm -rf empisode
+: 1471425370:0;rm -rf eppisode
+: 1471425372:0;uu
+: 1471425374:0;u
+: 1471425374:0;gss
+: 1471425376:0;gaa
+: 1471425377:0;gss
+: 1471425396:0;t test/concepts/episode/index_test.rb
+: 1471425402:0;t app/concepts/episode/index_test.rb
+: 1471425404:0;gss
+: 1471425405:0;gaa
+: 1471425406:0;gss
+: 1471425457:0;t app/concepts/episode/index_test.rb
+: 1471425799:0;e
+: 1471426026:0;ag app
+: 1471426269:0;gss
+: 1471426271:0;gcof
+: 1471426272:0;gss
+: 1471426280:0;v
+: 1471426306:0;b
+: 1471426501:0;mkdir -p test/concepts/admin/episodes
+: 1471426508:0;mkdir -p app/concepts/admin/episodes
+: 1471426512:0;mkdir -p app/concepts/episodes
+: 1471426518:0;mkdir -p test/concepts/episodes
+: 1471426526:0;t app/concepts/episodes/index_test.rb
+: 1471426535:0;t app/concepts/admin/episodes/index_test.rb
+: 1471426541:0;t test/concepts/admin/episodes/index_test.rb
+: 1471426548:0;t test/concepts/episodes/index_test.rb
+: 1471426550:0;gss
+: 1471426554:0;tree app/con
+: 1471426556:0;tree app/concepts
+: 1471426583:0;t app/concepts/admin/episodes/index.rb
+: 1471426592:0;t app/concepts/episodes/index.rb
+: 1471426601:0;cd app/concepts
+: 1471426602:0;l
+: 1471426605:0;tree .
+: 1471426613:0;rm admin/episodes/index_test.rb
+: 1471426616:0;rm episodes/index_test.rb
+: 1471426618:0;uu
+: 1471426619:0;gss
+: 1471426621:0;gaa
+: 1471426622:0;gss
+: 1471427145:0;gcof
+: 1471427146:0;gss
+: 1471427147:0;b
+: 1471427336:0;brails g migration add_episodes
+: 1471427798:0;brails db:migrate
+: 1471427806:0;gss
+: 1471427823:0;gam 'Episode table added to the database.'
+: 1471427826:0;gss
+: 1471427828:0;gaa
+: 1471427829:0;gss
+: 1471427840:0;git commit --amend
+: 1471427844:0;gp
+: 1471427872:0;tree test/models
+: 1471427889:0;t test/models/episode_test.rb
+: 1471427900:0;t app/models/episode.rb
+: 1471428032:0;brc
+: 1471428066:0;gss
+: 1471428067:0;gaa
+: 1471428068:0;gss
+: 1471428083:0;gm 'Basic Episode model and test added.'
+: 1471428084:0;gp
+: 1471428097:0;bcopfx
+: 1471428105:0;gaa
+: 1471428122:0;gam 'Rubocop fixes :police_car:'
+: 1471428123:0;gp
+: 1471827537:0;gss
+: 1471827539:0;v games.md
+: 1471827572:0;gss
+: 1471827574:0;gd
+: 1471827596:0;gss
+: 1471827597:0;gd
+: 1471827604:0;gss
+: 1471827613:0;gam 'Updated Now and Games page.'
+: 1471827615:0;v books.md
+: 1471827652:0;gam 'Updated Books page'
+: 1471827654:0;gp
+: 1471827661:0;gpl
+: 1471827665:0;rl
+: 1471827673:0;l bin
+: 1471827680:0;git fetch
+: 1471827682:0;gb
+: 1471827686:0;gb -all
+: 1471827688:0;gb --all
+: 1471827698:0;git_b name_it_something_god
+: 1471827700:0;git_b name_it_something_good
+: 1471827702:0;gpl
+: 1471827705:0;l bin
+: 1471827710:0;wh thes
+: 1471827715:0;thes dolphin
+: 1471827718:0;b
+: 1471827741:0;thes dolphin
+: 1471827776:0;tree app
+: 1471827780:0;vv
+: 1471827788:0;v
+: 1471827836:0;cd rails/caring-for-karen-sue/
+: 1471827839:0;gpl
+: 1471827846:0;dit branch
+: 1471827849:0;git remote
+: 1471827858:0;b
+: 1471827880:0;brspec
+: 1471827910:0;heroku
+: 1471827957:0;git branch
+: 1471827961:0;git remote
+: 1471827975:0;git remote --add
+: 1471828000:0;git remote add heroku https://git.heroku.com/test-caringforkarensue.git
+: 1471828004:0;git remote
+: 1471828009:0;v .git/config
+: 1471828015:0;deploy-heroku
+: 1471828023:0;heroku restart
+: 1471828029:0;heroku app
+: 1471828032:0;heroku apps
+: 1471828043:0;heroku -h
+: 1471828080:0;heroku run rails console
+: 1471828174:0;heroku restart
+: 1471828227:0;v circle.yml
+: 1471828305:0;gam 'Heroku now autodeploys, not circleci'
+: 1471828306:0;gss
+: 1471828309:0;v README.md
+: 1471828319:0;gss
+: 1471828322:0;gp
+: 1471829783:0;v books.md
+: 1471829814:0;gam 'Books updated.'
+: 1471829815:0;gp
+: 1471829867:0;gss
+: 1471829868:0;gp
+: 1471829901:0;suu
+: 1472431202:0;irb
+: 1472431486:0;gss
+: 1472431491:0;t sample.txt
+: 1472431496:0;irb
+: 1472431668:0;gs
+: 1472431672:0;gss
+: 1472431675:0;rm sample.txt
+: 1472431677:0;e
+: 1472431688:0;gpl
+: 1472431694:0;v games.md
+: 1472431829:0;gss
+: 1472431836:0;gam 'Updated Now and Games page'
+: 1472431836:0;gp
+: 1472431870:0;gpl
+: 1472431874:0;brake test
+: 1472431887:0;bguard
+: 1472431899:0;rl
+: 1472431909:0;v
+: 1472432076:0;iheartruby 'katrina owen'
+: 1472432103:0;iheartruby 'Katrina Owen' Exercism.IO
+: 1472432113:0;iheartruby 'Katrina Owen' 'https://Exercism.IO'
+: 1472432137:0;cd ~/personal-blog
+: 1472432138:0;gss
+: 1472432146:0;rm iheartruby-reasons.yml
+: 1472432156:0;rm _posts/2016-08-28-reason-\#1--katrina-owen.md
+: 1472432198:0;iheartruby
+: 1472432294:0;iheartruby aaaa
+: 1472432785:0;gwip
+: 1472730981:0;gpl
+: 1472730991:0;ch
+: 1472731004:0;ch 2.0
+: 1472731006:0;ch
+: 1472731008:0;b
+: 1472731075:0;gem onstall ruby_dep -v '1.4.0'
+: 1472731080:0;gem install ruby_dep -v '1.4.0'
+: 1472731099:0;rl
+: 1472731112:0;gss
+: 1472731113:0;b
+: 1472731117:0;bguard
+: 1472731149:0;ag
+: 1472731151:0;wh ag
+: 1472731153:0;ag puts
+: 1472731185:0;gss
+: 1472731188:0;e
+: 1472731191:0;gss
+: 1472731202:0;gam 'Removed debug out put'
+: 1472731203:0;gp
+: 1472734602:0;suu
+: 1472734623:0;e
+: 1472734640:0;v books.md
+: 1472734643:0;gpl
+: 1472734645:0;v books.md
+: 1472734699:0;gss
+: 1472734704:0;gam 'Updated Books page'
+: 1472734705:0;gp
+: 1472908176:0;gpl
+: 1472908232:0;suu
+: 1472908334:0;e
+: 1472909263:0;wh br
+: 1472909269:0;br db:rollback
+: 1472909723:0;br db:migrate
+: 1472909771:0;gss
+: 1472909781:0;git stash
+: 1472909783:0;gss
+: 1472909787:0;br db:rollback
+: 1472909796:0;git stash pop
+: 1472909807:0;br db:migrate
+: 1472909848:0;t app/models/audio_file.rb
+: 1472909860:0;t app/models/speaker.rb
+: 1472909868:0;t app/models/episode_speaker.rb
+: 1472910070:0;gd
+: 1472910556:0;b
+: 1472910835:0;bcopfx
+: 1472910851:0;ls ~/
+: 1472910853:0;lsa ~/
+: 1472910918:0;git clone git@github.com:trueheart78/dotfiles.git ~/my-dotfiles
+: 1472910926:0;cd ~/my-dotfiles
+: 1472910931:0;ch
+: 1472910931:0;b
+: 1472910934:0;l
+: 1472910941:0;script/setup
+: 1472910963:0;rl
+: 1472910965:0;lsa
+: 1472910968:0;lsa ~
+: 1472910983:0;l
+: 1472910987:0;cat README.md
+: 1472910991:0;l script
+: 1472910996:0;l lib
+: 1472911003:0;ag
+: 1472911006:0;wh ag
+: 1472911008:0;ag --help
+: 1472911010:0;ag -v
+: 1472911013:0;ag --version
+: 1472911032:0;ag -u rl
+: 1472911039:0;ag -u rl lib
+: 1472911055:0;v lib/sheller.rb
+: 1472911116:0;gss
+: 1472911130:0;gam 'Note about the :PlugInstall requirement for fresh vim setups'
+: 1472911132:0;gp
+: 1472911146:0;cd ~/rails/lifetab-podcast
+: 1472911147:0;gss
+: 1472911537:0;gaa
+: 1472911538:0;gss
+: 1472911554:0;gam 'Basic structure of models/database'
+: 1472911558:0;gp
+: 1472911563:0;tree test
+: 1472912655:0;e
+: 1472913220:0;irb
+: 1472913274:0;e
+: 1472913655:0;br db:rollback
+: 1472913669:0;br db:migrate
+: 1472914306:0;bguard
+: 1472914405:0;cd test/fixtures
+: 1472914405:0;l
+: 1472914409:0;cd files
+: 1472914410:0;l
+: 1472914414:0;mv * ../
+: 1472914416:0;l
+: 1472914417:0;u
+: 1472914418:0;l
+: 1472914426:0;rm -rf files
+: 1472914506:0;br db:migrate
+: 1472914594:0;uu
+: 1472914596:0;br db:migrate
+: 1472914604:0;br db:rollback
+: 1472914610:0;br db:migrate
+: 1472914619:0;cd db
+: 1472914621:0;l
+: 1472914624:0;u
+: 1472914632:0;bguard
+: 1472914637:0;l
+: 1472914640:0;cd db
+: 1472914641:0;l
+: 1472914656:0;br db:migrate RAILS_ENV=test
+: 1472914665:0;br db:rollback RAILS_ENV=test
+: 1472914679:0;l
+: 1472914684:0;rm test.sqlite3
+: 1472914688:0;br db:create
+: 1472914695:0;br db:migrate
+: 1472914701:0;br db:migrate RAILS_ENV=test
+: 1472914736:0;sqlite3 test.sqlite3
+: 1472914845:0;br db:rollback:all
+: 1472914849:0;br db:rollback
+: 1472914854:0;br db:rollback RAILS_ENV=test
+: 1472914901:0;br db:migrate RAILS_ENV=test
+: 1472915013:0;br db:migrate
+: 1472915449:0;gss
+: 1472915468:0;gcof test/fixtures/files/.keep
+: 1472915469:0;gss
+: 1472915646:0;brc
+: 1472916823:0;br db:rollback RAILS_ENV=test
+: 1472916829:0;br db:rollback
+: 1472916859:0;br db:migrate && br db:migrate RAILS_ENV=test
+: 1472916905:0;l test/fixtures
+: 1472916923:0;rm test/fixtures/episode_speakers.yml
+: 1472916994:0;rm app/models/episode_speaker.rb
+: 1472917076:0;br db:rollback && br db:rollback RAILS_ENV=test
+: 1472917112:0;br db:migrate && br db:migrate RAILS_ENV=test
+: 1472917262:0;gss
+: 1472917277:0;gcof app/models/episode_speaker.rb
+: 1472917293:0;br db:rollback && br db:rollback RAILS_ENV=test
+: 1472917430:0;gss
+: 1472917448:0;t test/fixtures/episode_speakers.yml
+: 1472917598:0;br db:migrate && br db:migrate RAILS_ENV=test
+: 1472917646:0;br db:rollback && br db:rollback RAILS_ENV=test
+: 1472917687:0;l
+: 1472917692:0;br db:migrate && br db:migrate RAILS_ENV=test
+: 1472917701:0;sqlite3 test.sqlite3
+: 1472917857:0;e
+: 1472917869:0;l test/fixtures/files
+: 1472917878:0;git rm test/fixtures/files/episodes.yml
+: 1472917884:0;rm test/fixtures/files/episodes.yml
+: 1472918020:0;bcopfx
+: 1472918076:0;gss
+: 1472918080:0;gaa
+: 1472918084:0;gss
+: 1472918131:0;gam 'Basic fixture setup for the new structure.'
+: 1472918133:0;gp
+: 1472923031:0;l test
+: 1472923669:0;bcop
+: 1472925699:0;l test
+: 1472925703:0;l test/models
+: 1472925708:0;cd test/models
+: 1472925710:0;cat episode_test.rb
+: 1472925743:0;cp episode_test.rb audio_file_test.rb
+: 1472925753:0;cp episode_test.rb speaker_test.rb
+: 1472925787:0;cp episode_test.rb episode_speaker_test.rb
+: 1472926169:0;bcopfx
+: 1472926195:0;uu
+: 1472926197:0;bcopfx
+: 1472926421:0;vsa
+: 1472926485:0;rl
+: 1472926488:0;rollback
+: 1472926505:0;migrate
+: 1472928851:0;tree test
+: 1472928873:0;t test/helpers/attribute_validation.rb
+: 1472929036:0;bcopfx
+: 1472929905:0;ag validate_attr
+: 1472930215:0;bcop
+: 1472930224:0;bcopfx
+: 1472930315:0;l test
+: 1472930320:0;cd test/helpers
+: 1472930324:0;l
+: 1472930352:0;uu
+: 1472930360:0;gss
+: 1472930366:0;gaa
+: 1472930368:0;gss
+: 1472930399:0;gam 'Tests around the data models now pass'
+: 1472930401:0;gp
+: 1472930413:0;wh deploy-heroku
+: 1472930416:0;deploy-heroku
+: 1472931488:0;heroku run
+: 1472931498:0;heroku run rails db:migrate
+: 1472931530:0;heroku ssh lifetab-audio-test
+: 1472931571:0;curl http://lifetab.podcast.trueheart78.com/episodes/123
+: 1472933944:0;wh gf
+: 1472933945:0;gf
+: 1472933949:0;gcom
+: 1472933956:0;gpl
+: 1472933959:0;b
+: 1472933965:0;gb
+: 1472933968:0;wh gbd
+: 1472933972:0;gb -D episodic-crud
+: 1472947080:0;cat /etc/hosts
+: 1472947234:0;sudo v /etc/avahi/avahi-daemon.conf
+: 1472947247:0;visduo /etc/avahi/avahi-daemon.conf
+: 1472947251:0;visudo /etc/avahi/avahi-daemon.conf
+: 1472947256:0;sudo vim /etc/avahi/avahi-daemon.conf
+: 1472947341:0;sudo service avahi-daemon restart
+: 1472947346:0;sudo service avahi-daemon stop
+: 1472947352:0;sudo service avahi-daemon start
+: 1472947407:0;sudo vim /etc/avahi/avahi-daemon.conf
+: 1472947464:0;sudo service avahi-daemon stop
+: 1472947499:0;sudo vim /etc/avahi/avahi-daemon.conf
+: 1472947506:0;e
+: 1473563840:0;gpl
+: 1473563845:0;v games.md
+: 1473563926:0;gss
+: 1473563931:0;gam 'Updated Games page.'
+: 1473563931:0;gp
+: 1473563970:0;v games.md
+: 1473563983:0;gam 'Updated Games page.'
+: 1473563984:0;gp
+: 1473564021:0;gpl
+: 1473628042:0;l
+: 1473628051:0;t favorite-games.md
+: 1473628056:0;head games.md
+: 1473628074:0;echo "---" >> favorite-games.md
+: 1473628085:0;echo "layout: page" >> favorite-games.md
+: 1473628091:0;head favorite-games.md
+: 1473628103:0;echo "title: Favorite Games" >> favorite-games.md
+: 1473628118:0;echo "permalink: /favorite-games/" >> favorite-games.md
+: 1473628121:0;echo "---" >> favorite-games.md
+: 1473628123:0;head favorite-games.md
+: 1473628128:0;v games.md
+: 1473628712:0;js
+: 1473628785:0;gss
+: 1473628786:0;gaa
+: 1473628791:0;gm 'Updated games page'
+: 1473628799:0;gp
+: 1473639233:0;cd ~/Dropbox/Books
+: 1473639242:0;find . -name='rails*'
+: 1473639246:0;find . --name='rails*'
+: 1473639254:0;find . -name 'rails*'
+: 1473639259:0;e
+: 1474023671:0;suu
+: 1474023751:0;exit
+: 1474023842:0;lsb_release -c
+: 1474023848:0;lsb_release -d
+: 1474023863:0;e
+: 1474025275:0;sudo chown -R $USER:$USER /media/josh/luvjosh
+: 1474025316:0;e
+: 1474025757:0;du ~/.local/share/Trash/ -ch
+: 1474025770:0;rm -rf ~/.local/share/Trash/*
+: 1474025776:0;va
+: 1474025812:0;rl
+: 1474025816:0;empty-trash
+: 1474025821:0;e
+: 1474026243:0;df
+: 1474026271:0;e
+: 1474026303:0;rm -rf ~/.Trash/*
+: 1474026313:0;empty-trash
+: 1474026405:0;sudo rm -rf ~/.Trash/*
+: 1474026411:0;sudo empty-trash
+: 1474026421:0;wh empty-trash
+: 1474026430:0;sudo rm -rf ~/.local/share/Trash/*
+: 1474026604:0;l /media/josh
+: 1474026608:0;l /media/josh/luvjosh
+: 1474026638:0;cp -R ~/Downloads/Ruby\ Tapas /media/josh/luvjosh/Ruby\ Tapas
+: 1474026658:0;uname -a
+: 1474026665:0;suu
+: 1474026686:0;sudo apt-get autoremove
+: 1474026698:0;df -h
+: 1474026709:0;df /media/josh -h
+: 1474026721:0;df -h /media/josh
+: 1474026724:0;df -h
+: 1474026903:0;cp -R ~/Downloads/Ruby\ Tapas /media/josh/luvjosh/
+: 1474026908:0;df -h
+: 1474026949:0;cp
+: 1474026953:0;cp --help
+: 1474026983:0;cp -Ri ~/Downloads/Ruby\ Tapas /media/josh/luvjosh/
+: 1474027027:0;rm -rf ~/Downloads/Ruby\ Tapas /media/josh/luvjosh/Ruby\ Tapas
+: 1474027033:0;cp -R ~/Downloads/Ruby\ Tapas /media/josh/luvjosh/
+: 1474049291:0;e
+: 1474049836:0;suu
+: 1474049851:0;e
+: 1474187816:0;cd personal-blog
+: 1474187817:0;gpl
+: 1474187822:0;v books.md
+: 1474187839:0;cd book-notes/
+: 1474187840:0;gpl
+: 1474187842:0;gl
+: 1474187852:0;ls working-with-tcp-sockets
+: 1474187856:0;e
+: 1474188030:0;cp books.md wishlist.md
+: 1474188033:0;v wishlist.md
+: 1474188430:0;gss
+: 1474188432:0;gaa
+: 1474188439:0;gm 'Added a wishlist page'
+: 1474188441:0;gp
+: 1474188445:0;v games.md
+: 1474188527:0;gss
+: 1474188529:0;v games.md
+: 1474188536:0;gss
+: 1474188542:0;gam 'Updated games page.'
+: 1474188543:0;gp
+: 1474188549:0;v books.md
+: 1474188618:0;v now.md
+: 1474188710:0;gp
+: 1474188715:0;gam 'Updated Now page'
+: 1474188715:0;gp
+: 1474188720:0;cd ~/my-dotfiles
+: 1474188721:0;gss
+: 1474188724:0;gd
+: 1474188746:0;gaa
+: 1474188763:0;gm 'New Aliases: migrate, rollback, empty-trash\
+;\
+'
+: 1474188768:0;git commit --amend
+: 1474188779:0;gca
+: 1474188783:0;wh gca
+: 1474188798:0;gp
+: 1474188802:0;rl
+: 1474188823:0;v now
+: 1474188831:0;v now.md
+: 1474188847:0;cd ~/personal-blog
+: 1474188848:0;v now.md
+: 1474188891:0;gam 'Updated Now page'
+: 1474188892:0;gp
+: 1474189031:0;tm blog
+: 1474189037:0;l _pending
+: 1474189042:0;v _pending/2016-08-11-make-rubocop-part-of-your-tests.md
+: 1474189075:0;cd ~/rails/lifetab-podcast
+: 1474189076:0;l
+: 1474189079:0;wh ag
+: 1474189083:0;ag rubocop
+: 1474189096:0;cat test/linters/rubocop_test.rb
+: 1474189118:0;v _pending/2016-08-11-make-rubocop-part-of-your-tests.md
+: 1474189222:0;v Gemfile
+: 1474189285:0;cat .rubocop.yml
+: 1474189372:0;u
+: 1474189375:0;cd caring-for-karen-sue
+: 1474189377:0;ag rubo
+: 1474189384:0;cat spec/lint/rubocop_spec.rb
+: 1474189863:0;gss
+: 1474189896:0;git mv _pending/2016-08-11-make-rubocop-part-of-your-tests.md _posts/2016-09-18-make-rubocop-part-of-your-tests.md
+: 1474189899:0;gss
+: 1474189901:0;js
+: 1474189927:0;cat .rubocop.yml
+: 1474190009:0;brspec
+: 1474190024:0;v .rubocop.yml
+: 1474190052:0;brspec
+: 1474190157:0;cat .rubocop.yml
+: 1474190163:0;gcof
+: 1474190165:0;cat .rubocop.yml
+: 1474190314:0;git mv _pending/2016-08-11-make-rubocop-part-of-your-tests.md _posts/2016-09-18-make-rubocop-part-of-your-tests.md
+: 1474190367:0;gss
+: 1474190378:0;rm _pending/2016-08-11-make-rubocop-part-of-your-tests.md
+: 1474190382:0;js
+: 1474190415:0;gss
+: 1474190418:0;gaa
+: 1474190419:0;gss
+: 1474190443:0;gm 'New blog post: Make Rubocop Part of Your Tests'
+: 1474190444:0;gp
+: 1474190467:0;gss
+: 1474190468:0;gl
+: 1474190528:0;v _posts/2016-09-18-make-rubocop-part-of-your-tests.md
+: 1474190553:0;gam 'Minor fix in new blog post'
+: 1474190554:0;gp
+: 1474190559:0;e
+: 1474205416:0;iheartruby xxxx
+: 1474205428:0;e
+: 1474205442:0;cd ~/personal-blog
+: 1474205444:0;gss
+: 1474205455:0;l
+: 1474205459:0;cd _pending
+: 1474205460:0;l
+: 1474205486:0;git mv 2016-08-14-heroku-setup-for-rails.md ../_posts/2016-08-18-heroku-setup-for-rails.md
+: 1474205487:0;u
+: 1474205488:0;gss
+: 1474205527:0;git mv _posts/2016-08-18-heroku-setup-for-rails.md _posts/2016-09-18-heroku-setup-for-rails.md
+: 1474205528:0;v
+: 1474205580:0;gss
+: 1474205594:0;gam 'New blog post: Heroku Setup for Rails'
+: 1474205595:0;gp
+: 1474205599:0;l
+: 1474205601:0;ls
+: 1474205602:0;u
+: 1474205816:0;wh iheartruby
+: 1474205823:0;cd ~/Ruby/simple-cl-tools
+: 1474205825:0;gss
+: 1474207468:0;vb
+: 1474207530:0;v
+: 1474207561:0;cd my-dotfiles
+: 1474207563:0;gss
+: 1474207577:0;gam 'New Vim Plugin: vim-test'
+: 1474207578:0;gp
+: 1474207587:0;e
+: 1474207619:0;vv
+: 1474207687:0;vb
+: 1474207791:0;cd ~/rails/lifetab-podcast
+: 1474207797:0;v
+: 1474207884:0;u
+: 1474207887:0;cd caring-for-karen-sue
+: 1474207888:0;v
+: 1474207939:0;e
+: 1474207957:0;cd ~/my-dotfiles
+: 1474207958:0;gss
+: 1474207968:0;gam 'Removed vim-rspec and setup vim-test plugin'
+: 1474207969:0;gp
+: 1474208227:0;v
+: 1474208399:0;vb
+: 1474208409:0;vv
+: 1474208428:0;v
+: 1474288085:0;gss
+: 1474288086:0;gd
+: 1474288104:0;gam 'New vim :Shell command'
+: 1474288105:0;gp
+: 1474288109:0;e
+: 1474288119:0;cd book-notes
+: 1474288124:0;l _yaml_
+: 1474288150:0;~/ruby/book-notes-generator/create
+: 1474288158:0;cd  ~/ruby/book-notes-generator
+: 1474288161:0;./create
+: 1474288166:0;./create -h
+: 1474288213:0;./create the-ruby-closures-book
+: 1474288216:0;cd ~/book-notes
+: 1474288224:0;v _yaml_/the-ruby-closures-book.yml
+: 1474288416:0;cd ruby/book-notes-generator
+: 1474288426:0;./import the-ruby-closures-book
+: 1474288444:0;v _yaml_/the-ruby-closures-book.yml
+: 1474288482:0;./import the-ruby-closures-book
+: 1474288505:0;v README.md
+: 1474288591:0;./create 99-bottles-of-oop
+: 1474288597:0;v _yaml_/99-bottles-of-oop.yml
+: 1474288804:0;./import 99-bottles-of-oop
+: 1474288823:0;v README.md
+: 1474288835:0;gss
+: 1474288838:0;gaa
+: 1474288851:0;gm 'New books to take notes for'
+: 1474288856:0;gp
+: 1474288860:0;e
+: 1474457876:0;exit
+: 1474457920:0;cd book-notes
+: 1474457921:0;l
+: 1474457926:0;v
+: 1474457978:0;tm books
+: 1474457987:0;v the-ruby-closures-book/ch01-closing-in-on-closures.md
+: 1474588502:0;cd my-dotfiles
+: 1474588504:0;gpl
+: 1474588514:0;e
+: 1474588529:0;v
+: 1474588775:0;vv
+: 1474588855:0;cd ~/my-dotfiles
+: 1474588856:0;gss
+: 1474588866:0;gam 'Better tick commands for vim'
+: 1474588866:0;gp
+: 1474588870:0;e
+: 1474588872:0;v
+: 1474744530:0;suu
+: 1474744575:0;e
+: 1474744578:0;cd my-dotfiles
+: 1474744579:0;gpl
+: 1474744588:0;gk
+: 1474744625:0;e
+: 1474744634:0;gpl
+: 1474744638:0;tm cli
+: 1474744645:0;gss
+: 1474744673:0;tree 
+: 1474744676:0;tree app
+: 1474744687:0;mkdir app/concepts/history_lessong
+: 1474744693:0;mkdir spec/concepts/history_lessong
+: 1474744706:0;mkdir test/concepts/history_lesson
+: 1474744716:0;mkdir app/concepts/history_lesson
+: 1474744725:0;rm -r app/concepts/history_lessong
+: 1474744735:0;t app/concepts/history_lesson/show.rb
+: 1474744745:0;t test/concepts/history_lesson/show_test.rb
+: 1474744752:0;l bin
+: 1474744766:0;t bin/history_lesson
+: 1474744784:0;git mv bin/better-phpunit bin/better_phpunit
+: 1474744794:0;chmod +x bin/history_lesson
+: 1474744796:0;v
+: 1474744886:0;tree app
+: 1474744983:0;t app/models/vim_history.rb
+: 1474744988:0;t app/models/shell_history.rb
+: 1474745009:0;t test/models/vim_history_test.rb
+: 1474745014:0;t test/models/shell_history_test.rb
+: 1474745015:0;gss
+: 1474745107:0;wh br
+: 1474745109:0;wh brb
+: 1474745119:0;brb test/concepts/history_lesson/show_test.rb
+: 1474745242:0;brb test/models/vim_history_test.rb
+: 1474745341:0;brb test/models/shell_history_test.rb
+: 1474745382:0;tree spec
+: 1474745385:0;tree test
+: 1474745402:0;mkdir test/shared
+: 1474745427:0;t test/shared/history_format.rb
+: 1474745504:0;brb test/models/shell_history_test.rb
+: 1474745622:0;brb test/models/vim_history_test.rb
+: 1474745628:0;gss
+: 1474745796:0;brb test/models/vim_history_test.rb
+: 1474745969:0;ruby test/
+: 1474745975:0;bguard
+: 1474745989:0;bcopfx
+: 1474745994:0;gss
+: 1474745997:0;bguard
+: 1474746017:0;gss
+: 1474746020:0;gaa
+: 1474746021:0;gss
+: 1474746034:0;gm 'Stubbing out the History Lesson and related classes.'
+: 1474746035:0;gp
+: 1474746046:0;thes booger_butt
+: 1474746058:0;name_it boog_butt
+: 1474746061:0;name_it booger_butt
+: 1474746340:0;l
+: 1474746365:0;mkdir test/fixtures/vim_history/
+: 1474746373:0;mkdir test/fixtures/shell_history/
+: 1474746394:0;t test/fixtures/shell_history/default_history.txt
+: 1474746412:0;t test/fixtures/vim_history/default_history.txt
+: 1474746413:0;gss
+: 1474746550:0;cat ~/.zsh_history > test/fixtures/shell_history/zsh_sample.txt

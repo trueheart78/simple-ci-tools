@@ -5,6 +5,7 @@ require 'date'
 require 'yaml'
 
 class AlreadyCountedThisWayError < StandardError; end
+class DirtyGitError < StandardError; end
 
 if ARGV.empty?
   puts 'Error: A title for your post is required'
@@ -120,6 +121,18 @@ def content
     real_content
   ].join "\n"
 end
+
+puts blog_dir
+Dir.chdir(blog_dir) do
+  clean = `git status`.include?('working directory clean')
+  raise DirtyGitError unless clean
+  # write_file(s)
+  `echo '#{content}' > #{full_file}`
+  save_count
+  puts clean
+end
+
+raise IncompleteCode
 
 puts "Writing '#{full_file}'..."
 puts `cd #{blog_dir}` # `&& git stash -u`
